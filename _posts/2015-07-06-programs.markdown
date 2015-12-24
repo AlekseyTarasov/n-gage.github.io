@@ -43,7 +43,7 @@ tags: [programs]
 
 ##Game Manager for n-gage Classic##
 
-![GameManager](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager.jpg) 
+![GameManager](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/gamemanager.jpg) 
 
 Диспетчер игр от n-gage qd. Позволяет просматривать ваши сохранения. делать их беккакп и восстановление. Устанавливать только на n-gage classic, на qd он изначально в прошивке. 
 
