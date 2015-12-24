@@ -30,6 +30,16 @@ tags: [programs]
 
 [download 1.5 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/Patch_UcWeb_v7.9.zip)
 
+##Яндекс.Карты##
+
+{:.img-center}
+![yandex-maps](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/UClogo.png)
+
+Отлично работающее карты для нашей старушки. Версия 2.8
+
+Яндекс.Карты — это поиск улиц, домов и организаций, актуальная информация о пробках, спутниковые снимки, определение местоположения и многое другое, что помогает ориентироваться в городе.
+
+[download 204 kb](http://md.ya.ru/download/maps/yandexmaps-s60v1.sis)
 
 ##Game Manager for n-gage Classic##
 
