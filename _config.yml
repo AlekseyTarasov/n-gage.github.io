@@ -1,0 +1,9 @@
+# Site settings
+title: Anyone. Anywhere 
+email: chuprinalexis@gmail.com
+description: "nokia n-gage library"
+url: "http://n-gage.xyz" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+excerpt_separator: <!--more-->
