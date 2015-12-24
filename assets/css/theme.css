@@ -1,0 +1,186 @@
+/* Layout */
+
+body {
+	color: #959697;
+	line-height: 1.6em;
+  font-family: 'Anonymous Pro', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.813rem;
+}
+
+.wrapper {
+	width: 100%;
+	min-width: 1000px;
+}
+
+
+
+/* Header */
+
+.site-header{
+     margin: 0;
+     color: #333;
+     text-align: center;
+}
+
+/* --------------------------------------------------------------
+  Main Nav
+-------------------------------------------------------------- */
+
+.menu {
+  overflow: hidden;
+  margin: 0 auto 4em;
+  text-align: center;
+  line-height: 2em;
+  width: 40%;
+}
+
+.menu ul {
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  display: inline-block;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.menu a {
+  background: #000 none repeat scroll 0% 0%;
+  color: #FFF;
+  padding: 2px 4px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background: #FFF none repeat scroll 0% 0%;
+  color: #000;
+}
+
+
+/* Random Logo */
+
+/* make keyframes that tell the start state and the end state of our object */
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+	opacity:0;
+	-webkit-animation:fadeIn ease-out 1; 
+	-moz-animation:fadeIn ease-out 1;
+	animation:fadeIn ease-out 1;
+
+	-webkit-animation-fill-mode:forwards;
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+
+	-webkit-animation-duration:1s;
+	-moz-animation-duration:1s;
+	animation-duration:1s;
+}
+
+#road {
+  display: none;
+}
+
+
+#park {
+  display: none;
+}
+
+
+#caravan {
+  display: none;
+}
+
+/* Middle */
+
+.content {
+  margin: 0px auto 50px;
+  padding: 0px 2em;
+  max-width: 800px;
+}
+
+.post{
+  margin-top: 6em; 
+}
+
+.post span {
+  display: inline-block;
+  color: #999;
+    margin-right: 10px;
+    width: 10px;
+}
+
+.post-header a {
+    border-bottom: 1px solid #CCC;
+    color: #000;
+    margin-right: 15px;
+    font-size: 13px;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+.post-header a:hover {
+  border-bottom: #000 1px solid;
+  color: #000;
+}
+
+
+.post h2 {
+  letter-spacing: 0.1em;
+  color: #999;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  margin-top: 2em;
+}
+
+
+.up {
+  width: 16px;
+  height: 16px;
+  position: fixed;
+  bottom: 10%;
+  right: 5%;
+  display: none;
+}
+
+
+/* Basic Styles */
+
+
+a {
+    text-decoration: none;
+    color: #333;
+    -webkit-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    transition: all .15s linear;
+}
+
+a:hover, a:active {
+    color: #999;
+    -webkit-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    transition: all .15s linear;
+}
+
+.img-center {
+  text-align: center;
+}
+
+
+
+/* Footer */
+
+.site-footer {
+    text-align: center;
+}
