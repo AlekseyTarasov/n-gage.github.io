@@ -28,7 +28,7 @@ tags: [programs]
 
 За патч спасибо yarig
 
-[download 2 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/Patch_UcWeb_v7.9.zip)
+[download 1.5 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/Patch_UcWeb_v7.9.zip)
 
 
 ##Game Manager for n-gage Classic##
@@ -39,4 +39,4 @@ tags: [programs]
 
 Диспетчер игр от n-gage qd. Позволяет просматривать ваши сохранения. делать их беккакп и восстановление. Устанавливать только на n-gage classic, на qd он изначально в прошивке. 
 
-[download 101 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager_for_Classic.SIS)
+[download 98.7 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager_for_Classic.SIS)
