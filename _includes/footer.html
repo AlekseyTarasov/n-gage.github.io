@@ -1,0 +1,58 @@
+<footer class="site-footer">
+
+
+</footer>
+
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    var values = ["road","park","caravan"];
+    var chosenValue = values[Math.floor(Math.random() * values.length)];
+    var chosenDiv = document.getElementById(chosenValue);
+        chosenDiv.style.display = "block";
+  });
+</script>
+
+<script>
+  $('a[href^="#"]').on('click', function(event) {
+    var target = $( $(this).attr('href') );
+    if( target.length ) {
+      event.preventDefault();
+      $('html, body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+    }
+  });
+</script>
+
+<script>
+$("body").on("contextmenu", "img", function(e) {
+  return false;
+});
+</script>
+
+<script>
+$(document.links).filter(function() {
+  return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
+</script>
+
+<script>
+$(document).ready(function () {
+  $(window).scroll(function () {
+      if ($(this).scrollTop() > 100) {
+        $('.up').fadeIn();
+      } else {
+        $('.up').fadeOut();
+      }
+  });
+  $('.up').click(function () {
+    $("html, body").animate({
+      scrollTop: 0
+    }, 600);
+    return false;
+  });
+});
+</script>

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  <article class="post">
+	<section class="post-header">
+	    <span>{{ post.date | date: "%d" }}</span><a href="#logo" id="{{ post.tags }}">{{ post.title }}</a>
+    </section>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
