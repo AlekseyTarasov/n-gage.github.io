@@ -1,0 +1,6 @@
+---
+title: "Outro"
+date: 2015-05-08
+tags: [outro]
+---
+

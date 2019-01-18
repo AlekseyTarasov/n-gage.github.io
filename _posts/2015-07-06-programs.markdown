@@ -20,31 +20,23 @@ tags: [programs]
 
 Пaтч чтoбы в вaшeм бpayзepe зapaбoтaли фyнкций: "Зaклaдки" и "Moя нaвигaция". Для вepcий v7.9.
 
-Установка:
+**Установка:**
 
 1. копируем папку System в корень диска D
 2. заходим в UcWeb далее зaклaдки - кoпий - импopт пepcoнaльныx дaнныx/peзepвныe зaклaдки и выбираем фaйл c oкoнчaниeм: ".bak"
 3. перезапускаем браузер
 
-За патч спасибо yarig
+За патч спасибо **yarig**
 
-[download 1.5 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/Patch_UcWeb_v7.9.zip)
+[download 2 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/Patch_UcWeb_v7.9.zip)
 
-##Яндекс.Карты##
-
-{:.img-center}
-![yandex-maps](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/UClogo.png)
-
-Отлично работающее карты для нашей старушки. Версия 2.8
-
-Яндекс.Карты — это поиск улиц, домов и организаций, актуальная информация о пробках, спутниковые снимки, определение местоположения и многое другое, что помогает ориентироваться в городе.
-
-[download 204 kb](http://md.ya.ru/download/maps/yandexmaps-s60v1.sis)
 
 ##Game Manager for n-gage Classic##
 
-![GameManager](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/gamemanager.jpg) 
+{:.img-center}
+![GameManager](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager01.jpg) 
+![GameManager](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager02.jpg)
 
 Диспетчер игр от n-gage qd. Позволяет просматривать ваши сохранения. делать их беккакп и восстановление. Устанавливать только на n-gage classic, на qd он изначально в прошивке. 
 
-[download 98.7 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager_for_Classic.SIS)
+[download 101 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager_for_Classic.SIS)

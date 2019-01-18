@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Anyone. Anywhere</title>
+  <meta name="description" content="nokia n-gage library">
+
+  <link href='https://fonts.googleapis.com/css?family=Anonymous+Pro&subset=cyrillic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/assets/css/theme.css">
+  <link rel="canonical" href="http://n-gage.xyz/">
+  <link rel="alternate" type="application/rss+xml" title="Anyone. Anywhere" href="http://n-gage.xyz/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+  <nav class="menu">
+    <ul>
+      <li><a href="#intro">Intro</a></li>
+      <li><a href="#beginnings">Beginnings</a></li>
+      <li><a href="#games">Games</a></li>
+      <li><a href="#russification">Russification</a></li>
+      <li><a href="#utilities">Utilities</a></li>
+      <li><a href="#programs">Programs</a></li>
+      <li><a href="#themes">Themes</a></li>
+      <li><a href="#outro">Outro</a></li>
+    </ul>
+  </nav>
+
+  <div class="fade-in">
+    <div id="road">
+      <a href="/" title="Road" class="logo"><img src="/assets/images/road.png" alt="Road"></a>
+    </div>
+
+    <div id="park">
+      <a href="/" title="Park" class="logo"><img src="/assets/images/park.png" alt="Park"></a>
+    </div>
+
+    <div id="caravan">
+      <a href="/" title="Caravan" class="logo"><img src="/assets/images/caravan.png" alt="Caravan"></a>
+    </div>
+  </div>
+</header>
+
+
+    <main class="content">
+        
+  <article class="post">
+	<section class="post-header">
+	    <span>01</span><a href="#logo" id="intro">Intro</a>
+    </section>
+    
+
+  </article>
+
+  <article class="post">
+	<section class="post-header">
+	    <span>02</span><a href="#logo" id="beginnings">Beginnings</a>
+    </section>
+    <h2 id="overclock">overclock</h2>
+
+<p>Начнем с самого нужного, с оверклокинга <strong>оригинальной n-gage</strong> (только её и ни для чего больше. Не пытайтесь разгонять им кофеварки или настольные компьютеры. Вероятность запуска этой программы на других устройствах нулевая).</p>
+
+<p>Изначально Nokia N-Gage Classic имеет процессор <a href="http://en.wikipedia.org/wiki/ARM9">ARM-9</a> с тактовой частотой 104 MHz.
+Благодаря товарищу <a href="http://zg.livejournal.com">z.g</a>, Classic’у удалось разогнать до 149 MHz.</p>
+
+<p>Перед началом сравните производительность системы без установленого overclock при помощи <a href="http://web.archive.org/web/20050214221514/http://www.futuremark.com/download/spmark04/">
+SPMark™04 (Build 1.1.0)</a></p>
+
+<p>Установка:</p>
+
+<ol>
+  <li>Форматируем карту памяти (жедательно иметь карту на 512мб или меньше так как это оптимальное соотношение между объёмом памяти и скоростью считывание информации)</li>
+  <li>Форматируем сам n-gage classic (можно этого не делать, но я всегда ставил overclock на чистую систему)</li>
+  <li>Скачиваем <a href="http://sourceforge.net/projects/almalert/files/fixss/1.06/fixss_1_06.zip/download">Fixss v1.06</a> и ставим на <strong>Карту Памяти</strong>.</li>
+  <li>Теперь скачиваем <a href="http://sourceforge.net/projects/almalert/files/speedup/0.666/speedup_0_666.zip/download">SpeedUp v.0.666</a> и тоже ставим на <strong>Карту Памяти</strong>.</li>
+  <li>Перезагружаем N-Gage Classic.</li>
+</ol>
+
+<p>Программа запускается сама примерно через 2 секунды после полной загрузки системы (появления экрана с часами).</p>
+
+<p>Если по какой-то причине вам понадобится на время неразогнанный N-Gage - выключите его, зажмите кнопку “влево”, и удерживая её - влючите всё обратно. Кнопку можно отпустить после полной загрузки - экрана с часиками.</p>
+
+<p>Устанавливаем еще раз <a href="http://web.archive.org/web/20050214221514/http://www.futuremark.com/download/spmark04/"> 	
+SPMark™04</a> и сравниваем показатели с теми что были до overclock.</p>
+
+<p>Есть несколько проблем и несколько решений этих самых проблем.</p>
+
+<p>Сбиваються часы (когда нужно поменять sim карту) - решение - есть в almalert несколько недокументированных хоткев, одна из них открывает синхронизацию времени через интернет. Заходим в <strong>almalert</strong> нажимаем кнопку “0” и еще раз “0” (не всегда работает, иногда приходиться сбрасывать интернет подключение через зажатие “красной трубки”).</p>
+
+<p>Всем известно, что на диске С (память телефона) есть файлы, с которыми нельзя ничего сделать (переименовать, переместить, заменить и даже скопировать нельзя!).
+Но теперь можно и это!!!
+Достаточно запустить встроенную в телефон утилиту “Резервное копирование” (Меню/средства/память/функции/скопировать память телефона на карту).
+И, пока идет этот процесс, с диском С можно делать всё что угодно!
+Например, можно восстановить файл с контактами (что мной было успешно проделано) из ранее скопированного. Можно создать ПОЛНУЮ КОПИЮ диска С(!!!) для последующего восстановления и т.д.</p>
+
+<p>Способ, к сожалению работает на всех версиях симбы кроме 9-ки (???).</p>
+
+<p>Удачи вам..)</p>
+
+<h2 id="disassembly">disassembly</h2>
+
+<p>Пару инструкций по разборе n-gage classic</p>
+
+<iframe width="800" height="400" src="//www.youtube.com/embed/c94TNlsrH5k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+
+<p>и n-gage qd</p>
+
+<iframe width="800" height="400" src="//www.youtube.com/embed/VpVlCqtICTQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+
+
+  </article>
+
+  <article class="post">
+	<section class="post-header">
+	    <span>03</span><a href="#logo" id="games">Games</a>
+    </section>
+    <p>Все официально вышедшие игры можно скачать одним архивом на <a href="http://rutracker.org/forum/viewtopic.php?t=2955170">Rutracker.org</a>. На моей QD из 7 проверенных не пошла только SSX</p>
+
+<p>Так же выкладываю правильную сборку libs от zg. Устанавливаем сперва ее , папку libs из архива кидаем в E:\System</p>
+
+<p><a href="http://dl.dropbox.com/u/33967130/n-gage/games/zg-libs.zip">download 86 kb</a></p>
+
+<h2 id="call-of-duty-limited-edition">Call of Duty Limited Edition</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/w_b59bf897.jp" alt="COD" /></p>
+
+<p>Именно с этого картриджа был снят, крякнут и в дальнейшем выложен в сеть данный ром: CoD_Limited_Edition_by_pSyGAGE_&amp;_NNG-TEAM.PL Данная версия CoD’а отличается от ритейла (v3.6a) большим количеством FPS и парой дополнительных уровней.</p>
+
+<p>За ром , большое спасибо <a href="https://vk.com/manofhonor">Bounty Hunter </a> !!</p>
+
+<p><a href="http://dl.dropbox.com/u/33967130/n-gage/games/CoD_Limited_Edition_by_pSyGAGE_&amp;_NNG-TEAM.PL.rar">download 20.26 mb</a></p>
+
+<h2 id="quake-i-prealpha-006">Quake I PreAlpha 0.06</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/quakeone.png" alt="quakeone" /></p>
+
+<p>Описание (<a href="https://ru.wikipedia.org/wiki/Quake">взял с Википедии</a>):
+<br />
+Вы — безымянный солдат, разбуженный утром своим командиром. Неизвестный враг под кодовым именем Quake опустошает вашу военную базу, засылая легионы смерти через телепортационные врата, называемые «Slipgate». Вы призваны возглавить операцию по возмездию «Контрудар» (Counterstrike), пройдя через эти врата на территорию врага, и разгромить его в его измерениях.</p>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/QuakeI-one.jpg" alt="QuakeI" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/QuakeI-two.jpg" alt="QuakeI" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/QuakeI-three.jpg" alt="QuakeI" /></p>
+
+<p><a href="http://sourceforge.net/projects/quakes60/">Официальный сайт проекта</a></p>
+
+<p>Установка:
+<br />
+Нам понадобиться оригинальный pak0.pak. Найти его можно в google (но лучше всего поддержать id Software)</p>
+
+<ol>
+  <li>Папку id1 из архива quakes60-ngage.zip  скопировать в корень карты памяти (E:)</li>
+  <li>Файлик pak0.pak положить в папку id1</li>
+  <li>Запускать файл quakes60.exe любым файловым менеджером (конечно же на самой n-gage)</li>
+</ol>
+
+<p><a href="http://dl.dropbox.com/u/33967130/n-gage/games/quakes60-ngage.zip">download 225.71 kb</a></p>
+
+<h2 id="days-salvation">7 Days Salvation</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/7_Days_Salvation.png" alt="7Days" /></p>
+
+<p>7 Days - 3D хоррор в лучших традициях данного жанра, для мобильных устройств на платформе s60 от китайской команды разработчиков DINGOO GAMES (сайт к сожалению мертв).</p>
+
+<p>**Описание:
+<br />
+Главным действующим персонажем, является молодой писатель по имени Сальватор Кен.Который, в поисках уединения прибывает в свой загородный особняк,дабы в спокойной обстановке закончить работу над своим недописанным произведением. Вскоре после чего, становиться узником собственного дома и попадает в круговорот мистических событий… На первый взгляд показавшихся ему бредовым сном… От которого,казалось бы,его может освободить внезапное пробуждение,но все же понимает, что на самом деле - это происходит с ним реально,здесь и сейчас…..</p>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/7dayssalvation.jpg" alt="7Days" /></p>
+
+<p>От себя
+<br />
+Любителям Silent Hill, да и тем кто еще не играл в нее стоит обязательно попробовать. Игра хоть и на Китайском языке но это самая полная на сегодняшний день версия, в ней присутствует все 7 дней. Устанавливаем как обычно, папку System кидаем в корень диска D.</p>
+
+<p>Спасибо <a href="http://dimonvideo.ru/">dimonvideo</a> за описание, <a href="https://vk.com/nikogosan">Сергей Никогосян</a> за образ игры.</p>
+
+<p><a href="http:/narod.ru/disk/44048256001.31d6829ca5ba25f40f6b72d44157272d/7days_v1_176208.rar.html">download 23.75 mb</a></p>
+
+<h2 id="saves-for-games">Saves for games</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/saves.png" alt="Saves" /></p>
+
+<p>Сохранения для 39 игр N-gage и Krally. За старания спасибо kirill475
+<br />
+Пересобрал архив заново. Извлек все из zip и sis контейнеров, разложил красиво по папкам. В некоторых папках есть Readme файл.</p>
+
+<p>Установка:
+<br /></p>
+
+<ol>
+  <li>Я думаю все пользовались хоть раз файловым менеджером на своей n-gage, все игры сохраняются по пути С:\System\Apps\ 
+Вот туда и скидываем нужный сейв. К примеру сейв для игры One имеет папку вида 6R58, находим игру One в архиве и копируем оттуда папку 6R58 по пути С:\System\Apps\</li>
+</ol>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/games/n-gage_saved_40_games.zip">download 607 kb</a></p>
+
+
+  </article>
+
+  <article class="post">
+	<section class="post-header">
+	    <span>04</span><a href="#logo" id="russification">Russification</a>
+    </section>
+    <p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/rus.jpg" alt="Saves" /></p>
+
+<p>Cобрал архив с русификациями для официальных n-gage игр. В архивах содержаться как полные русифицированные игры, так и патчи к ним. Смотрим пункт “Состояние”, если zip archive, то это обычный патч. Если Cracked или Demo, то полностью вся игра. Я думаю, ничего сложного в этом нету, переводов не так уж много. Разберетесь</p>
+
+<p>Установка:</p>
+
+<ol>
+  <li>папку System кидаем в корень диска E:\</li>
+  <li>соглашаемся на замену файлов (если использовали патч)</li>
+</ol>
+
+<p>По просьбам авторов, сохранил оригинальные ссылки на архивы.</p>
+
+<h2>Tom Clancy's Splinter Cell: Chaos Theory</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/Splinter_Cell_Chaos_Theory.png" alt="SplinterCell" /></p>
+
+<p>Версия: 1.0.240
+<br />
+Автор перевода: zg и eskander
+<br />
+Состояние: zip archive</p>
+
+<p>Описание:</p>
+
+<p>Эксклюзив, так сказать. Недавний проект zg и eskander по русификации Сема Фишера. Портированная озвучка и видео от GFI (ООО «Бествей»).  К лету обещали заняться текстом.</p>
+
+<h2>Red Faction</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/RedFaction.jpg" alt="RedFaction" /></p>
+
+<p>Версия: 1.0 от 01/09/2010
+<br />
+Автор перевода: lupus
+<br />
+Состояние: Cracked</p>
+
+<p>От руководителя и вдохновителя проекта lupus:</p>
+
+<p>Все думали что платформа N-Gage 1.0 мертва и никому не интересна, но это не так. Начав ковырять Red Faction, я выложил несколько скриншотов с демонстрацией русского шрифта и вообще возможности перевести игру на великий и могучий. Несколько человек заинтересовались проектом и оказывали посильную помощь в приближении релиза.
+Сначала планировался перевод только текстовой части, но благодаря помощи eskander ‘а из версии для ПК были вытянуты текстуры и озвучка от “Фаргуса”, которые были успешно перенесены в версию для N-gage.
+А с недостающими текстурами помог Mercyful. На все работы ушло более 3-х месяцев, теперь вы можете скачать русскую версию игры.</p>
+
+<p>Установка:</p>
+
+<ol>
+  <li>Скопируйте содержимое архива на карту памяти</li>
+  <li>Запустите игру</li>
+  <li>В меню настроек выберите русский язык</li>
+</ol>
+
+<p>Команда перевода:</p>
+
+<p>Хак, перевод, редактирование……………………Алексей “lupus “ Барсуков
+<br />
+Помощь в локализации и тестировании………..Лев “eskander “ Ашомко, Андрей “Lock_Dock “ Романов, Сергей “bul” Булгин
+<br />
+Часть графики…………………………………………Mercyfull</p>
+
+<h2>Call of Duty</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/call.gif" alt="CallofDuty" /></p>
+
+<p>Версия: 1.0
+<br />
+Автор перевода: Bounce1986
+<br />
+Состояние: zip archive</p>
+
+<h2>The Elder Scrolls Travels: Shadowkey</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/call.gi" alt="TES" /></p>
+
+<p>Версия: 1.0
+<br />
+Автор перевода: k111nn
+<br />
+Состояние: zip archive</p>
+
+<p>Описание:</p>
+
+<p>Полный перевод игры TES Shadowkey</p>
+
+<h2>System Rush</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/SystemRush00.png" alt="SystemRush" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/SystemRush01.png" alt="SystemRush" /></p>
+
+<p>Версия: 6.28
+<br />
+Состояние: Demo</p>
+
+<p>Описание:</p>
+
+<p>Демо версия System Rush с рускими надписями.</p>
+
+<h2>Virtua Cop</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/VirtuaCop.jpg" alt="VirtuaCop" /></p>
+
+<p>Версия: 1.05.27
+<br />
+Автор перевода: lupus и eskander
+<br />
+Состояние: Cracked</p>
+
+<p>Описание:</p>
+
+<p>Очередной подарок всем ретро геймерам и фанатам гаги.
+Сегодня решили релизить русской версию рельсового шутера от Sega, так и не изданную официально Virtua Cop.
+Весь текст, который стоило и можно было перевести теперь на русском.
+Все подробности во вложенном файле ридми, который мы просим сохранять в архиве, если вдруг захотите где-то в другом месте выложить игру.</p>
+
+<h2>Puyo Pop</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/puyox.jpg" alt="PuyoPop" /></p>
+
+<p>Версия: 1.0
+<br />
+Автор перевода: lupus
+<br />
+Состояние: Cracked
+<br /></p>
+
+<p>Описание:</p>
+
+<p>Посмотрел я свой старый перевод и остался, мягко говоря, недоволен его качеством.
+Да и переведено было не всё, т.к. я не знал, как исправить рисованные шрифты, что ставило крест на переводе диалогов между уровнями и заданий к Головоломкам.</p>
+
+<p>В версии 2.0 полностью переработан весь старый текст версии 1.0, а так же:
++ перерисована вся графика
++ перерисованы встроенные шрифты
++ переведены все игровые диалоги между персонажами
++ переведены все задания к головоломкам
++ фиолетовые пуйо теперь темнее, чтобы не путать их с синими
++ подпись к иконке в меню “Пуйо Поп”</p>
+
+<p>Теперь можно сказать, что перевод выполнен на 100%.</p>
+
+
+  </article>
+
+  <article class="post">
+	<section class="post-header">
+	    <span>05</span><a href="#logo" id="utilities">Utilities</a>
+    </section>
+    <h2 id="almalert">almalert</h2>
+
+<p><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/almalert.jpg" alt="almalert" /></p>
+
+<p>Заменяет собой стандартный будильник расширяя его функциональность. В данный момент по сравнению с обычным реализована следующая дополнительная функциональность:</p>
+
+<ol>
+  <li>установка любой mid/wav/amr/rng мелодии на звонок будильника.</li>
+  <li>установка любой mid/wav/amr/rng мелодии на звонок календаря.</li>
+  <li>сигнал в начале каждого часа с настройкой мелодии и периода срабатывания.</li>
+  <li>настройка snooze period.</li>
+  <li>настройка snooze count.</li>
+  <li>оповещение о днях рождения на основе информации из адресной книги.</li>
+</ol>
+
+<p>В отличии от всех остальных будильников сторонних разработчиков, almalert выполнен не в виде отдельного, чужеродного для symbian os сервиса, а в виде плагина к стандартному alarm сервису, что дает следующие плюсы:</p>
+
+<ol>
+  <li>более низкую вероятность потери сигнала будильника.</li>
+  <li>работа при выключенном устройстве.</li>
+  <li>совместимость со стандартным проигрывателем музыкальных файлов и стандартным радио.</li>
+</ol>
+
+<p>Совместимость: n-gage, qd, 3650.</p>
+
+<h2 id="fixss">fixss</h2>
+
+<p>исправляет три проблемы:</p>
+
+<ol>
+  <li>устраняется часто возникающая ошибка при старте телефона, связанная с ошибкой в реализации стандартного проигрывателя музыкальных файлов;</li>
+  <li>отключается часть механизма защиты, которая приводит к лагам телефона при большом количестве игр и приложений на карте.</li>
+  <li>отключается писк каждые пять секунд во время записи телефонных разговоров. совместимость: n-gage.</li>
+</ol>
+
+<p><a href="http://sourceforge.net/projects/almalert/files/fixss/1.06/fixss_1_06.zip/download">download 3.4 kB</a></p>
+
+<h2 id="langsw">langsw</h2>
+
+<p>плагин к fixss для n-gage classic, для быстрого переключения английского и русского языков по “комбинации карандаш + c”. После установки обязательно перезагрузиться.</p>
+
+<p><a href="http://sourceforge.net/projects/almalert/files/langsw/1.0/langsw_1_0.zip/download">download 2.7 kB</a></p>
+
+<h2 id="fixqd">fixqd</h2>
+
+<p>отключается часть механизма защиты, которая приводит к лагам телефона при большом колличестве игр и приложений на карте. для n-gage qd</p>
+
+<p><a href="http://sourceforge.net/projects/almalert/files/fixqd/0.666/fixqd_0_666.zip/download">download 2.1 kB</a></p>
+
+<h2 id="msvdrivee">MsvDriveE</h2>
+
+<p><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/MsvDriveE.jpg" alt="MsvDriveE" /></p>
+
+<p>Программка которая позволяет сохранять сообщения на карту памяти, для тех телефонов где это не предусмотрено.</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/MsvDriveE.sis">download 1.2 kB</a></p>
+
+<h2 id="eq-hashsilent">EQ HashSilent</h2>
+
+<p>программа для аппаратов, в которых нельзя переключать беззвучный режим зажатием клавиши “#” (N-Gage).
+Никаких настроек, никаких значков - установил и забыл. Потребление памяти минимально.</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/eqhashsilent.sis">download 6 kB</a></p>
+
+<h2 id="nlights">NLights</h2>
+
+<p>Программа позволяет уменьшать яркость подсветки.</p>
+
+<h2 id="hidemusic">HideMusic</h2>
+
+<p><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/hidemusic.jpg" alt="HideMusic" /></p>
+
+<p>Программа которая помогает избавиться от долгого включения родного плеера на n-gage classic. hidemusic помогает выбрать только те папки, которые вы хотите прослушать, делая для плеера невидимыми остальные.</p>
+
+<p>Папки с музыкой кладeте по пути E:\Music\ Треки по отдельности программа не видит! Только для на n-gage classic.</p>
+
+
+  </article>
+
+  <article class="post">
+	<section class="post-header">
+	    <span>06</span><a href="#logo" id="programs">Programs</a>
+    </section>
+    <h2 id="ucweb">UcWeb</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/UClogo.png" alt="UClogo" /></p>
+
+<p>Единственный для меня нормальный работающий браузер на n-gage. Скачать можно с официального сайта</p>
+
+<p>Я пользуюсь последней версией браузера <a href="http://www.ucweb.com/wor/prd/prd/nokia-NGage-xz-15263.html">v.7.9.1.120 (Build 11120910)</a>. Хоть там и возникла проблема с функцией закладки, но она решаема при помощи патча.</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/UCBrowser_V7.9.1.120_S60V1_pf26_%28Build11120910%29.sis">download 1.0 mb</a></p>
+
+<h2 id="patch-for-ucweb">Patch for UcWeb</h2>
+
+<p>Пaтч чтoбы в вaшeм бpayзepe зapaбoтaли фyнкций: “Зaклaдки” и “Moя нaвигaция”. Для вepcий v7.9.</p>
+
+<p><strong>Установка:</strong></p>
+
+<ol>
+  <li>копируем папку System в корень диска D</li>
+  <li>заходим в UcWeb далее зaклaдки - кoпий - импopт пepcoнaльныx дaнныx/peзepвныe зaклaдки и выбираем фaйл c oкoнчaниeм: “.bak”</li>
+  <li>перезапускаем браузер</li>
+</ol>
+
+<p>За патч спасибо <strong>yarig</strong></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/Patch_UcWeb_v7.9.zip">download 2 kb</a></p>
+
+<h2 id="game-manager-for-n-gage-classic">Game Manager for n-gage Classic</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager01.jpg" alt="GameManager" /> 
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager02.jpg" alt="GameManager" /></p>
+
+<p>Диспетчер игр от n-gage qd. Позволяет просматривать ваши сохранения. делать их беккакп и восстановление. Устанавливать только на n-gage classic, на qd он изначально в прошивке.</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager_for_Classic.SIS">download 101 kb</a></p>
+
+
+  </article>
+
+  <article class="post">
+	<section class="post-header">
+	    <span>07</span><a href="#logo" id="themes">Themes</a>
+    </section>
+    <h2 id="sysiconz-theme">SYSiconz theme</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/SYSiconz-one.jpg" alt="SYSiconz" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/SYSiconz-two.jpg" alt="SYSiconz" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/SYSiconz-three.jpg" alt="SYSiconz" /></p>
+
+<p>Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92</p>
+
+<p>Установка:</p>
+
+<ol>
+  <li>Все из папки FreakIcons скинуть в E:\System\Apps и перезагрузить n-gage</li>
+</ol>
+
+<p>Update 24.03.12 Нашел способ замены 5 не хватающих иконок, а именно: Диктофон, Видеоплеер, Приложения, Диспетчер игр и Меню сим карты. В итоге заменяются все иконки меню на n-gage qd. Остался лишь один баг, это окошко системной ошибки при нажатии на иконку режимов и меню сим карты (но в само приложение спокойно заходит).</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/FreakIconsQD.zip">download 237.45 kb</a></p>
+
+<p>Update 20.04.14 Сделал полную замену и на n-gage classic. На classic бага с окошком системной ошибки - нету.</p>
+
+<p><a href="">download 237.45 kb</a></p>
+
+<h2 id="mac-os-theme">Mac OS theme</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/MacOS-one.jpg" alt="MacOS" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/MacOS-two.jpg" alt="MacOS" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/MacOS-three.jpg" alt="MacOS" /></p>
+
+<p>Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал товарищ Black92</p>
+
+<p>Установка:</p>
+
+<p>1.Все из папки FreakIcons скинуть в E:\System\Apps и перезагрузить n-gage</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Mac%20OS.zip">download 182.01 kb</a></p>
+
+<h2 id="n-series-theme">N-Series theme</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N_Gage_QD_skin_by_Cacoman.jpg" alt="N-Series" /></p>
+
+<p>Пересобрал тему для русского языка от Cacoman</p>
+
+<p>В архиве:</p>
+
+<ol>
+  <li>файлы для русского языка</li>
+  <li>оригинальный установочный sis для английского языка.</li>
+  <li>4 wallpapers</li>
+  <li>прозрачный логотип оператора</li>
+</ol>
+
+<p>Установка: 
+<br />
+если вы используете английский язык то просто установите sis и перезагрузите n-gage. 
+Для русского языка: файлы из папки N-Series Rus Dribway.com копируем в E:\System\Apps и перезагружаем n-gage</p>
+
+<p>P.S. для n-gage qd тема не меняет 4 значка, так как в оригинальном файле их нету, найду значки - доделаю.</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N-Gage_QD_skin.zip">download 434.16 kb</a></p>
+
+<h2 id="game-icons">Game icons</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/rectangle-one.jpg" alt="GameIcons" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/rectangle-two.jpg" alt="GameIcons" /></p>
+
+<p>Иконки для всех N-Gage игр, за исключением глючной иконки Red Faction и Splinter Cell Chaos Theory (см. скриншоты - пока обнаружил косяки только в них)</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/ngamesiconsuv5.jpg">Обзорный скриншот</a></p>
+
+<p>Помимо иконок к n-gage играм также присутствуют иконки к:</p>
+
+<ul>
+  <li>Barakel: The Fallen Angel</li>
+  <li>Hinter Wars: The Aterian Invasion</li>
+</ul>
+
+<p>Упаковано все как в *.aif-варианте так и в sis-варианте для упрощения установки (отсутствует только для Splinter Cell Chaos Theory - она есть в *.aif)</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N-Gage_games_icon_1.rar">download 420.24 kb</a></p>
+
+<h2 id="mac-style-game-icons">Mac Style game icons</h2>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game-one.jpg" alt="Mac-Style" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game-two.jpg" alt="Mac-Style" /></p>
+
+<p>Новые Иконки для N-Gage игр. На скриншотах видна только часть иконок, в архиве их больше, но, к сожалению, не для абсолютно всей линейки.</p>
+
+<p>Установка:
+<br />
+С первым паком иконок все должно быть понятно. Там есть установочные пакеты sis (для упрошенной установки), а также иконки формата .aif (копируем нужную папку (смотрите Game Folder Name.txt) по пути E:\System\Apps и соглашаемся на замену файла)</p>
+
+<p>Второй пак иконок устанавливаем аналогично с первым (то есть иконки формата .aif)</p>
+
+<p>За иконки спасибо <a href="http:/vk.com/id136338503">Олегу Ковальковскому</a></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/mac-style-game_icons.zip">download 223.71 kb</a></p>
+
+<h2 id="fonts">Fonts</h2>
+
+<p>С шрифтами больше дела не имею, так как мой n-gage находиться в мертвом состоянии(10.05.12).Но все же парочку шрифтов я успел поставить.
+Автора к сожалению не знаю. Ставил на n-gage qd с последней прошивкой v.4.10 для RH-29</p>
+
+<p>Установка:</p>
+
+<ol>
+  <li>создаем папку Fonts в С:\System\</li>
+  <li>копируем туда phoneticfont.gdr</li>
+  <li>перезагружаем n-gage</li>
+</ol>
+
+<p>Удаление:
+<br />
+Я лично сторонник всяких лишних программ, поэтому напишу как удалить шрифт в ручную.</p>
+
+<ol>
+  <li>находим папку Fons и переименовываем ее к примеру в Font1</li>
+  <li>перезагружаем n-gage</li>
+  <li>теперь можно спокойно удалять нашу папку Fonts1</li>
+</ol>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/phoneticfont.zip">download 52.12 kb</a></p>
+
+<h2 id="clock">Clock</h2>
+<p>Для тех кому надоел вид часов на своих n-gage. Те же шрифты только вытянуты с апаратов nokia и siemens.</p>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Clock-qd.jpg" alt="Clock-qd" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Clock-SX1.jpg" alt="Clock-SX1" />
+<img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Clock-nokia.jpg" alt="Clock-nokia" /></p>
+
+<p>Первый скриншот - часы от n-gage qd (актуально для классической n-gage), второй - от Siemens SX1. Заменяют только часы. Часы от смартфонов nokia, заменяю как сам шрифт так и часы. На моем n-gage с этим шрифтом почему то не работали картинки.</p>
+
+<p>В архиве 3 версии часов (скриншоты к ним прилагаются). Сами шрифты я достал с sis контейнеров упакованных сайтом n-gage.nm.ru (но его уже нету). Для вас же оставил только папки Fonts (хотя там была еще рекламная программка)</p>
+
+<p>Установка:</p>
+
+<ol>
+  <li>создаем папку Fonts в С:\System\ (хотя возможно она уже у вас есть)</li>
+  <li>выбираем понравившийся вариант часов</li>
+  <li>копируем папку Fonts в С:\System\</li>
+  <li>перезагружаем n-gage</li>
+</ol>
+
+<p>Удаление:
+<br />
+Я лично сторонник всяких лишних программ, поэтому напишу как удалить шрифт в ручную.</p>
+
+<ol>
+  <li>находим папку Fons и переименовываем ее к примеру в Font1</li>
+  <li>перезагружаем n-gage</li>
+  <li>теперь можно спокойно удалять нашу папку Fonts1</li>
+</ol>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/clock_for_ngage.zip">download 259.69 kb</a></p>
+
+<h2 id="operator-logo">Operator Logo</h2>
+
+<p>Еще один вид украшательства своего n-gage. Покажу как без всяких программ установить лого оператора.</p>
+
+<p class="img-center"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/logo.jpg" alt="logo" /></p>
+
+<p>Логотип оператора , это файлик формата xxx_yy_zz.bmp, где xxx - код страны (MCC), yy - код сети (MNC), zz - код подсети (в большинстве случаев это 0). Все нужные нам коды , для операторов любых стан можно посмотреть на <a href="https://ru.wikipedia.org/wiki/Mobile_Country_Code">Википедии</a>.</p>
+
+<p>У меня оператор Life:( находиться он в Украине. Мой bmp будет иметь следующие название 255_06_0.bmp</p>
+
+<p>Максимальное разрешение bmp файла составляет 97х25</p>
+
+<p>Вот несколько сделанных мною лого:</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/logo.bmp"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/logo.bmp" alt="Monster" /></a></p>
+
+<p>аватарки Google Chrome</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Cake.bmp"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Cake.bmp" alt="Cake" /></a></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/ninja.bmp"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/ninja.bmp" alt="ninja" /></a></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/ninja.bmp"><img src="https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Cat.bmp" alt="Cat" /></a></p>
+
+<p>Установка:</p>
+
+<ol>
+  <li>Логотип оператора копируем в C:\System\Apps\Phone\OpLogo (при первом копировании двух последних папок не будет , по тому создаем их)</li>
+</ol>
+
+
+  </article>
+
+  <article class="post">
+	<section class="post-header">
+	    <span>08</span><a href="#logo" id="outro">Outro</a>
+    </section>
+    
+
+  </article>
+
+
+        <a href="#" class="up">up</a>
+    </main>
+
+    <footer class="site-footer">
+
+
+</footer>
+
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    var values = ["road","park","caravan"];
+    var chosenValue = values[Math.floor(Math.random() * values.length)];
+    var chosenDiv = document.getElementById(chosenValue);
+        chosenDiv.style.display = "block";
+  });
+</script>
+
+<script>
+  $('a[href^="#"]').on('click', function(event) {
+    var target = $( $(this).attr('href') );
+    if( target.length ) {
+      event.preventDefault();
+      $('html, body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+    }
+  });
+</script>
+
+<script>
+$("body").on("contextmenu", "img", function(e) {
+  return false;
+});
+</script>
+
+<script>
+$(document.links).filter(function() {
+  return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
+</script>
+
+<script>
+$(document).ready(function () {
+  $(window).scroll(function () {
+      if ($(this).scrollTop() > 100) {
+        $('.up').fadeIn();
+      } else {
+        $('.up').fadeOut();
+      }
+  });
+  $('.up').click(function () {
+    $("html, body").animate({
+      scrollTop: 0
+    }, 600);
+    return false;
+  });
+});
+</script>
+
+  </body>
+
+</html>
