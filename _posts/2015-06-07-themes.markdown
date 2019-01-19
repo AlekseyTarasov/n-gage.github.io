@@ -29,9 +29,9 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 ## Mac OS theme ##
 
 {:.img-center}
-![MacOS](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/MacOS-one.jpg)
-![MacOS](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/MacOS-two.jpg)
-![MacOS](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/MacOS-three.jpg)
+![MacOS](https://www.dropbox.com/s/qam9wvhrf9uev01/MacOS-one.jpg?raw=1)
+![MacOS](https://www.dropbox.com/s/0x8zwt4duxgu633/MacOS-two.jpg?raw=1)
+![MacOS](https://www.dropbox.com/s/i4s9qgkix6vlmsc/MacOS-three.jpg?raw=1)
 
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал товарищ Black92
 
@@ -44,7 +44,7 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 ## N-Series theme ##
 
 {:.img-center}
-![N-Series](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N_Gage_QD_skin_by_Cacoman.jpg)
+![N-Series](https://www.dropbox.com/s/eebgiqgxw3thjjw/N_Gage_QD_skin_by_Cacoman.jpg?raw=1)
 
 Пересобрал тему для русского языка от Cacoman
 
@@ -60,34 +60,34 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 если вы используете английский язык то просто установите sis и перезагрузите n-gage. 
 Для русского языка: файлы из папки N-Series Rus Dribway.com копируем в E:\System\Apps и перезагружаем n-gage
 
-P.S. для n-gage qd тема не меняет 4 значка, так как в оригинальном файле их нету, найду значки - доделаю.
+P.S. для n-gage qd тема не меняет 4 значка, так как в оригинальном файле их нету.
 
 [download 434.16 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N-Gage_QD_skin.zip)
 
 ## Game icons ##
 
 {:.img-center}
-![GameIcons](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/rectangle-one.jpg)
-![GameIcons](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/rectangle-two.jpg)
+![GameIcons](https://www.dropbox.com/s/kpqilvqmnv9w0b4/rectangle-one.jpg?raw=1)
+![GameIcons](https://www.dropbox.com/s/h2dfvo97xb8k7pp/rectangle-two.jpg?raw=1)
 
 Иконки для всех N-Gage игр, за исключением глючной иконки Red Faction и Splinter Cell Chaos Theory (см. скриншоты - пока обнаружил косяки только в них)
 
-[Обзорный скриншот](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/ngamesiconsuv5.jpg)
+[Обзорный скриншот](https://www.dropbox.com/s/5u2hu2oc1n0t8yf/ngamesiconsuv5.jpg?raw=1)
 
 Помимо иконок к n-gage играм также присутствуют иконки к:
 
 - Barakel: The Fallen Angel
 - Hinter Wars: The Aterian Invasion
 
-Упаковано все как в *.aif-варианте так и в sis-варианте для упрощения установки (отсутствует только для Splinter Cell Chaos Theory - она есть в *.aif)
+Упаковано все как в *.aif-варианте так и в sis-варианте для упрощения установки (отсутствует только для Splinter Cell Chaos Theory - она есть в *.aif*)
 
 [download 420.24 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game_icons.rar)
 
 ## Mac Style game icons ##
 
 {:.img-center}
-![Mac-Style](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game-one.jpg)
-![Mac-Style](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game-two.jpg)
+![Mac-Style](https://www.dropbox.com/s/54hqd5pfuzdcqiv/game-one.jpg?raw=1)
+![Mac-Style](https://www.dropbox.com/s/ygkysg2sqb4yltf/game-two.jpg?raw=1)
 
 Новые Иконки для N-Gage игр. На скриншотах видна только часть иконок, в архиве их больше, но, к сожалению, не для абсолютно всей линейки.
 
