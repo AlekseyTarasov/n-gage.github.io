@@ -4,12 +4,12 @@ date: 2015-06-07
 tags: [themes]
 ---
 
-##SYSiconz theme##
+## SYSiconz theme ##
 
 {:.img-center}
-![SYSiconz](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/SYSiconz-one.jpg)
-![SYSiconz](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/SYSiconz-two.jpg)
-![SYSiconz](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/SYSiconz-three.jpg)
+![SYSiconz](https://www.dropbox.com/s/pyuzs191glifuhw/SYSiconz-one.jpg?raw=1)
+![SYSiconz](https://www.dropbox.com/s/gxc8urmal42xa39/SYSiconz-two.jpg?raw=1)
+![SYSiconz](https://www.dropbox.com/s/ug1dbzjihup2h3e/SYSiconz-three.jpg?raw=1)
 
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 
@@ -26,7 +26,7 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 [download 237.45 kb]()
 
 
-##Mac OS theme##
+## Mac OS theme ##
 
 {:.img-center}
 ![MacOS](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/MacOS-one.jpg)
@@ -41,7 +41,7 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 
 [download 182.01 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Mac%20OS.zip)
 
-##N-Series theme##
+## N-Series theme ##
 
 {:.img-center}
 ![N-Series](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N_Gage_QD_skin_by_Cacoman.jpg)
@@ -64,7 +64,7 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 
 [download 434.16 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N-Gage_QD_skin.zip)
 
-##Game icons##
+## Game icons ##
 
 {:.img-center}
 ![GameIcons](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/rectangle-one.jpg)
@@ -83,7 +83,7 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 
 [download 420.24 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game_icons.rar)
 
-##Mac Style game icons##
+## Mac Style game icons ##
 
 {:.img-center}
 ![Mac-Style](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game-one.jpg)
