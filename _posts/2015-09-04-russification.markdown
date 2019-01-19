@@ -5,7 +5,7 @@ tags: [russification]
 ---
 
 {:.img-center}
-![Saves](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/rus.jpg) 
+![Saves](https://www.dropbox.com/s/mcvmt3k9tj0c8iw/rus.jpg?raw=1) 
 
 Cобрал архив с русификациями для официальных n-gage игр. В архивах содержаться как полные русифицированные игры, так и патчи к ним. Смотрим пункт "Состояние", если zip archive, то это обычный патч. Если Cracked или Demo, то полностью вся игра. Я думаю, ничего сложного в этом нету, переводов не так уж много. Разберетесь
 
@@ -19,7 +19,7 @@ Cобрал архив с русификациями для официальны
 <h2>Tom Clancy's Splinter Cell: Chaos Theory</h2>
 
 {:.img-center}
-![SplinterCell](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/Splinter_Cell_Chaos_Theory.png) 
+![SplinterCell](https://www.dropbox.com/s/25fpa8t03tfq7js/Splinter_Cell_Chaos_Theory.png?raw=1) 
 
 Версия: 1.0.240
 <br>
@@ -34,7 +34,7 @@ Cобрал архив с русификациями для официальны
 <h2>Red Faction</h2>
 
 {:.img-center}
-![RedFaction](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/RedFaction.jpg)
+![RedFaction](https://www.dropbox.com/s/4faol89jvu5cu3t/RedFaction.jpg?raw=1)
 
 Версия: 1.0 от 01/09/2010
 <br>
@@ -62,17 +62,21 @@ Cобрал архив с русификациями для официальны
 <br>
 Часть графики................................................Mercyfull
 
+[download 7.13 mB](https://www.dropbox.com/s/kjz2vviygkhnqhp/Red.Faction.v1.19.N.Gage.Cracked.Rus.v1.0.lupus.zip?raw=1)
+
 
 <h2>Call of Duty</h2>
 
 {:.img-center}
-![CallofDuty](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/call.gif)
+![CallofDuty](hhttps://www.dropbox.com/s/vb7quo9ohqtarao/call.gif?raw=1)
 
 Версия: 1.0
 <br>
 Автор перевода: Bounce1986
 <br>
 Состояние: zip archive
+
+[download 10 kB](https://www.dropbox.com/s/ds6pftgg9kyrnuz/Call_of_Duty_Rus.zip?raw=1)
 
 
 <h2>The Elder Scrolls Travels: Shadowkey</h2>
@@ -90,12 +94,14 @@ Cобрал архив с русификациями для официальны
 
 Полный перевод игры TES Shadowkey
 
+[download 87.43 kB](https://www.dropbox.com/s/564oi5u4wicpjdx/TES_Travels_Shadowkey_Rus.zip?raw=1)
+
 
 <h2>System Rush</h2>
 
 {:.img-center}
-![SystemRush](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/SystemRush00.png)
-![SystemRush](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/SystemRush01.png)
+![SystemRush](https://www.dropbox.com/s/eeibdu22orqz8yk/SystemRush00.png?raw=1)
+![SystemRush](https://www.dropbox.com/s/uqpl7sqiqemrou7/SystemRush01.png?raw=1)
 
 Версия: 6.28
 <br>
@@ -105,11 +111,13 @@ Cобрал архив с русификациями для официальны
 
 Демо версия System Rush с рускими надписями.
 
+[download 1.25 mB](https://www.dropbox.com/s/dtszm5znw03xzzi/Ideaworks3D.System.Rush.v6.28.N-Gage%28QD%29.Demo-Nokia.zip?raw=1)
+
 
 <h2>Virtua Cop</h2>
 
 {:.img-center}
-![VirtuaCop](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/VirtuaCop.jpg)
+![VirtuaCop](https://www.dropbox.com/s/onhg6hfi930srhi/VirtuaCop.jpg?rew=1)
 
 Версия: 1.05.27
 <br>
@@ -128,7 +136,7 @@ Cобрал архив с русификациями для официальны
 <h2>Puyo Pop</h2>
 
 {:.img-center}
-![PuyoPop](https://dl.dropboxusercontent.com/u/33967130/n-gage/russification/puyox.jpg)
+![PuyoPop](https://www.dropbox.com/s/7qpk9vtgcpoydaz/puyox.jpg?rew=1)
 
 Версия: 1.0
 <br>
@@ -151,3 +159,5 @@ Cобрал архив с русификациями для официальны
 + подпись к иконке в меню "Пуйо Поп"
 
 Теперь можно сказать, что перевод выполнен на 100%.
+
+[download 0.91 mB](https://www.dropbox.com/s/eqefb7kxedism6r/Sega.Puyo.Pop.v1.0.N-Gage%28QD%29.Cracked.Rus.v2.0-lupus.7z?raw=1)
