@@ -19,7 +19,7 @@ body {
 /* Header */
 
 .site-header{
-     margin-top: 2em;
+     margin-top: 6em;
      color: #333;
      text-align: center;
 }
@@ -191,4 +191,10 @@ a:hover, a:active {
 
 .site-footer {
     text-align: center;
+}
+
+
+iframe{
+  margin: 0 auto; 
+  text-align: center;
 }
