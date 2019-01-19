@@ -22,7 +22,7 @@ tags: [games]
 [download 20.26 mb](http://dl.dropbox.com/u/33967130/n-gage/games/CoD_Limited_Edition_by_pSyGAGE_&_NNG-TEAM.PL.rar)
 
 
-##Quake I PreAlpha 0.06##
+## Quake I PreAlpha 0.06 ##
 
 {:.img-center}
 ![quakeone](https://www.dropbox.com/s/gkzihs1sz4j6ayu/quakeone.png?raw=1)
@@ -31,10 +31,12 @@ tags: [games]
 <br>
 Вы — безымянный солдат, разбуженный утром своим командиром. Неизвестный враг под кодовым именем Quake опустошает вашу военную базу, засылая легионы смерти через телепортационные врата, называемые «Slipgate». Вы призваны возглавить операцию по возмездию «Контрудар» (Counterstrike), пройдя через эти врата на территорию врага, и разгромить его в его измерениях.
 
+<!---
 {:.img-center}
 ![QuakeI](https://www.dropbox.com/s/95f9s19nhtzpq01/QuakeI-one.jpg?raw=1)
 ![QuakeI](https://www.dropbox.com/s/rdckc0ivx17r58o/QuakeI-two.jpg?raw=1)
 ![QuakeI](https://www.dropbox.com/s/6za5c4lvq61sj8n/QuakeI-three.jpg?raw=1)
+-->
 
 [Официальный сайт проекта](http://sourceforge.net/projects/quakes60/)
 
