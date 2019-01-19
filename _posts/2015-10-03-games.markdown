@@ -10,7 +10,7 @@ tags: [games]
 
 [download 86 kb](http://dl.dropbox.com/u/33967130/n-gage/games/zg-libs.zip)
 
-##Call of Duty Limited Edition##
+## Call of Duty Limited Edition ##
 
 {:.img-center}
 ![COD](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/w_b59bf897.jp)
@@ -51,14 +51,14 @@ tags: [games]
 [download 225.71 kb](http://dl.dropbox.com/u/33967130/n-gage/games/quakes60-ngage.zip) 
 
 
-##7 Days Salvation##
+## 7 Days Salvation ##
 
 {:.img-center}
 ![7Days](https://www.dropbox.com/s/upf9k4o9mfo7vi7/7_Days_Salvation.png?raw=1)
 
 7 Days - 3D хоррор в лучших традициях данного жанра, для мобильных устройств на платформе s60 от китайской команды разработчиков DINGOO GAMES (сайт к сожалению мертв).
 
-**Описание:
+** Описание: **
 <br>
 Главным действующим персонажем, является молодой писатель по имени Сальватор Кен.Который, в поисках уединения прибывает в свой загородный особняк,дабы в спокойной обстановке закончить работу над своим недописанным произведением. Вскоре после чего, становиться узником собственного дома и попадает в круговорот мистических событий... На первый взгляд показавшихся ему бредовым сном... От которого,казалось бы,его может освободить внезапное пробуждение,но все же понимает, что на самом деле - это происходит с ним реально,здесь и сейчас.....
 
@@ -74,7 +74,7 @@ tags: [games]
 [download 23.75 mb](http:/narod.ru/disk/44048256001.31d6829ca5ba25f40f6b72d44157272d/7days_v1_176208.rar.html)
 
 
-##Saves for games##
+## Saves for games ##
 
 {:.img-center}
 ![Saves](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/saves.png)
