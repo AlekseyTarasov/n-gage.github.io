@@ -113,7 +113,7 @@ Cобрал архив с русификациями для официальны
 
 [download 1.25 mB](https://www.dropbox.com/s/dtszm5znw03xzzi/Ideaworks3D.System.Rush.v6.28.N-Gage%28QD%29.Demo-Nokia.zip?raw=1)
 
-
+<!---
 <h2>Virtua Cop</h2>
 
 {:.img-center}
@@ -161,3 +161,4 @@ Cобрал архив с русификациями для официальны
 Теперь можно сказать, что перевод выполнен на 100%.
 
 [download 0.91 mB](https://www.dropbox.com/s/eqefb7kxedism6r/Sega.Puyo.Pop.v1.0.N-Gage%28QD%29.Cracked.Rus.v2.0-lupus.7z?raw=1)
+-->
