@@ -6,7 +6,7 @@ tags: [utilities]
 
 ##almalert##
 
-![almalert](https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/almalert.jpg)
+![almalert](https://www.dropbox.com/s/9wzi8s1250g4eya/almalert.jpg?raw=1)
 
 Заменяет собой стандартный будильник расширяя его функциональность. В данный момент по сравнению с обычным реализована следующая дополнительная функциональность:
 
@@ -54,7 +54,7 @@ tags: [utilities]
 
 ##MsvDriveE##
 
-![MsvDriveE](https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/MsvDriveE.jpg)
+![MsvDriveE](https://www.dropbox.com/s/pkorp3xd263pux2/MsvDriveE.jpg?raw=1)
 
 Программка которая позволяет сохранять сообщения на карту памяти, для тех телефонов где это не предусмотрено.
 
@@ -76,7 +76,7 @@ tags: [utilities]
 
 ##HideMusic##
 
-![HideMusic](https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/hidemusic.jpg)
+![HideMusic](https://www.dropbox.com/s/v1xknd73cgf0g29/hidemusic.jpg?raw=1)
 
 Программа которая помогает избавиться от долгого включения родного плеера на n-gage classic. hidemusic помогает выбрать только те папки, которые вы хотите прослушать, делая для плеера невидимыми остальные.
 
