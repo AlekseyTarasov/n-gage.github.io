@@ -106,6 +106,10 @@ body {
   display: none;
 }
 
+#bar {
+  display: none;
+}
+
 /* Middle */
 
 .content {
