@@ -127,9 +127,9 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 Для тех кому надоел вид часов на своих n-gage. Те же шрифты только вытянуты с апаратов nokia и siemens.
 
 {:.img-center}
-![Clock-qd](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Clock-qd.jpg)
-![Clock-SX1](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Clock-SX1.jpg)
-![Clock-nokia](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Clock-nokia.jpg)
+![Clock-qd](https://www.dropbox.com/s/49wn2lsnz28xzcd/Clock-qd.jpg?raw=1)
+![Clock-SX1](https://www.dropbox.com/s/q349fztguamgv8i/Clock-SX1.jpg?raw=1)
+![Clock-nokia](https://www.dropbox.com/s/ki6di4u8mghxy6p/Clock-nokia.jpg?raw=1)
 
 Первый скриншот - часы от n-gage qd (актуально для классической n-gage), второй - от Siemens SX1. Заменяют только часы. Часы от смартфонов nokia, заменяю как сам шрифт так и часы. На моем n-gage с этим шрифтом почему то не работали картинки.
 
