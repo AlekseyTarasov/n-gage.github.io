@@ -13,7 +13,7 @@ tags: [games]
 ## Call of Duty Limited Edition ##
 
 {:.img-center}
-![COD](https://www.dropbox.com/s/1osqnlpqvp4jcqd/n-icon.png?raw=1)
+![COD](https://www.dropbox.com/s/7ctkd8pczp819r7/n-icon.png?raw=1)
 
 Именно с этого картриджа был снят, крякнут и в дальнейшем выложен в сеть данный ром: CoD_Limited_Edition_by_pSyGAGE_&_NNG-TEAM.PL Данная версия CoD'а отличается от ритейла (v3.6a) большим количеством FPS и парой дополнительных уровней.
 
