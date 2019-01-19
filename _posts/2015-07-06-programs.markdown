@@ -4,7 +4,7 @@ date: 2015-07-06
 tags: [programs]
 ---
 
-##UcWeb##
+## UcWeb ##
 
 {:.img-center}
 ![UClogo](https://www.dropbox.com/s/hz6jjgmlxya75jm/UClogo.png?raw=1)
@@ -16,22 +16,33 @@ tags: [programs]
 [download 1.0 mb](https://www.dropbox.com/s/plca0h5jwom0tmd/UCBrowser_V7.9.1.120_S60V1_pf26_%28Build11120910%29.sis?raw=1)
 
 
-##Patch for UcWeb##
+## Patch for UcWeb ##
 
 Пaтч чтoбы в вaшeм бpayзepe зapaбoтaли фyнкций: "Зaклaдки" и "Moя нaвигaция". Для вepcий v7.9.
 
-**Установка:**
+** Установка: **
 
 1. копируем папку System в корень диска D
 2. заходим в UcWeb далее зaклaдки - кoпий - импopт пepcoнaльныx дaнныx/peзepвныe зaклaдки и выбираем фaйл c oкoнчaниeм: ".bak"
 3. перезапускаем браузер
 
-За патч спасибо **yarig**
+За патч спасибо ** yarig **
 
 [download 2 kb](https://www.dropbox.com/s/kcwk266pptgd4l2/Patch_UcWeb_v7.9.zip?raw=1)
 
+## Proxy ##
 
-##Game Manager for n-gage Classic##
+Некоторые сайты могут не загружаться, для этого нужно поменять прокси заменив оригинальный .uhtm файл.
+
+** Установка: **
+
+1. копируем UCSystemConfigure.uhtm по пути E:private/2001128D/
+2. соглашаемся на замену файла
+
+[download 1 kb](https://www.dropbox.com/s/jqgrrjvnuuawxz1/UCSystemConfigure.uhtm?raw=1)
+
+
+## Game Manager for n-gage Classic ##
 
 {:.img-center}
 ![GameManager](https://www.dropbox.com/s/tz9izucjlchdlv4/gamemanager.jpg?raw=1) 
