@@ -7,13 +7,13 @@ tags: [programs]
 ##UcWeb##
 
 {:.img-center}
-![UClogo](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/UClogo.png)
+![UClogo](https://www.dropbox.com/s/hz6jjgmlxya75jm/UClogo.png?raw=1)
 
 Единственный для меня нормальный работающий браузер на n-gage. Скачать можно с официального сайта
 
 Я пользуюсь последней версией браузера [v.7.9.1.120 (Build 11120910)](http://www.ucweb.com/wor/prd/prd/nokia-NGage-xz-15263.html). Хоть там и возникла проблема с функцией закладки, но она решаема при помощи патча.
 
-[download 1.0 mb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/UCBrowser_V7.9.1.120_S60V1_pf26_%28Build11120910%29.sis)
+[download 1.0 mb](https://www.dropbox.com/s/plca0h5jwom0tmd/UCBrowser_V7.9.1.120_S60V1_pf26_%28Build11120910%29.sis?raw=1)
 
 
 ##Patch for UcWeb##
@@ -28,15 +28,14 @@ tags: [programs]
 
 За патч спасибо **yarig**
 
-[download 2 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/Patch_UcWeb_v7.9.zip)
+[download 2 kb](https://www.dropbox.com/s/kcwk266pptgd4l2/Patch_UcWeb_v7.9.zip?raw=1)
 
 
 ##Game Manager for n-gage Classic##
 
 {:.img-center}
-![GameManager](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager01.jpg) 
-![GameManager](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager02.jpg)
+![GameManager](https://www.dropbox.com/s/tz9izucjlchdlv4/gamemanager.jpg?raw=1) 
 
 Диспетчер игр от n-gage qd. Позволяет просматривать ваши сохранения. делать их беккакп и восстановление. Устанавливать только на n-gage classic, на qd он изначально в прошивке. 
 
-[download 101 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/programs/GameManager_for_Classic.SIS)
+[download 101 kb](https://www.dropbox.com/s/9nivt5uzo4n3uaf/GameManager_for_Classic.SIS?raw=1)
