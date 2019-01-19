@@ -9,7 +9,7 @@ tags: [programs]
 {:.img-center}
 ![UClogo](https://www.dropbox.com/s/hz6jjgmlxya75jm/UClogo.png?raw=1)
 
-Единственный для меня нормальный работающий браузер на n-gage. Скачать можно с официального сайта
+Единственный нормально работающий браузер для n-gage. Скачать можно с официального сайта
 
 Я пользуюсь последней версией браузера [v.7.9.1.120 (Build 11120910)](http://www.ucweb.com/wor/prd/prd/nokia-NGage-xz-15263.html). Хоть там и возникла проблема с функцией закладки, но она решаема при помощи патча.
 
@@ -18,7 +18,7 @@ tags: [programs]
 
 ## Patch for UcWeb ##
 
-Пaтч для paбoты фyнкций: "Зaклaдки" и "Moя нaвигaция". Для вepcии v7.9.
+Пaтч для paбoты фyнкций: "Зaклaдки" и "Moя нaвигaция". Для v.7.9.1.120 (Build 11120910)
 
 **Установка:**
 
@@ -36,7 +36,7 @@ tags: [programs]
 
 **Установка:**
 
-1. копируем UCSystemConfigure.uhtm по пути E:private/2001128D/
+1. копируем UCSystemConfigure.uhtm по пути E:private\2001128D\
 2. соглашаемся на замену файла
 
 [download 1 kb](https://www.dropbox.com/s/jqgrrjvnuuawxz1/UCSystemConfigure.uhtm?raw=1)
