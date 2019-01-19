@@ -117,7 +117,7 @@ Cобрал архив с русификациями для официальны
 <h2>Virtua Cop</h2>
 
 {:.img-center}
-![VirtuaCop](https://www.dropbox.com/s/onhg6hfi930srhi/VirtuaCop.jpg?rew=1)
+![VirtuaCop](https://www.dropbox.com/s/onhg6hfi930srhi/VirtuaCop.jpg?raw=1)
 
 Версия: 1.05.27
 <br>
@@ -136,7 +136,7 @@ Cобрал архив с русификациями для официальны
 <h2>Puyo Pop</h2>
 
 {:.img-center}
-![PuyoPop](https://www.dropbox.com/s/7qpk9vtgcpoydaz/puyox.jpg?rew=1)
+![PuyoPop](https://www.dropbox.com/s/7qpk9vtgcpoydaz/puyox.jpg?raw=1)
 
 Версия: 1.0
 <br>
