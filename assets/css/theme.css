@@ -19,7 +19,7 @@ body {
 /* Header */
 
 .site-header{
-     margin: 0;
+     margin-top: 2em;
      color: #333;
      text-align: center;
 }

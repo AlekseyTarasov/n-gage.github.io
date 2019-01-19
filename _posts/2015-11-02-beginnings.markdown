@@ -49,7 +49,7 @@ SPMark™04](http://web.archive.org/web/20050214221514/http://www.futuremark.com
 
 Пару инструкций по разборе n-gage classic 
 
-<iframe width="800" height="400" src="//www.youtube.com/embed/c94TNlsrH5k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" src="//www.youtube.com/embed/c94TNlsrH5k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 и n-gage qd
 
