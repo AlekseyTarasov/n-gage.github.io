@@ -4,7 +4,7 @@ date: 2015-08-05
 tags: [utilities]
 ---
 
-##almalert##
+## almalert ##
 
 ![almalert](https://www.dropbox.com/s/9wzi8s1250g4eya/almalert.jpg?raw=1)
 
@@ -27,7 +27,9 @@ tags: [utilities]
 
 
 
-##fixss##
+## fixss ##
+
+Утилита для разгона ARM-9 n-gage classic из раздела Beginnings. Тут более подробное описание и альтернативные ссылки на загрузку.
 
 исправляет три проблемы:
 
@@ -36,45 +38,48 @@ tags: [utilities]
 3. отключается писк каждые пять секунд во время записи телефонных разговоров. совместимость: n-gage.
 
 [download 3.4 kB](http://sourceforge.net/projects/almalert/files/fixss/1.06/fixss_1_06.zip/download)
+- alt [download 2.1 kB](https://www.dropbox.com/s/pv9onbl60cdz7m8/fixss_1_06.zip?raw=1)
 
 
-##langsw##
+## langsw ##
 
 плагин к fixss для n-gage classic, для быстрого переключения английского и русского языков по "комбинации карандаш + c". После установки обязательно перезагрузиться. 
 
 [download 2.7 kB](http://sourceforge.net/projects/almalert/files/langsw/1.0/langsw_1_0.zip/download)
+- alt [download 2.1 kB](https://www.dropbox.com/s/qi97xc9ntmuj0y3/langsw_1_0.zip?raw=1)
 
 
-##fixqd##
+## fixqd ##
 
 отключается часть механизма защиты, которая приводит к лагам телефона при большом колличестве игр и приложений на карте. для n-gage qd
 
 [download 2.1 kB](http://sourceforge.net/projects/almalert/files/fixqd/0.666/fixqd_0_666.zip/download)
+- alt [download 2.1 kB](https://www.dropbox.com/s/p85gyxmn2onep1r/fixqd_0_666.zip?raw=1)
 
 
-##MsvDriveE##
+## MsvDriveE ##
 
 ![MsvDriveE](https://www.dropbox.com/s/pkorp3xd263pux2/MsvDriveE.jpg?raw=1)
 
 Программка которая позволяет сохранять сообщения на карту памяти, для тех телефонов где это не предусмотрено.
 
-[download 1.2 kB](https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/MsvDriveE.sis)
+[download 1.2 kB](https://www.dropbox.com/s/77hcom3c6ec30m5/MsvDriveE.sis?raw=1)
 
 
-##EQ HashSilent##
+## EQ HashSilent ##
 
 программа для аппаратов, в которых нельзя переключать беззвучный режим зажатием клавиши "#" (N-Gage).
 Никаких настроек, никаких значков - установил и забыл. Потребление памяти минимально.
 
-[download 6 kB](https://dl.dropboxusercontent.com/u/33967130/n-gage/utilities/eqhashsilent.sis)
+[download 6 kB](https://www.dropbox.com/s/lnsywg3vzg9u7sf/eqhashsilent.sis?raw=1)
 
 
-##NLights##
+## NLights ##
 
 Программа позволяет уменьшать яркость подсветки.
 
 
-##HideMusic##
+## HideMusic ##
 
 ![HideMusic](https://www.dropbox.com/s/v1xknd73cgf0g29/hidemusic.jpg?raw=1)
 
