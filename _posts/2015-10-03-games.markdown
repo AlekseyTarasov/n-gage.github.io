@@ -77,7 +77,7 @@ tags: [games]
 ## Saves for games ##
 
 {:.img-center}
-![Saves](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/saves.png)
+![Saves](https://www.dropbox.com/s/cwqvkeetai16cbf/saves.png?raw=1)
 
 Сохранения для 39 игр N-gage и Krally. За старания спасибо kirill475
 <br>
