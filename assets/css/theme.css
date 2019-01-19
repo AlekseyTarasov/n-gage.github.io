@@ -98,6 +98,14 @@ body {
   display: none;
 }
 
+#grass {
+  display: none;
+}
+
+#busstop {
+  display: none;
+}
+
 /* Middle */
 
 .content {
