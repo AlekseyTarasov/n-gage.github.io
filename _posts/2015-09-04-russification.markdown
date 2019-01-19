@@ -68,7 +68,7 @@ Cобрал архив с русификациями для официальны
 <h2>Call of Duty</h2>
 
 {:.img-center}
-![CallofDuty](hhttps://www.dropbox.com/s/vb7quo9ohqtarao/call.gif?raw=1)
+![CallofDuty](https://www.dropbox.com/s/vb7quo9ohqtarao/call.gif?raw=1)
 
 Версия: 1.0
 <br>
