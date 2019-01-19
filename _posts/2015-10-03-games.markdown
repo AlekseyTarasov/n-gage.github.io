@@ -25,7 +25,7 @@ tags: [games]
 ##Quake I PreAlpha 0.06##
 
 {:.img-center}
-![quakeone](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/quakeone.png)
+![quakeone](https://www.dropbox.com/s/gkzihs1sz4j6ayu/quakeone.png?raw=1)
 
 Описание ([взял с Википедии](https://ru.wikipedia.org/wiki/Quake)):
 <br>
