@@ -32,9 +32,9 @@ tags: [games]
 Вы — безымянный солдат, разбуженный утром своим командиром. Неизвестный враг под кодовым именем Quake опустошает вашу военную базу, засылая легионы смерти через телепортационные врата, называемые «Slipgate». Вы призваны возглавить операцию по возмездию «Контрудар» (Counterstrike), пройдя через эти врата на территорию врага, и разгромить его в его измерениях.
 
 {:.img-center}
-![QuakeI](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/QuakeI-one.jpg)
-![QuakeI](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/QuakeI-two.jpg)
-![QuakeI](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/QuakeI-three.jpg)
+![QuakeI](https://www.dropbox.com/s/95f9s19nhtzpq01/QuakeI-one.jpg?raw=1)
+![QuakeI](https://www.dropbox.com/s/rdckc0ivx17r58o/QuakeI-two.jpg?raw=1)
+![QuakeI](https://www.dropbox.com/s/6za5c4lvq61sj8n/QuakeI-three.jpg?raw=1)
 
 [Официальный сайт проекта](http://sourceforge.net/projects/quakes60/)
 
