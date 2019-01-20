@@ -3,7 +3,7 @@
 body {
 	color: #959697;
 	line-height: 1.6em;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Anonymous Pro', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 0.813rem;
@@ -120,6 +120,11 @@ body {
 
 .post{
   margin-top: 6em; 
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.7rem;
 }
 
 .post span {
