@@ -57,7 +57,18 @@ tags: [utilities]
 - alt [download 2.1 kB](https://www.dropbox.com/s/p85gyxmn2onep1r/fixqd_0_666.zip?raw=1)
 
 
+## batmon v1.00 ##
+
+![batmon](https://www.dropbox.com/s/m7ojl08rvi885tx/batmon.jpg?raw=1)
+
+
+[download 11 kB](http://prdownloads.sourceforge.net/almalert/batmon_1_00.zip?download)
+- alt [download 10.78 kB](https://www.dropbox.com/s/2u1sy3h8dhty679/batmon.sis?raw=1)
+
+
 ## netmon v0.60 ##
+
+![netmon](https://www.dropbox.com/s/0ifxboi71gqy8e0/netmon.jpg?raw=1)
 
 обычный нетмонитор. функциональность:
 1. информация о сети;
