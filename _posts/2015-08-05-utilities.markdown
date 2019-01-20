@@ -72,9 +72,11 @@ tags: [utilities]
 [download 6 kB](https://www.dropbox.com/s/lnsywg3vzg9u7sf/eqhashsilent.sis?raw=1)
 
 
-## NLights ##
+## NLights v0.15 ##
 
-Программа позволяет уменьшать яркость подсветки.
+NLights позволяет управлять подсветкой. 
+
+[download 8.53 kB](https://www.dropbox.com/s/5qzvib54437uccg/nlights-0-15.sis?raw=1)
 
 
 ## HideMusic ##
@@ -85,7 +87,7 @@ tags: [utilities]
 
 Папки с музыкой кладeте по пути E:\Music\ Треки по отдельности программа не видит! Только для на n-gage classic.
 
-## Menu Speedup v.1.3 ##
+## Menu Speedup v1.3 ##
 
 Утилита от BodyZ ставящая Меню в автозапуск. На N-Gage Classic меню запускается после прогрузки режима ожидания.
 
