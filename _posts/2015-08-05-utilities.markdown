@@ -34,10 +34,10 @@ ps: недокументированные хоткеи — присутству
 Совместимость: n-gage, qd, 3650.
 
 [download 42 kB](http://downloads.sourceforge.net/almalert/almalert_1_00.zip?download)
-- alt [download 41.64 kB](https://www.dropbox.com/s/s9tkedforg07jed/almalert.sis?raw=1)
+- alt [download 41.64 kB](https://www.dropbox.com/s/k197hwg588tvqi5/almalert_1_00.sis?raw=1)
 
 
-## fixss v1.06##
+## fixss v1.06 ##
 
 исправляет три проблемы:
 
@@ -49,29 +49,57 @@ ps: недокументированные хоткеи — присутству
 - alt [download 3.4 kB](https://www.dropbox.com/s/pv9onbl60cdz7m8/fixss_1_06.zip?raw=1)
 
 
-## langsw v1.0 ##
+## Плагины для fixss, n-gage classic ##
 
-плагин к fixss для n-gage classic, для быстрого переключения английского и русского языков по "комбинации карандаш + c". После установки обязательно перезагрузиться. 
+- btin v0.444
+
+• заменяется стандартный приём файлов по bt;
+• все файлы валятся в корень диска e:\;
+• если файл с именем принимаемого уже существует, новый уходит в пустоту;
+• при работе используется файл с именем e:\obex.temp. так что если у вас в файле с таким именем хранится что-то ценное — скопируйте куда-нибудь.
+
+ченжлог относительно btin v0.333:
+• к поддержке obex push добавлена поддержка obex ftp;
+• при работе теперь так же используется файл с именем e:\ftp.temp.
+
+[download 3 kB](https://sourceforge.net/projects/almalert/files/btin/0.444/btin_0_444.zip/download)
+- alt [download 2.98 kB](https://www.dropbox.com/s/86il4cmjxjtqfk3/btin_0_444.sis?raw=1)
+
+
+- langsw v1.0 
+
+• переключает язык ввода между rus и eng по карандаш+c;
+• языки зашиты жёстко;
+• горячая клавиша тоже зашита жёстко.
 
 [download 2.7 kB](http://sourceforge.net/projects/almalert/files/langsw/1.0/langsw_1_0.zip/download)
 - alt [download 2.7 kB](https://www.dropbox.com/s/qi97xc9ntmuj0y3/langsw_1_0.zip?raw=1)
 
 
-## fixqd ##
+## fixqd v0.666 ##
 
 отключается часть механизма защиты, которая приводит к лагам телефона при большом колличестве игр и приложений на карте. для n-gage qd
 
 [download 2.1 kB](http://sourceforge.net/projects/almalert/files/fixqd/0.666/fixqd_0_666.zip/download)
 - alt [download 2.1 kB](https://www.dropbox.com/s/p85gyxmn2onep1r/fixqd_0_666.zip?raw=1)
 
+## hwtricks build 13 ##
+
+Библиотека которая используется в некоторых проектах zg. Точно нужна для работы batmon. Изминение относительно build 12, неизвестны.
+
+Как standalone package. так как dll используется не в одном проекте, то для избежания конфликта версий создан отдельный пакет для инсталяции.
+
+[download 5.3 kB](https://sourceforge.net/projects/almalert/files/hwtricks/13/hwtricks_13.zip/download)
+- alt [download 5.12 kB](https://www.dropbox.com/s/9bginxvk36khs25/hwtricks_13.sis?raw=1)
+
 
 ## batmon v1.01 ##
 
 ![batmon](https://www.dropbox.com/s/m7ojl08rvi885tx/batmon.jpg?raw=1)
 
-Мониторинг баттареи 
+Различная информация об источниках питания телефона.
 
-работает на:
+поддерживаются следующие модели::
 • n-gage classic, прошивки 3.30 и 4.03;
 • n-gage qd, прошивки 3.15, 4.00 и 4.10;
 • 3650, прошивка 4.17.
@@ -99,13 +127,27 @@ ps: недокументированные хоткеи — присутству
 
 ![netmon](https://www.dropbox.com/s/0ifxboi71gqy8e0/netmon.jpg?raw=1)
 
-обычный нетмонитор. функциональность:
+Нетмонитор для телефонов nokia n-gage/qd/3650. позволяет просматривать информацию о текущей базовой станции, о сети и о соседях. так же возможно менять некоторые параметры. 
+
+функциональность:
 1. информация о сети;
 2. информация о текущей базовой станции;
 3. информация о соседних базовых станций;
 4. bts test;
 5. изменение критерия выбора сот;
 6. настройка dtx.
+
+программа реагирует (не всегда адекватно) на следующие кнопки:
+right softkey — выход из программы;
+1 — переход на первую закладку;
+2 — переход на вторую закладку;
+3 — переход на третью закладку;
+5 — позвонить на номер «*»;
+6 — выбор канала. для сброса — канал 3333;
+8 — критерий выбора сот. по умолчанию — accepted;
+9 — изменение режима dtx;
+0 — выбор последнего используемого канала;
+# — о программе.
 
 ченжлог относительно netmon 0.60:
 • исправлен показ cellid как отрицательного числа;
