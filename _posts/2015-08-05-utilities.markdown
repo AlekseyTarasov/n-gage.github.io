@@ -4,7 +4,7 @@ date: 2015-08-05
 tags: [utilities]
 ---
 
-## almalert ##
+## almalert v1.00##
 
 ![almalert](https://www.dropbox.com/s/9wzi8s1250g4eya/almalert.jpg?raw=1)
 
@@ -25,9 +25,11 @@ tags: [utilities]
 
 Совместимость: n-gage, qd, 3650.
 
+[download 42 kB](http://downloads.sourceforge.net/almalert/almalert_1_00.zip?download)
+- alt [download 41.64 kB](https://www.dropbox.com/s/s9tkedforg07jed/almalert.sis?raw=1)
 
 
-## fixss ##
+## fixss v1.06##
 
 исправляет три проблемы:
 
@@ -36,15 +38,15 @@ tags: [utilities]
 3. отключается писк каждые пять секунд во время записи телефонных разговоров. совместимость: n-gage.
 
 [download 3.4 kB](http://sourceforge.net/projects/almalert/files/fixss/1.06/fixss_1_06.zip/download)
-- alt [download 2.1 kB](https://www.dropbox.com/s/pv9onbl60cdz7m8/fixss_1_06.zip?raw=1)
+- alt [download 3.4 kB](https://www.dropbox.com/s/pv9onbl60cdz7m8/fixss_1_06.zip?raw=1)
 
 
-## langsw ##
+## langsw v1.0 ##
 
 плагин к fixss для n-gage classic, для быстрого переключения английского и русского языков по "комбинации карандаш + c". После установки обязательно перезагрузиться. 
 
 [download 2.7 kB](http://sourceforge.net/projects/almalert/files/langsw/1.0/langsw_1_0.zip/download)
-- alt [download 2.1 kB](https://www.dropbox.com/s/qi97xc9ntmuj0y3/langsw_1_0.zip?raw=1)
+- alt [download 2.7 kB](https://www.dropbox.com/s/qi97xc9ntmuj0y3/langsw_1_0.zip?raw=1)
 
 
 ## fixqd ##
@@ -53,6 +55,22 @@ tags: [utilities]
 
 [download 2.1 kB](http://sourceforge.net/projects/almalert/files/fixqd/0.666/fixqd_0_666.zip/download)
 - alt [download 2.1 kB](https://www.dropbox.com/s/p85gyxmn2onep1r/fixqd_0_666.zip?raw=1)
+
+
+## netmon v0.60 ##
+
+обычный нетмонитор. функциональность:
+1. информация о сети;
+2. информация о текущей базовой станции;
+3. информация о соседних базовых станций;
+4. bts test;
+5. изменение критерия выбора сот;
+6. настройка dtx.
+
+совместимость: n-gage, qd, 3650.
+
+[download 12 kB](http://prdownloads.sourceforge.net/almalert/netmon_0_60.zip?download)
+- alt [download 11.87 kB](https://www.dropbox.com/s/i12jby0927x3rhr/netmon.sis?raw=1)
 
 
 ## MsvDriveE ##
