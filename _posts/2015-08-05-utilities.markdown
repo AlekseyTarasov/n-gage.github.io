@@ -74,6 +74,8 @@ tags: [utilities]
 
 ## NLights v0.15 ##
 
+![NLights](https://www.dropbox.com/s/woqgnhqdadp337m/nlights.jpg?raw=1)
+
 NLights позволяет управлять подсветкой. 
 
 [download 8.53 kB](https://www.dropbox.com/s/5qzvib54437uccg/nlights-0-15.sis?raw=1)
