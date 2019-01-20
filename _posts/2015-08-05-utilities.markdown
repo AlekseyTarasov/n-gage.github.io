@@ -23,6 +23,14 @@ tags: [utilities]
 2. работа при выключенном устройстве.
 3. совместимость со стандартным проигрывателем музыкальных файлов и стандартным радио.
 
+ченжлог относительно almalert 0.90:
+• синхронизация времени по интернету;
+• русский язык;
+• какая-то поддержка siemens sx1;
+• кое-что по мелочи.
+
+ps: недокументированные хоткеи — присутствуют :)
+
 Совместимость: n-gage, qd, 3650.
 
 [download 42 kB](http://downloads.sourceforge.net/almalert/almalert_1_00.zip?download)
@@ -57,16 +65,37 @@ tags: [utilities]
 - alt [download 2.1 kB](https://www.dropbox.com/s/p85gyxmn2onep1r/fixqd_0_666.zip?raw=1)
 
 
-## batmon v1.00 ##
+## batmon v1.01 ##
 
 ![batmon](https://www.dropbox.com/s/m7ojl08rvi885tx/batmon.jpg?raw=1)
 
+Мониторинг баттареи 
 
-[download 11 kB](http://prdownloads.sourceforge.net/almalert/batmon_1_00.zip?download)
-- alt [download 10.78 kB](https://www.dropbox.com/s/2u1sy3h8dhty679/batmon.sis?raw=1)
+работает на:
+• n-gage classic, прошивки 3.30 и 4.03;
+• n-gage qd, прошивки 3.15, 4.00 и 4.10;
+• 3650, прошивка 4.17.
+
+очень предварительные результаты иследования энергопотребления n-gage classic:
+• телефон со 100% подсветкой экрана и включённой подсветкой кнопок потребляет 190mAh.
+далее подсветка кнопок была выключена:
+• телефон со 100% подсветкой экрана потребляет 172mAh.
+• телефон со 50% подсветкой экрана потребляет 116mAh.
+• телефон со 13% подсветкой экрана потребляет 58mAh.
+• телефон с выключенной подсветкой экрана потребляет 43mAh.
+• телефон при работе стандартного скринсейвера потребляет 7mAh.
+далее подсветка кнопок и дисплея была выключена:
+• телефон при работе стандартного радио потребляет 100mAh.
+• телефон при работе стандартного музыкального проигрывателя потребляет 125mAh.
+
+выводы: nlights — дико полезная программа.
 
 
-## netmon v0.60 ##
+[download 11 kB](http://prdownloads.sourceforge.net/almalert/batmon_1_01.zip?download)
+- alt [download 10.77 kB](https://www.dropbox.com/s/ql2fyfvmuvpl1e7/batmon.sis?raw=1)
+
+
+## netmon v0.90 ##
 
 ![netmon](https://www.dropbox.com/s/0ifxboi71gqy8e0/netmon.jpg?raw=1)
 
@@ -78,10 +107,17 @@ tags: [utilities]
 5. изменение критерия выбора сот;
 6. настройка dtx.
 
+ченжлог относительно netmon 0.60:
+• исправлен показ cellid как отрицательного числа;
+• посылка flash sms;
+• редактирование sms сервис центра на sim;
+• редактирование собственного номера на sim;
+• показ imsi.
+
 совместимость: n-gage, qd, 3650.
 
-[download 12 kB](http://prdownloads.sourceforge.net/almalert/netmon_0_60.zip?download)
-- alt [download 11.87 kB](https://www.dropbox.com/s/i12jby0927x3rhr/netmon.sis?raw=1)
+[download 15 kB](http://prdownloads.sourceforge.net/almalert/netmon_0_90.zip?download)
+- alt [download 15.26 kB](https://www.dropbox.com/s/rk253wr4d6l8pzr/netmon_0_90.sis?raw=1)
 
 
 ## MsvDriveE ##
