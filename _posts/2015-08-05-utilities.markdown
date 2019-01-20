@@ -66,7 +66,7 @@ ps: недокументированные хоткеи — присутству
 - alt [download 2.98 kB](https://www.dropbox.com/s/86il4cmjxjtqfk3/btin_0_444.sis?raw=1)
 
 
-- langsw v1.0 
+*langsw v1.0*
 
 • переключает язык ввода между rus и eng по карандаш+c;
 • языки зашиты жёстко;
