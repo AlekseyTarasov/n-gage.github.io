@@ -4,7 +4,7 @@ date: 2015-11-02
 tags: [beginnings]
 ---
 
-##overclock##
+## overclock ##
 
 Начнем с самого нужного, с оверклокинга **оригинальной n-gage** (только её и ни для чего больше. Не пытайтесь разгонять им кофеварки или настольные компьютеры. Вероятность запуска этой программы на других устройствах нулевая). 
 
@@ -45,12 +45,14 @@ SPMark™04](http://web.archive.org/web/20050214221514/http://www.futuremark.com
 Удачи вам..) 
 
 
-##disassembly##
+## disassembly ##
 
 Пару инструкций по разборе n-gage classic 
 
-<iframe width="600" height="300" src="//www.youtube.com/embed/c94TNlsrH5k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{:.img-center}
+<iframe width="400" height="200" src="//www.youtube.com/embed/c94TNlsrH5k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 и n-gage qd
 
-<iframe width="600" height="300" src="//www.youtube.com/embed/VpVlCqtICTQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{:.img-center}
+<iframe width="400" height="200" src="//www.youtube.com/embed/VpVlCqtICTQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
