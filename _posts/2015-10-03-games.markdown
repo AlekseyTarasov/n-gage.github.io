@@ -74,7 +74,7 @@ tags: [games]
 [download 23.75 mb](http:/narod.ru/disk/44048256001.31d6829ca5ba25f40f6b72d44157272d/7days_v1_176208.rar.html)
 
 
-## Saves for games ##
+## Save ##
 
 {:.img-center}
 ![Saves](https://www.dropbox.com/s/cwqvkeetai16cbf/saves.png?raw=1)
@@ -90,3 +90,13 @@ tags: [games]
 Вот туда и скидываем нужный сейв. К примеру сейв для игры One имеет папку вида 6R58, находим игру One в архиве и копируем оттуда папку 6R58 по пути С:\System\Apps\
 
 [download 607 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/games/n-gage_saved_40_games.zip)
+
+
+## Manual ##
+
+{:.img-center}
+![Saves](https://www.dropbox.com/s/b8nbndod9xz9lwp/manual.png?raw=1)
+
+Официальние мануалы к 52м n-gage играм, в формате pdf.
+
+[download 106.44 mB](https://www.dropbox.com/s/cq9vtmtsrvqqdd3/N-Gage%20Manuals.zip?raw=1)
