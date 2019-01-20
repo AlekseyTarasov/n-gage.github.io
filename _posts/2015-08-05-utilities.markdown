@@ -85,3 +85,8 @@ tags: [utilities]
 
 Папки с музыкой кладeте по пути E:\Music\ Треки по отдельности программа не видит! Только для на n-gage classic.
 
+## Menu Speedup v.1.3 ##
+
+Утилита от BodyZ ставящая Меню в автозапуск. На N-Gage Classic меню запускается после прогрузки режима ожидания.
+
+[download 4.47 kB](https://www.dropbox.com/s/7zhaqj2ustqz2vf/Menu_Speedup.sis?raw=1)
