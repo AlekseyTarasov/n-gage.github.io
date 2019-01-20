@@ -19,7 +19,7 @@ Cобрал архив с русификациями для официальны
 <h2>Tom Clancy's Splinter Cell: Chaos Theory</h2>
 
 {:.img-center}
-![SplinterCell](https://www.dropbox.com/s/25fpa8t03tfq7js/Splinter_Cell_Chaos_Theory.png?raw=1) 
+![SplinterCell](https://www.dropbox.com/s/ohcyxwhia249g6r/chaos-theory.jpg?raw=1) 
 
 Версия: 1.0.240
 <br>
