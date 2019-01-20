@@ -122,6 +122,10 @@ body {
   margin-top: 6em; 
 }
 
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
 .post span {
   display: inline-block;
   color: #999;
