@@ -95,7 +95,7 @@ tags: [games]
 ## Manual ##
 
 {:.img-center}
-![Saves](https://www.dropbox.com/s/b8nbndod9xz9lwp/manual.png?raw=1)
+![Saves](https://www.dropbox.com/s/9lvrds7s30h12q6/manual.png?raw=1)
 
 Официальние мануалы к 52м n-gage играм, в формате pdf.
 
