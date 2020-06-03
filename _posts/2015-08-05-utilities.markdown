@@ -171,6 +171,14 @@ right softkey — выход из программы;
 [download 1.2 kB](https://www.dropbox.com/s/77hcom3c6ec30m5/MsvDriveE.sis?raw=1)
 
 
+## EQ ShutDown ##
+
+Программа для быстрого выключения смартфона, по просьбам трудящихся.
+Выключает сразу после запуска без лишних вопросов, так что будьте осторожны.
+
+[download 6 kB](https://www.dropbox.com/s/74j23d9ijbljc1o/eqshutdown.sis?raw=1)
+
+
 ## EQ HashSilent ##
 
 программа для аппаратов, в которых нельзя переключать беззвучный режим зажатием клавиши "#" (N-Gage).
