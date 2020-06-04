@@ -218,6 +218,9 @@ NLights позволяет управлять подсветкой.
 
 Папки с музыкой кладeте по пути E:\Music\ Треки по отдельности программа не видит! Только для на n-gage classic.
 
+[download 25.55 kB](https://www.dropbox.com/s/dn7a8ykpafx1ptb/hidemusic.sis?raw=1)
+
+
 ## Menu Speedup v1.3 ##
 
 Утилита от BodyZ ставящая Меню в автозапуск. На N-Gage Classic меню запускается после прогрузки режима ожидания.
