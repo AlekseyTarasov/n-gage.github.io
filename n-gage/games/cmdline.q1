@@ -1,0 +1,2 @@
+sdlquake -game HL -mem 16 -gamma 0.3 -fsaa
+ 
