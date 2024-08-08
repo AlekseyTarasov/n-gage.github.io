@@ -7,9 +7,9 @@ tags: [themes]
 ## SYSiconz theme ##
 
 {:.img-center}
-![SYSiconz](https://www.dropbox.com/s/pyuzs191glifuhw/SYSiconz-one.jpg?raw=1)
-![SYSiconz](https://www.dropbox.com/s/gxc8urmal42xa39/SYSiconz-two.jpg?raw=1)
-![SYSiconz](https://www.dropbox.com/s/ug1dbzjihup2h3e/SYSiconz-three.jpg?raw=1)
+![SYSiconz](https://n-gage.site/SYSiconz-one.jpg)
+![SYSiconz](https://n-gage.site/SYSiconz-two.jpg)
+![SYSiconz](https://n-gage.site/SYSiconz-three.jpg)
 
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 
@@ -19,7 +19,7 @@ tags: [themes]
 
 Update 24.03.12 Нашел способ замены 5 не хватающих иконок, а именно: Диктофон, Видеоплеер, Приложения, Диспетчер игр и Меню сим карты. В итоге заменяются все иконки меню на n-gage qd. Остался лишь один баг, это окошко системной ошибки при нажатии на иконку режимов и меню сим карты (но в само приложение спокойно заходит).
 
-[download 237.45 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/FreakIconsQD.zip)
+[download 237.45 kb](https://n-gage.site/n-gage/themes/FreakIconsQD.zip)
 
 Update 20.04.14 Сделал полную замену и на n-gage classic. На classic бага с окошком системной ошибки - нету.
 
@@ -29,9 +29,9 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 ## Mac OS theme ##
 
 {:.img-center}
-![MacOS](https://www.dropbox.com/s/qam9wvhrf9uev01/MacOS-one.jpg?raw=1)
-![MacOS](https://www.dropbox.com/s/0x8zwt4duxgu633/MacOS-two.jpg?raw=1)
-![MacOS](https://www.dropbox.com/s/i4s9qgkix6vlmsc/MacOS-three.jpg?raw=1)
+![MacOS](https://n-gage.site/MacOS-one.jpg)
+![MacOS](https://n-gage.site/MacOS-two.jpg)
+![MacOS](https://n-gage.site/MacOS-three.jpg)
 
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал товарищ Black92
 
@@ -39,12 +39,12 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 
 1.Все из папки FreakIcons скинуть в E:\System\Apps и перезагрузить n-gage
 
-[download 182.01 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/Mac%20OS.zip)
+[download 182.01 kb](https://n-gage.site/n-gage/themes/Mac%20OS.zip)
 
 ## N-Series theme ##
 
 {:.img-center}
-![N-Series](https://www.dropbox.com/s/eebgiqgxw3thjjw/N_Gage_QD_skin_by_Cacoman.jpg?raw=1)
+![N-Series](https://n-gage.site/N_Gage_QD_skin_by_Cacoman.jpg)
 
 Пересобрал тему для русского языка от Cacoman
 
@@ -62,17 +62,17 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 
 P.S. для n-gage qd тема не меняет 4 значка, так как в оригинальном файле их нету.
 
-[download 434.16 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/N-Gage_QD_skin.zip)
+[download 434.16 kb](https://n-gage.site/n-gage/themes/N-Gage_QD_skin.zip)
 
 ## Game icons ##
 
 {:.img-center}
-![GameIcons](https://www.dropbox.com/s/kpqilvqmnv9w0b4/rectangle-one.jpg?raw=1)
-![GameIcons](https://www.dropbox.com/s/h2dfvo97xb8k7pp/rectangle-two.jpg?raw=1)
+![GameIcons](https://n-gage.site/rectangle-one.jpg)
+![GameIcons](https://n-gage.site/rectangle-two.jpg)
 
 Иконки для всех N-Gage игр, за исключением глючной иконки Red Faction и Splinter Cell Chaos Theory (см. скриншоты - пока обнаружил косяки только в них)
 
-[Обзорный скриншот](https://www.dropbox.com/s/5u2hu2oc1n0t8yf/ngamesiconsuv5.jpg?raw=1)
+[Обзорный скриншот](https://n-gage.site/ngamesiconsuv5.jpg)
 
 Помимо иконок к n-gage играм также присутствуют иконки к:
 
@@ -81,13 +81,13 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 
 Упаковано все как в *.aif-варианте так и в sis-варианте для упрощения установки (отсутствует только для Splinter Cell Chaos Theory - она есть в *.aif*)
 
-[download 420.24 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/game_icons.rar)
+[download 420.24 kb](https://n-gage.site/n-gage/themes/game_icons.rar)
 
 ## Mac Style game icons ##
 
 {:.img-center}
-![Mac-Style](https://www.dropbox.com/s/54hqd5pfuzdcqiv/game-one.jpg?raw=1)
-![Mac-Style](https://www.dropbox.com/s/ygkysg2sqb4yltf/game-two.jpg?raw=1)
+![Mac-Style](https://n-gage.site/game-one.jpg?raw=1)
+![Mac-Style](https://n-gage.site/game-two.jpg?raw=1)
 
 Новые Иконки для N-Gage игр. На скриншотах видна только часть иконок, в архиве их больше, но, к сожалению, не для абсолютно всей линейки.
 
@@ -99,7 +99,7 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 
 За иконки спасибо [Олегу Ковальковскому](http://vk.com/id136338503)
 
-[download 223.71 kb](https://dl.dropboxusercontent.com/u/33967130/n-gage/themes/mac-style-game-icons.zip)
+[download 223.71 kb](https://n-gage.site/n-gage/themes/mac-style-game-icons.zip)
 
 ## Fonts ##
 
@@ -122,15 +122,15 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 3. теперь можно спокойно удалять нашу папку Fonts1
 
 
-[download 52.12 kb](https://www.dropbox.com/s/lo49hf4a8h5kyof/phoneticfont.zip?raw=1)
+[download 52.12 kb](https://n-gage.site/phoneticfont.zip)
 
 ## Clock ##
 Для тех кому надоел вид часов на своих n-gage. Те же шрифты только вытянуты с апаратов nokia и siemens.
 
 {:.img-center}
-![Clock-qd](https://www.dropbox.com/s/49wn2lsnz28xzcd/Clock-qd.jpg?raw=1)
-![Clock-SX1](https://www.dropbox.com/s/q349fztguamgv8i/Clock-SX1.jpg?raw=1)
-![Clock-nokia](https://www.dropbox.com/s/ki6di4u8mghxy6p/Clock-nokia.jpg?raw=1)
+![Clock-qd](https://n-gage.site/Clock-qd.jpg)
+![Clock-SX1](https://n-gage.site/Clock-SX1.jpg)
+![Clock-nokia](https://n-gage.site/Clock-nokia.jpg)
 
 Первый скриншот - часы от n-gage qd (актуально для классической n-gage), второй - от Siemens SX1. Заменяют только часы. Часы от смартфонов nokia, заменяю как сам шрифт так и часы. На моем n-gage с этим шрифтом почему то не работали картинки.
 
