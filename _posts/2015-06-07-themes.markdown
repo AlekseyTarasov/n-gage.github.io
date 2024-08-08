@@ -7,9 +7,9 @@ tags: [themes]
 ## SYSiconz theme ##
 
 {:.img-center}
-![SYSiconz](https://n-gage.site/SYSiconz-one.jpg)
-![SYSiconz](https://n-gage.site/SYSiconz-two.jpg)
-![SYSiconz](https://n-gage.site/SYSiconz-three.jpg)
+![SYSiconz](https://n-gage.site/themes/SYSiconz-one.jpg)
+![SYSiconz](https://n-gage.site/themes/SYSiconz-two.jpg)
+![SYSiconz](https://n-gage.site/themes/SYSiconz-three.jpg)
 
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 
@@ -29,9 +29,9 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 ## Mac OS theme ##
 
 {:.img-center}
-![MacOS](https://n-gage.site/MacOS-one.jpg)
-![MacOS](https://n-gage.site/MacOS-two.jpg)
-![MacOS](https://n-gage.site/MacOS-three.jpg)
+![MacOS](https://n-gage.site/themes/MacOS-one.jpg)
+![MacOS](https://n-gage.site/themes/MacOS-two.jpg)
+![MacOS](https://n-gage.site/themes/MacOS-three.jpg)
 
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал товарищ Black92
 
@@ -44,7 +44,7 @@ Update 20.04.14 Сделал полную замену и на n-gage classic. �
 ## N-Series theme ##
 
 {:.img-center}
-![N-Series](https://n-gage.site/N_Gage_QD_skin_by_Cacoman.jpg)
+![N-Series](https://n-gage.site/themes/N_Gage_QD_skin_by_Cacoman.jpg)
 
 Пересобрал тему для русского языка от Cacoman
 
@@ -67,12 +67,12 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 ## Game icons ##
 
 {:.img-center}
-![GameIcons](https://n-gage.site/rectangle-one.jpg)
-![GameIcons](https://n-gage.site/rectangle-two.jpg)
+![GameIcons](https://n-gage.site/themes/rectangle-one.jpg)
+![GameIcons](https://n-gage.site/themes/rectangle-two.jpg)
 
 Иконки для всех N-Gage игр, за исключением глючной иконки Red Faction и Splinter Cell Chaos Theory (см. скриншоты - пока обнаружил косяки только в них)
 
-[Обзорный скриншот](https://n-gage.site/ngamesiconsuv5.jpg)
+[Обзорный скриншот](https://n-gage.site/themes/ngamesiconsuv5.jpg)
 
 Помимо иконок к n-gage играм также присутствуют иконки к:
 
@@ -86,8 +86,8 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 ## Mac Style game icons ##
 
 {:.img-center}
-![Mac-Style](https://n-gage.site/game-one.jpg?raw=1)
-![Mac-Style](https://n-gage.site/game-two.jpg?raw=1)
+![Mac-Style](https://n-gage.site/themes/game-one.jpg)
+![Mac-Style](https://n-gage.site/themes/game-two.jpg)
 
 Новые Иконки для N-Gage игр. На скриншотах видна только часть иконок, в архиве их больше, но, к сожалению, не для абсолютно всей линейки.
 
@@ -122,15 +122,15 @@ P.S. для n-gage qd тема не меняет 4 значка, так как �
 3. теперь можно спокойно удалять нашу папку Fonts1
 
 
-[download 52.12 kb](https://n-gage.site/phoneticfont.zip)
+[download 52.12 kb](https://n-gage.site/n-gage/themes/phoneticfont.zip)
 
 ## Clock ##
 Для тех кому надоел вид часов на своих n-gage. Те же шрифты только вытянуты с апаратов nokia и siemens.
 
 {:.img-center}
-![Clock-qd](https://n-gage.site/Clock-qd.jpg)
-![Clock-SX1](https://n-gage.site/Clock-SX1.jpg)
-![Clock-nokia](https://n-gage.site/Clock-nokia.jpg)
+![Clock-qd](https://n-gage.site/n-gage/themes/Clock-qd.jpg)
+![Clock-SX1](https://n-gage.site/n-gage/themes/Clock-SX1.jpg)
+![Clock-nokia](https://n-gage.site/n-gage/themes/Clock-nokia.jpg)
 
 Первый скриншот - часы от n-gage qd (актуально для классической n-gage), второй - от Siemens SX1. Заменяют только часы. Часы от смартфонов nokia, заменяю как сам шрифт так и часы. На моем n-gage с этим шрифтом почему то не работали картинки.
 
