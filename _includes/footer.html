@@ -1,58 +1,31 @@
-<footer class="site-footer">
+<footer class="footer">
 
+  <section class="footer_navigation">| aasa</section>
+
+  <div class="footer_element"></div>
+
+  <section class="copyright_entry">| aasa</section>
 
 </footer>
 
-<!-- JavaScript -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
-<script>
-  $(document).ready(function(){
-    var values = ["road","park","caravan","grass","busstop","bar"];
-    var chosenValue = values[Math.floor(Math.random() * values.length)];
-    var chosenDiv = document.getElementById(chosenValue);
-        chosenDiv.style.display = "block";
-  });
+<script type="text/javascript">
+  var quoteOne = ["Anyone. "];
+  var quoteTwo = ["<p> Anywhere"];
+  var textPosition = 0; 
+  // speed in milliseconds
+  var speed = 80;
+  typewriter = () => {
+    document.querySelector("#typewriter").innerHTML = quoteOne[0].substring(0, textPosition) + quoteTwo[0].substring(0, textPosition);
+    
+    if(textPosition++ != quoteOne[0].length, quoteTwo[0].length)
+      setTimeout(typewriter, speed);
+  }
+
+  window.addEventListener("load", typewriter)
 </script>
 
+<script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
 <script>
-  $('a[href^="#"]').on('click', function(event) {
-    var target = $( $(this).attr('href') );
-    if( target.length ) {
-      event.preventDefault();
-      $('html, body').animate({
-        scrollTop: target.offset().top
-      }, 1000);
-    }
-  });
-</script>
-
-<script>
-$("body").on("contextmenu", "img", function(e) {
-  return false;
-});
-</script>
-
-<script>
-$(document.links).filter(function() {
-  return this.hostname != window.location.hostname;
-}).attr('target', '_blank');
-</script>
-
-<script>
-$(document).ready(function () {
-  $(window).scroll(function () {
-      if ($(this).scrollTop() > 100) {
-        $('.up').fadeIn();
-      } else {
-        $('.up').fadeOut();
-      }
-  });
-  $('.up').click(function () {
-    $("html, body").animate({
-      scrollTop: 0
-    }, 600);
-    return false;
-  });
-});
+  const player = new Plyr('#player');
 </script>
