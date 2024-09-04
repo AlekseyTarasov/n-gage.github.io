@@ -35,7 +35,7 @@
 body {
   font-family: 'Liberation Mono';
   color: #ccc;
-  background-image: url("../images/c.png");
+  background-image: url("../assets/images/c.png");
   /* background-image: url("../images/p.jpg"); */
   background-repeat: repeat;
   overflow-x: hidden;
