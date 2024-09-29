@@ -1,7 +1,7 @@
 ---
 title: "Themes"
 date: 2015-06-07
-tags: [themes]
+tags: [themes1]
 ---
 
 ## SYSiconz theme ##
