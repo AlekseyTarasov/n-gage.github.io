@@ -35,8 +35,8 @@
 body {
   font-family: 'Liberation Mono';
   color: #ccc;
-  background-image: url("../images/c.png");
-  /* background-image: url("../images/p.jpg"); */
+  background-image: url("../images/p.png");
+  /* background-image: url("../images/c.jpg"); */
   background-repeat: repeat;
   overflow-x: hidden;
 }
@@ -59,7 +59,7 @@ body {
 
 #topbar .inner {
   height: 33px;
-  background: url("../images/divider.png") repeat-x 0 100%;
+  background: url("../images/divider-alt.png") repeat-x 0 100%;
   display: block;
 }
 
