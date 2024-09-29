@@ -6,6 +6,7 @@ permalink: /themes/
 ---
 
 {% for post in site.posts %}
+{% if a.path contains 'themes' %}
   <article class="post">
 	<section class="post-header">
 	    <span>{{ post.date | date: "%d" }}</span><a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
@@ -25,4 +26,5 @@ permalink: /themes/
     <a class="button" href="examples/landing" target="_blank">Demo</a>
     <a class="button" href="https://github.com/dhg/Skeleton/tree/gh-pages/examples/landing" target="_blank">Source</a>
   </div>
+{% endif %}
 {% endfor %}
