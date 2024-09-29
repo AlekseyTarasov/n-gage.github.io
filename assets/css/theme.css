@@ -17,7 +17,6 @@ body {
   background-image: url("../images/pattern.png");
   /* background-image: url("../images/c.jpg"); */
   background-repeat: repeat;
-  overflow-x: hidden;
 }
 
 .hero{
