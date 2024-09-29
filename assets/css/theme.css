@@ -1,35 +1,6 @@
+
+
 /* font-face */
-
-    @font-face {
-    font-family: 'Liberation Mono';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Liberation Mono'), url('../fonts/LiberationMono-Regular.woff') format('woff');
-    }
-    
-
-    @font-face {
-    font-family: 'Liberation Mono Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Liberation Mono Italic'), url('../fonts/LiberationMono-Italic.woff') format('woff');
-    }
-    
-
-    @font-face {
-    font-family: 'Liberation Mono Bold';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Liberation Mono Bold'), url('../fonts/LiberationMono-Bold.woff') format('woff');
-    }
-    
-
-    @font-face {
-    font-family: 'Liberation Mono Bold Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Liberation Mono Bold Italic'), url('../fonts/LiberationMono-BoldItalic.woff') format('woff');
-    }
 
     @font-face {
       font-family: 'ccyal6w4';
@@ -45,7 +16,7 @@
   }
 
 body {
-  font-family: 'Liberation Mono';
+  font-family: "Open Sans", sans-serif;
   color: #ccc;
   background-image: url("../images/pattern.png");
   /* background-image: url("../images/c.jpg"); */
@@ -76,7 +47,7 @@ body {
 }
 
 .historyback{
-  font-family: 'Liberation Mono Bold';
+  font-family: "Open Sans", sans-serif;
   letter-spacing: .25em;
   font-size: 9px;
   line-height: 36px;
@@ -94,7 +65,7 @@ body {
 }
 
 #typewriter{
-  font-family: 'Liberation Mono Bold';
+  font-family: "Open Sans", sans-serif;
   font-size: 12px;
   letter-spacing: .25em;
   color: #fff;
@@ -111,7 +82,7 @@ body {
 
 
 .h1_title {
-    font-family: 'Liberation Mono Bold';
+  font-family: "Open Sans", sans-serif;
     letter-spacing: .2rem;
     text-shadow: 0 1px 0 #000;
 position: relative;
@@ -279,7 +250,7 @@ background-repeat: no-repeat;
 }
 
 .navbar-link {
-  font-family: 'Liberation Mono Bold';
+  font-family: "Open Sans", sans-serif;
 	text-transform: uppercase;
 	font-size: 9px;
 	letter-spacing: .2rem;
@@ -320,6 +291,7 @@ background: #0C0C0C;
 }
 
 .gage_content{
+  font-family: 'Open Sans', Lato, LatoExtended, sans-serif;
   display: block;
   margin-bottom: 40px;
   font-size: 12px;
