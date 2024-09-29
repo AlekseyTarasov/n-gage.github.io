@@ -44,7 +44,6 @@ body {
 }
 
 .historyback{
-  font-family: "Open Sans", sans-serif;
   letter-spacing: .25em;
   font-size: 9px;
   line-height: 36px;
@@ -62,7 +61,6 @@ body {
 }
 
 #typewriter{
-  font-family: "Open Sans", sans-serif;
   font-size: 12px;
   letter-spacing: .25em;
   color: #fff;
@@ -79,7 +77,6 @@ body {
 
 
 .h1_title {
-  font-family: "Open Sans", sans-serif;
     letter-spacing: .2rem;
     text-shadow: 0 1px 0 #000;
 position: relative;
@@ -181,7 +178,6 @@ margin: 0;
 width: 194px;
 background: #fff url(images/searchform.png) no-repeat 7px 50%;
 color: #aeaeae;
-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 12px;
 border: 1px solid #bfc2c4;
 padding: 4px 7px 4px 27px;
@@ -288,7 +284,6 @@ background: #0C0C0C;
 }
 
 .gage_content{
-  font-family: 'Open Sans', Lato, LatoExtended, sans-serif;
   display: block;
   margin-bottom: 40px;
   font-size: 12px;
