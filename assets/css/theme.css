@@ -3,12 +3,9 @@
 /* font-face */
 
     @font-face {
-      font-family: 'ccyal6w4';
-      src:url('../fonts/ccyal6w4.woff') format('woff'),
-          url('../fonts/ccyal6w4.woff2') format('woff2'),
-          url('../fonts/ccyal6w4.eot'),
-          url('../fonts/ccyal6w4.eot?#iefix') format('embedded-opentype'),
-          url('../fonts/ccyal6w4.otf') format('truetype');
+      font-family: 'HomeVideo-Regular';
+      src:url('../fonts/HomeVideo-Regular.woff') format('woff'),
+          url('../fonts/HomeVideo-Regular.woff2') format('woff2'),
   
       font-weight: normal;
       font-style: normal;
@@ -16,7 +13,7 @@
   }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "HomeVideo-Regular", sans-serif;
   color: #ccc;
   background-image: url("../images/pattern.png");
   /* background-image: url("../images/c.jpg"); */
