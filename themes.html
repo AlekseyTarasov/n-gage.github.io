@@ -6,25 +6,24 @@ permalink: /themes/
 ---
 
 {% for post in site.posts %}
-{% if a.path contains 'themes' %}
-  <article class="post">
-	<section class="post-header">
-	    <span>{{ post.date | date: "%d" }}</span><a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
-    </section>
-    {{ post.excerpt }}
-  </article>
+  {% if a.path contains 'themes' %}
+    <article class="post">
+    <section class="post-header">
+        <span>{{ post.date | date: "%d" }}</span><a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
+      </section>
+    </article>
 
-  <h6 class="header">{{ post.title }}</h6>
-  <div class="one-half column">
-  <a target="_blank" href="examples/landing">
-    <img class="screenshot" src="images/ms.png">
-  </a>
-</div>
-  <div class="one-half column">
-    <p class="description">Программка которая позволяет сохранять сообщения на карту памяти, для тех телефонов где это не предусмотрено.</p>
-
-    <a class="button" href="examples/landing" target="_blank">Demo</a>
-    <a class="button" href="https://github.com/dhg/Skeleton/tree/gh-pages/examples/landing" target="_blank">Source</a>
+    <h6 class="header">{{ post.title }}</h6>
+    <div class="one-half column">
+    <a target="_blank" href="examples/landing">
+      <img class="screenshot" src="images/ms.png">
+    </a>
   </div>
-{% endif %}
+    <div class="one-half column">
+      <p class="description">Программка которая позволяет сохранять сообщения на карту памяти, для тех телефонов где это не предусмотрено.</p>
+
+      <a class="button" href="examples/landing" target="_blank">Demo</a>
+      <a class="button" href="https://github.com/dhg/Skeleton/tree/gh-pages/examples/landing" target="_blank">Source</a>
+    </div>
+  {% endif %}
 {% endfor %}
