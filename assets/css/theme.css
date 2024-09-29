@@ -13,7 +13,6 @@
   }
 
 body {
-  font-family: "HomeVideo-Regular", sans-serif;
   color: #ccc;
   background-image: url("../images/pattern.png");
   /* background-image: url("../images/c.jpg"); */
@@ -26,6 +25,7 @@ body {
 }
 
 .section-hero{
+  font-family: "HomeVideo-Regular", sans-serif;
   background-image: url("../images/hero.jpg");
   background-repeat: no-repeat;
   background-color: #030303;
