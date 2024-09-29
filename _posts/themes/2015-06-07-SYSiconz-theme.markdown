@@ -1,5 +1,6 @@
 ---
 title: "SYSiconz theme"
+screenshot: "https://n-gage.site/themes/SYSiconz-one.jpg"
 ---
 
 ## SYSiconz theme ##

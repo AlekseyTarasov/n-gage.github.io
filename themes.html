@@ -7,16 +7,10 @@ permalink: /themes/
 
 {% for post in site.posts %}
   {% if post.path contains 'themes' %}
-    <article class="post">
-    <section class="post-header">
-        <span>{{ post.date | date: "%d" }}</span><a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
-      </section>
-    </article>
-
     <h6 class="header">{{ post.title }}</h6>
     <div class="one-half column">
     <a target="_blank" href="examples/landing">
-      <img class="screenshot" src="assets/images/ms.png">
+      <img class="screenshot" src="{{ post.screenshot }}">
     </a>
   </div>
     <div class="one-half column">
@@ -25,6 +19,3 @@ permalink: /themes/
     </div>
   {% endif %}
 {% endfor %}
-
-
-{% for post in site.posts %} {% if post.categories contains 'bootstrap' %} #### [{{post.title}}]({{post.url}})<br/><small>{{ post.date | date_to_long_string }}</small> By: {{post.author}} {% endif %} {% endfor %}
