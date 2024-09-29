@@ -6,7 +6,7 @@ permalink: /themes/
 ---
 
 {% for post in site.posts %}
-  {% if post.categories 'themes' %}
+  {% if post.path contains 'themes' %}
     <article class="post">
     <section class="post-header">
         <span>{{ post.date | date: "%d" }}</span><a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
@@ -29,3 +29,4 @@ permalink: /themes/
 {% endfor %}
 
 
+{% for post in site.posts %} {% if post.categories contains 'bootstrap' %} #### [{{post.title}}]({{post.url}})<br/><small>{{ post.date | date_to_long_string }}</small> By: {{post.author}} {% endif %} {% endfor %}
