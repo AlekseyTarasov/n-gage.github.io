@@ -10,10 +10,9 @@ The Buzz
   {% if post.path contains 'articles' %}
   <section>
     <span>{{ post.date | date: "%d" }}</span> 
-    <a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
-    {{ post.description }}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.description }}
   </section>
-{{ post.excerpt }}
   {% endif %}
 </div>
 {% endfor %}
