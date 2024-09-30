@@ -8,8 +8,10 @@ The Buzz
 {% for post in site.posts %}
 <div class="news_entries">
   {% if post.path contains 'articles' %}
-  <span>{{ post.date | date: "%d" }}</span><a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
-</section>
+  <section>
+    <span>{{ post.date | date: "%d" }}</span><a href="{{ post.url }}" id="{{ post.tags }}">{{ post.title }}</a>
+    {{ post.description}}
+  </section>
 {{ post.excerpt }}
   {% endif %}
 </div>
