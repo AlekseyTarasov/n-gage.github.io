@@ -36,6 +36,15 @@ body {
   top: 0px;
   left: 0px;
   height: 180px;
+  background: url("../images/photo-2.png") no-repeat;
+}
+
+#caravan{
+  display: none;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 180px;
   background: url("../images/photo-3.png") no-repeat;
 }
 
@@ -72,16 +81,6 @@ body {
   text-shadow: 0 1px 0 #000;
   text-transform: uppercase;
 }
-
-.animation{
-  position: relative;
-  top: 0px;
-  left: 0px;
-  background: url("../images/photo.png") no-repeat;
-  height: 180px;
-}
-
-
 
 #typewriter{
   font-size: 12px;
