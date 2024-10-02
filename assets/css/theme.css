@@ -1,4 +1,14 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono&display=swap');
+
+.martian-mono-<uniquifier> {
+  font-family: "Martian Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
 
 /* font-face */
 
@@ -307,6 +317,7 @@ background: #0C0C0C;
 }
 
 .gage_content{
+  font-family: "Martian Mono", monospace;
   display: block;
   margin-bottom: 40px;
   font-size: 12px;
