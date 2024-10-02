@@ -4,6 +4,17 @@
   <section class="copyright_entry">| aasa</section>
 </footer>
 
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    var values = ["road","park"];
+    var chosenValue = values[Math.floor(Math.random() * values.length)];
+    var chosenDiv = document.getElementById(chosenValue);
+        chosenDiv.style.display = "block";
+  });
+</script>
 
 <script type="text/javascript">
   var quoteOne = ["Anyone. "];

@@ -19,6 +19,18 @@ body {
   background-repeat: repeat;
 }
 
+/* Random Logo */
+
+#road {
+  display: none;
+}
+
+
+#park {
+  display: none;
+}
+
+
 .hero{
   background-color: #030303;
 }
@@ -58,6 +70,22 @@ body {
   left: 0px;
   background: url("../images/photo.png") no-repeat;
   height: 180px;
+}
+
+.road{
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 180px;
+  background-repeat: no-repeat;
+}
+
+.park{
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 180px;
+  background-repeat: no-repeat;
 }
 
 #typewriter{
