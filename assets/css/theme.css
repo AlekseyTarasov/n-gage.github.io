@@ -21,13 +21,22 @@ body {
 
 /* Random Logo */
 
-#road {
+#road{
   display: none;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 180px;
+  background: url("../images/photo.png") no-repeat;
 }
 
-
-#park {
+#park{
   display: none;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 180px;
+  background: url("../images/photo-3.png") no-repeat;
 }
 
 
@@ -72,21 +81,7 @@ body {
   height: 180px;
 }
 
-.road{
-  position: relative;
-  top: 0px;
-  left: 0px;
-  height: 180px;
-  background-repeat: no-repeat;
-}
 
-.park{
-  position: relative;
-  top: 0px;
-  left: 0px;
-  height: 180px;
-  background-repeat: no-repeat;
-}
 
 #typewriter{
   font-size: 12px;
