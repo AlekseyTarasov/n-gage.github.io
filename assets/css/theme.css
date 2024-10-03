@@ -114,7 +114,17 @@ body {
   margin-left: 30px;
 }
 
-#typewriter {
+.flex-center-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.text{
+  font-size:100px;
+  font-weight: 800;
+}
+.text-4 {
     animation: text-shadow 2.5s linear infinite;
     filter: invert(0) blur(5px);
 }
