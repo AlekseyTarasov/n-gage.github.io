@@ -38,15 +38,13 @@
 </script>
 
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-<script>
-        window.RufflePlayer = window.RufflePlayer || {};
-        window.addEventListener("load", (event) => {
-            const ruffle = window.RufflePlayer.newest();
-            const player = ruffle.createPlayer();
-            const container = document.getElementById("arenanav"); 
-            container.appendChild(player);
-            player.load({
-                url: "/assets/images/arenanav.swf", 
-             });
-        });
-    </script>
+
+
+    <script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.RufflePlayer.config = {
+        "warnOnUnsupportedContent": false, 
+        "autoplay": "on", 
+        "unmuteOverlay": "hidden"
+    };
+</script>
