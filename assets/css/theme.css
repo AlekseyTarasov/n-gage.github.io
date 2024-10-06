@@ -386,11 +386,12 @@ background: #0C0C0C;
   font-family: "Martian Mono", monospace;
   display: block;
   margin-bottom: 40px;
-  font-size: 1em;
+  font-size: 1rem;
   color: #cccccc;
 }
 
 .news_entries a{
+  font-size: 1.2em;
   font-family: "HomeVideo-Regular", sans-serif;
 }
 
