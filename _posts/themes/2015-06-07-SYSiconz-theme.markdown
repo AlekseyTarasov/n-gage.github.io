@@ -6,9 +6,9 @@ alt-download-link: ""
 ---
 
 {:.img-center}
-![SYSiconz](https://n-gage.site/themes/SYSiconz-one.jpg)
-![SYSiconz](https://n-gage.site/themes/SYSiconz-two.jpg)
-![SYSiconz](https://n-gage.site/themes/SYSiconz-three.jpg)
+![SYSiconz](/n-gage./themes/SYSiconz-one.jpg)
+![SYSiconz](/n-gage/themes/SYSiconz-two.jpg)
+![SYSiconz](/n-gage/themes/SYSiconz-three.jpg)
 
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 
