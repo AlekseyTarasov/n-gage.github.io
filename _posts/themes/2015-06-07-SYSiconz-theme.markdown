@@ -6,7 +6,7 @@ alt-download-link: ""
 ---
 
 {:.img-center}
-![SYSiconz](/n-gage./themes/SYSiconz-one.jpg)
+![SYSiconz](/n-gage/themes/SYSiconz-one.jpg)
 ![SYSiconz](/n-gage/themes/SYSiconz-two.jpg)
 ![SYSiconz](/n-gage/themes/SYSiconz-three.jpg)
 
