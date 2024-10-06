@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    {% include topbar.html %}
+
+    <div class="container">
+      <div class="row">
+        <div class="one-half column" style="margin-top: 5%">
+          <h1 class="h1_title">
+                  {{ page.title }}
+                <div class="h1_title_corner"></div>
+                </h1>
+          <p>{{ page.description }}</p>
+          <img src="/assets/images/splash.gif">
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="six columns">
+          <section class="gage_content">
+            {{ content }}
+          </section>
+        </div>
+
+        <div class="three columns">
+          {% include slide.html %}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
