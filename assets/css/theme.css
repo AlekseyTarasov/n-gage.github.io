@@ -549,9 +549,30 @@ h3 {
   border-right: solid 2px #000;
   border-bottom: solid 2px #000;
   background-color: #7D0601;
+  font-size: 11px;
+  font-style: normal;
+  text-decoration: none;
+  color: #CCCCCC;
 }
 
 .side_box_content {
   padding: 12px;
   border: solid 1px #525252;
+}
+
+.tab_contents {
+  font: 12px arial, helvetica;
+  color: #cccccc;
+  position: absolute;
+  left: 0px;
+  top: 15px;
+  background: #2B2B2B;
+  border: 1px solid #121212;
+}
+
+.yellowheader12b {
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #FFBE00;
 }
