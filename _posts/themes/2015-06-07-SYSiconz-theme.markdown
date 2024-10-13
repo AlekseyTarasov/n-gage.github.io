@@ -8,11 +8,6 @@ quote: |
     Hack the Planet!
 ---
 
-{:.img-center}
-![SYSiconz](/n-gage/themes/SYSiconz-one.jpg)
-![SYSiconz](/n-gage/themes/SYSiconz-two.jpg)
-![SYSiconz](/n-gage/themes/SYSiconz-three.jpg)
-
 Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 
 Установка:
@@ -26,3 +21,8 @@ Update 24.03.12 Нашел способ замены 5 не хватающих �
 Update 20.04.14 Сделал полную замену и на n-gage classic. На classic бага с окошком системной ошибки - нету.
 
 [download 237.45 kb]()
+
+{:.img-center}
+![SYSiconz](/n-gage/themes/SYSiconz-one.jpg)
+![SYSiconz](/n-gage/themes/SYSiconz-two.jpg)
+![SYSiconz](/n-gage/themes/SYSiconz-three.jpg)
