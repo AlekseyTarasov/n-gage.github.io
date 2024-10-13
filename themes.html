@@ -13,6 +13,7 @@ permalink: /themes/
         <img class="screenshot" src="{{ post.screenshot }}">
       </div>
       <div class="two-thirds column">
+        <p class="quote">{{ post.quote | markdownify }}</p> 
         <a class="button" href="{{ post.download-link }}" target="_blank">Source</a>
       </div>
       <p class="description">{{ post.content }}</p>
