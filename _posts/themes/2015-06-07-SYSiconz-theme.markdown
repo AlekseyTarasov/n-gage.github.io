@@ -1,8 +1,11 @@
 ---
 title: "SYSiconz theme"
-screenshot: "https://n-gage.site/themes/SYSiconz-one.jpg"
+screenshot: "/n-gage/themes/SYSiconz-one.jpg"
 download-link: ""
 alt-download-link: ""
+quote: |
+    Hack the Planet!  
+    Hack the Planet!
 ---
 
 {:.img-center}
