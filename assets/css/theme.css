@@ -604,3 +604,13 @@ h3 {
   border: 1px solid #eee;
   height: 250px;
 }
+
+@media (min-width: 550px) {
+  .example-screenshot-wrapper {
+      position: absolute;
+      width: 48%;
+      height: 100%;
+      left: 0;
+      max-height: none;
+  }
+}
