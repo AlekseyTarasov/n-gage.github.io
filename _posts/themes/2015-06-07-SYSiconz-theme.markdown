@@ -4,11 +4,8 @@ screenshot: "/n-gage/themes/SYSiconz-one.jpg"
 download-link: ""
 alt-download-link: ""
 quote: |
-    Hack the Planet!  
-    Hack the Planet!
+    Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 ---
-
-Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 
 Установка:
 
