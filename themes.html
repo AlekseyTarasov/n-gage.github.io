@@ -7,17 +7,6 @@ permalink: /themes/
 
 {% for post in site.posts %}
   {% if post.path contains 'themes' %}
-    <h3 class="header">{{ post.title }}</h3>
-    <div class="row">
-      <div class="one-third column">
-        <img class="screenshot" src="{{ post.screenshot }}">
-      </div>
-      <div class="two-thirds column">
-        <p class="quote">{{ post.quote | markdownify }}</p> 
-        <a class="button" href="{{ post.download-link }}" target="_blank">Source</a>
-      </div>
-      <p class="description">{{ post.content }}</p>
-    </div>
 
 <div class="docs-section examples" id="examples">
       <div class="row example">
