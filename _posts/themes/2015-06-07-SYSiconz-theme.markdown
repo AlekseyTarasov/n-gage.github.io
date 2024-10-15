@@ -2,7 +2,7 @@
 title: "SYSiconz theme"
 screenshot: "/n-gage/themes/SYSiconz-one.jpg"
 download-link: ""
-alt-download-link: "/n-gage/themes/SYSiconz-one.jpg""
+alt-download-link: "/n-gage/themes/SYSiconz-one.jpg"
 quote: |
     Это рабочий вариант который я пересобрал. Оригинал взял с dimonvideo, прислал Black92
 ---
