@@ -595,3 +595,12 @@ h3 {
   width: 100%;
   height: auto;
 }
+
+.example-screenshot-wrapper {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  border: 1px solid #eee;
+  height: 250px;
+}
