@@ -585,3 +585,8 @@ h3 {
   font-size: 1.1rem;
   letter-spacing: .2rem;
 }
+
+.example {
+  position: relative;
+  margin-top: 4rem;
+}
