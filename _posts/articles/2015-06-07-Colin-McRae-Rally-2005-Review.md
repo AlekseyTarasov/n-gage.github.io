@@ -1,9 +1,9 @@
 ---
+layout: articles
 title: "Colin Mcrae Rally 2005 Ревью"
 description: "«Підводячи підсумок, це до біса добре. Час, необхідний для проходження етапу Colin McRae Rally, є ідеальним, а пристойна система збереження означає, що проходження ралійного чемпіонату - це задоволення, яке можна отримати за кілька днів». -- All About N-Gage"
+screenshot: "/n-gage/articles/colin_banner.jpg"
 ---
-
-![Colin McRae Rally 2005](/n-gage/articles/colin_banner.jpg)
 
 <img alt="Colin McRae Rally" src="/n-gage/articles/Colin100.jpg" vspace="5" hspace="5" border="1" align="left">
 

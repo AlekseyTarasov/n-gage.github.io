@@ -1,0 +1,17 @@
+---
+title: "fixss v1.06"
+screenshot: "/n-gage/utilities/almalert.jpg"
+download-link: "http://downloads.sourceforge.net/almalert/almalert_1_00.zip"
+alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
+quote: |
+    Розробник: [z-g](https://sourceforge.net/u/z-g/)\
+    Версія: 1.06\
+    Контейнер: .sis\
+    Сумісність: n-gage.
+---
+
+Оригінальний опис файла fixss версии 1.03 и короткий чейнджлог.
+
+Цей обхідний спосіб вирішує оригінальну проблему N-Gage, коли під час запуску відображається повідомлення:
+
+fixss 1.05 — добавлен новый фикс. при записи телефонных разговоров писк каждые пять секунд теперь отсутствует.
