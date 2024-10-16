@@ -598,6 +598,7 @@ h3 {
   overflow: hidden;
   height: 250px;
   background: url("../images/screen-overlay.png") no-repeat;
+  margin: 20px;
 }
 
 @media (min-width: 550px) {
