@@ -17,7 +17,7 @@ permalink: /utilities/
           <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
           <p class="example-description">{{ post.quote | markdownify }}</p>
           <a class="button" href="{{ post.download-link }}" target="_blank">Demo</a>
-          {% if post contains 'alt-download-link' %}
+          {% if post post.alt-download-link %}
             <a class="button" href="{{ post.alt-download-link }}" target="_blank">Source</a>
           {% endif %}
         </div>
