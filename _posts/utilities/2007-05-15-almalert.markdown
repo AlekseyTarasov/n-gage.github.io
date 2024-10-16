@@ -4,9 +4,10 @@ screenshot: "/n-gage/themes/"
 download-link: "http://downloads.sourceforge.net/almalert/almalert_1_00.zip"
 alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
 quote: |
-    Розробник: [z-g](https://sourceforge.net/u/z-g/)
-    Контейнер: .sis
-    Сумісність: n-gage, qd, 3650.
+    Розробник: [z-g](https://sourceforge.net/u/z-g/)\
+    Версія: 1.00\
+    Контейнер: .sis\
+    Сумісність: n-gage, qd, 3650.\
 ---
 
 Замінює стандартний будильник, розширюючи його функціонал. На даний момент, у порівнянні зі звичайним будильником, реалізована наступна додаткова функціональність:
