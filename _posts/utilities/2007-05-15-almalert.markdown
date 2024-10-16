@@ -5,7 +5,7 @@ download-link: "http://downloads.sourceforge.net/almalert/almalert_1_00.zip"
 alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
 quote: |
     Розробник: [z-g](https://sourceforge.net/u/z-g/)
-    
+    Контейнер: .sis
     Сумісність: n-gage, qd, 3650.
 ---
 
