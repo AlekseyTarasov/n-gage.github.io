@@ -1,6 +1,6 @@
 ---
 title: "fixss v1.06"
-screenshot: "/n-gage/utilities/almalert.jpg"
+screenshot: "/n-gage/utilities/874027.jpg"
 download-link: "http://downloads.sourceforge.net/almalert/almalert_1_00.zip"
 alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
 quote: |
