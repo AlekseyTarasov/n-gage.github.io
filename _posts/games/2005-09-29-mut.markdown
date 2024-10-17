@@ -1,7 +1,7 @@
 ---
 title: "Mut - Multi User Tetris v1.00a"
 screenshot: "/n-gage/utilities/almalert.jpg"
-download-link: "https://github.com/ngagesdk/wordle/releases/download/v1.03/ngage-wordle-v1.03.sis"
+download-link: "http://www.koeniglich.de/mut/Mut-1.0-series60.sis"
 alt-download-link: ""
 quote: |
     Розробник: [MupfDev](https://mupf.dev)\
