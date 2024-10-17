@@ -1,8 +1,8 @@
 ---
 title: "Python 1.4.5"
-screenshot: "/n-gage/utilities/almalert.jpg"
+screenshot: "/n-gage/programs/python.jpg"
 download-link: ""
-alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
+alt-download-link: ""
 quote: |
     Розробник: [Nokia, BodyZ](https://www.smartphoneware.com)\
     Версія: 1.4.5\
