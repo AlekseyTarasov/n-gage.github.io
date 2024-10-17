@@ -4,7 +4,7 @@ screenshot: ""
 download-link: "https://dimonvideo.ru/uploader/457184"
 alt-download-link: ""
 quote: |
-    Розробник: [Synergenix](https://sourceforge.net/projects/quakes60/)\
+    Розробник: [Synergenix](http://www.mophun.com)\
     Версія: 2.15\
     Контейнер: .sis\
     Сумісність: S60v1.x-S60v2.x.
