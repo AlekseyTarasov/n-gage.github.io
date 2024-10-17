@@ -1,6 +1,6 @@
 ---
 title: "7 Days Salvation"
-screenshot: "/n-gage/utilities/almalert.jpg"
+screenshot: "/n-gage/games/7_Days_Salvation.png"
 download-link: ""
 alt-download-link: ""
 quote: |
@@ -9,7 +9,5 @@ quote: |
     Контейнер: .exe, cfg\
     Сумісність: S60 1st.
 ---
-
-Cюжет ([з Вікіпедії](https://uk.wikipedia.org/wiki/Quake)):
 
 https://indienova.com/g/7Days

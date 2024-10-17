@@ -1,6 +1,6 @@
 ---
 title: "Mophun Emulator 2.15"
-screenshot: ""
+screenshot: "/n-gage/games/mophun.png"
 download-link: "https://dimonvideo.ru/uploader/457184"
 alt-download-link: ""
 quote: |

@@ -1,6 +1,6 @@
 ---
 title: "Wordle v1.03"
-screenshot: "/n-gage/utilities/almalert.jpg"
+screenshot: "/n-gage/utilities/promo.jpg"
 download-link: "https://github.com/ngagesdk/wordle/releases/download/v1.03/ngage-wordle-v1.03.sis"
 alt-download-link: ""
 quote: |

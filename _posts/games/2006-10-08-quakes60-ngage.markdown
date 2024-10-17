@@ -1,6 +1,6 @@
 ---
 title: "Quake I for Nokia Series 60 devices"
-screenshot: "/n-gage/utilities/almalert.jpg"
+screenshot: "/n-gage/utilities/quakeone.png"
 download-link: "https://sourceforge.net/projects/quakes60/files/beta-versions/prealpha%200.06/quakes60-ngage.zip/"
 alt-download-link: ""
 quote: |
@@ -21,3 +21,7 @@ Cюжет ([з Вікіпедії](https://uk.wikipedia.org/wiki/Quake)):
 2. Папку id1 з архіву quakes60-ngage.zip скопіювати в корінь карти пам'яті (E:).
 3. Файл pak0.pak помістити в папку id1.
 4. Запускати файл quakes60.exe за допомогою будь-якого файлового менеджера (звісно, на самій N-Gage).
+
+![QuakeI-one](/n-gage/games/QuakeI-one.jpg)
+![QuakeI-two](/n-gage/games/QuakeI-two.jpg)
+![QuakeI-three](/n-gage/games/QuakeI-three.jpg)
