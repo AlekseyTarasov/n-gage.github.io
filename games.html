@@ -4,3 +4,27 @@ title: Games
 description: This is the base Jekyll theme.
 permalink: /games/
 ---
+
+{% for post in site.posts %}
+  {% if post.path contains 'themes' %}
+
+<div class="docs-section examples" id="examples">
+      <div class="row example">
+        <a class="example-screenshot-wrapper" target="_blank" href="examples/landing">
+          <img class="example-screenshot" src="{{ post.screenshot }}">
+        </a>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
+          <p class="example-description">{{ post.quote | markdownify }}</p>
+          <a class="button" href="{{ post.download-link }}" target="_blank">Demo</a>
+          {% if post contains 'alt-download-link' %}
+            <a class="button" href="{{ post.alt-download-link }}" target="_blank">Source</a>
+          {% endif %}
+        </div>
+        <p class="description">{{ post.content }}</p>
+      </div>
+    </div>
+
+
+  {% endif %}
+{% endfor %}
