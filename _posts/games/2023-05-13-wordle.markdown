@@ -1,0 +1,22 @@
+---
+title: "Wordle v1.03"
+screenshot: "/n-gage/utilities/almalert.jpg"
+download-link: "https://github.com/ngagesdk/wordle/releases/download/v1.03/ngage-wordle-v1.03.sis"
+alt-download-link: ""
+quote: |
+    Розробник: [MupfDev](https://mupf.dev)\
+    Версія: 1.03\
+    Контейнер: .sis\
+    Сумісність: n-gage.
+---
+
+Портативний клон гри Wordle, розроблений для Nokia N-Gage.
+
+Особливості:
+
+1. Множинні мовні налаштування: англійська, російська (СЛОВО), німецька (WÖRDL) та фінська (SANIS).
+2. Можливість грати у щоденне слово від NYT.
+3. Гра без стресу з необмеженою кількістю спроб в режимі нескінченності.
+4. Спеціально адаптований для N-Gage, проте високопортативний, оскільки вся гра написана на C89 і залежить лише від SDL 2.0.x.
+5. Веб-версія гри доступна на моєму сайті: N-Gage Wordle.
+6. Доступна версія для Android на Google Play.
