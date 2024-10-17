@@ -1,10 +1,10 @@
 ---
-title: "Quake I for Nokia Series 60 devices"
+title: "7 Days Salvation"
 screenshot: "/n-gage/utilities/almalert.jpg"
-download-link: "https://sourceforge.net/projects/quakes60/files/beta-versions/prealpha%200.06/quakes60-ngage.zip/"
+download-link: ""
 alt-download-link: ""
 quote: |
-    Розробник: [Quakes60](https://sourceforge.net/projects/quakes60/)\
+    Розробник: [DINGOO GAMES](https://sourceforge.net/projects/quakes60/)\
     Версія: PREALPHA 0.06\
     Контейнер: .exe, cfg\
     Сумісність: S60 1st.
