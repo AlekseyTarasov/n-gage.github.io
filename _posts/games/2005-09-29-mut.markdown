@@ -1,6 +1,6 @@
 ---
 title: "Mut - Multi User Tetris v1.00a"
-screenshot: "/n-gage/utilities/almalert.jpg"
+screenshot: "/n-gage/games/play1.jpg"
 download-link: "http://www.koeniglich.de/mut/Mut-1.0-series60.sis"
 alt-download-link: ""
 quote: |
