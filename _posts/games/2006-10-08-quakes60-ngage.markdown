@@ -1,6 +1,6 @@
 ---
 title: "Quake I for Nokia Series 60 devices"
-screenshot: "/n-gage/utilities/quakeone.png"
+screenshot: "/n-gage/games/quakeone.png"
 download-link: "https://sourceforge.net/projects/quakes60/files/beta-versions/prealpha%200.06/quakes60-ngage.zip/"
 alt-download-link: ""
 quote: |
