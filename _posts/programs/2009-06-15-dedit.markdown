@@ -3,7 +3,7 @@ title: "DEdit v.0.76 R12"
 screenshot: "n-gage/programs/main.png"
 download-link: "https://jbak.ru/download.php?fn=_test_/dedit/dedit6_0.76_r12.zip"
 alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
-file-size: "51.5 kB"
+file-size: " kB"
 quote: |
     Розробник: [JBAK](https://jbak.ru)\
     Версія: 0.76 R12\
