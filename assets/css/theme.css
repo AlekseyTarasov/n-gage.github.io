@@ -622,3 +622,9 @@ h3 {
   width: 184px;
   height: 108px;
 }
+
+.fire-gif {
+  display: inline-block;
+  *display: inline; /* for older IE */
+  *zoom: 1; /* for older IE */
+}
