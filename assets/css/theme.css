@@ -615,3 +615,7 @@ h3 {
   height: 100px;
   resize: both;
 }
+
+.screenshot-overlay{
+ z-index: 99;
+}
