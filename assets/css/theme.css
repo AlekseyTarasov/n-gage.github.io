@@ -596,7 +596,7 @@ h3 {
   display: block;
   position: relative;
   overflow: hidden;
-  height: 250px;
+  height: 150px;
   background: url("../images/screen-overlay.png") no-repeat;
   margin: 20px;
 }
@@ -604,8 +604,6 @@ h3 {
 @media (min-width: 550px) {
   .example-screenshot-wrapper {
       position: absolute;
-      width: 48%;
-      height: 100%;
       left: 0;
       max-height: none;
   }

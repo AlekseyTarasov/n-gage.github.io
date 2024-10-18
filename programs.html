@@ -11,7 +11,8 @@ permalink: /programs/
 <div class="docs-section examples" id="examples">
       <div class="row example">
         <a class="example-screenshot-wrapper" target="_blank" href="examples/landing">
-          <img class="example-screenshot" src="{{ post.screenshot }}">
+          <div class="screenshot-size-cover" style="background-image: url({{ post.screenshot }}) ;"></div>
+          <img class="screenshot-overlay" src="/assets/images/screen-overlay.png">
         </a>
         <div class="one-half offset-by-one-half column">
           <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
