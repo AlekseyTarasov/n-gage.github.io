@@ -17,10 +17,11 @@ permalink: /programs/
         <div class="one-half offset-by-one-half column">
           <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
           <p class="example-description">{{ post.quote | markdownify }}</p>
-          <a class="button" href="{{ post.download-link }}" target="_blank">Demo</a>
-          {% if post contains 'alt-download-link' %}
-            <a class="button" href="{{ post.alt-download-link }}" target="_blank">Source</a>
-          {% endif %}
+
+          <a class = "fire-download" href="{{ post.download-link }}" target="_blank">
+            <p>Text input</p>
+            <img src="/assets/images/Fire_GIF.gif" class = "fire-gif" alt="Fire_GIF" />
+          </a>
         </div>
         <p class="description">{{ post.content }}</p>
       </div>
