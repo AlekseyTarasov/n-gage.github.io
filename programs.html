@@ -23,8 +23,11 @@ permalink: /programs/
               <img src="/assets/images/Fire_GIF.gif" class="fire-gif" alt="Fire_GIF"/>
               download [{{post.file-size}}]
             </p>
+            {%- if post.alt-download-link -%}
             <p>
+              download [{{post.file-size}}]
             </p>
+            {%- endif -%}
           </a>
         </div>
         <p class="description">{{ post.content }}</p>
