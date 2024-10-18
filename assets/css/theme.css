@@ -623,6 +623,11 @@ h3 {
   height: 108px;
 }
 
+.fire-download{
+vertical-align:middle; 
+display:inline;
+}
+
 .fire-gif {
   display: inline-block;
   height: 24px;
