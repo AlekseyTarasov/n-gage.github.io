@@ -2,7 +2,8 @@
 title: "Best FileMan v1.03"
 screenshot: "/n-gage/programs/bestfileman.gif"
 download-link: "https://www.smartphoneware.com/_apps_other/fileman_s60/downloads/best_fileman60_retail.sis"
-alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
+alt-download-link: "/n-gage/programs/best_fileman60_retail.sis"
+file-size: "51.5 kB"
 quote: |
     Розробник: [Smartphoneware](https://www.smartphoneware.com)\
     Версія: 1.03\
