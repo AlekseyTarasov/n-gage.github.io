@@ -36,6 +36,6 @@ quote: |
 16. На деяких нових телефонах (наприклад, 6680 і ін.) іконки (файлів, завдань, процесів ...) не відображалися правильно, це виправлено (дякуємо Panu V. /Nokia за велику допомогу).
 
 {:.img-center}
-![SYSiconz](/n-gage/programs/FE_scr1_english.jpg)
-![SYSiconz](/n-gage/programs/FE_scr5_english.jpg)
-![SYSiconz](/n-gage/programs/FE_scr6_english.jpg)
+![FExplorer](/n-gage/programs/FE_scr1_english.jpg)
+![FExplorer](/n-gage/programs/FE_scr5_english.jpg)
+![FExplorer](/n-gage/programs/FE_scr6_english.jpg)
