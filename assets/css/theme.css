@@ -631,3 +631,8 @@ display:inline;
 .fire-gif {
   height: 24px;
 }
+
+.img-center{
+  margin: 0 auto;
+  text-align: center;
+}

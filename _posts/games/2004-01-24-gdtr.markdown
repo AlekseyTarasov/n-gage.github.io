@@ -1,5 +1,5 @@
 ---
-title: "Gravity Defied - Trial Racing v1.2"
+title: "Gravity Defied - Trial Racing Demo v1.2"
 screenshot: "/n-gage/games/demosplash_onwhite_80x53.gif"
 download-link: "http://www.codebrew.se/gdtr/GDTRDemo.jar"
 alt-download-link: "/n-gage/games/GDTRDemo.jar"
@@ -14,6 +14,9 @@ Gravity Defied - Trial Racing [GDTR] — це гра на мотоциклах, 
 
 Час найшвидшого гравця реєструється в таблиці лідерів. Таблиці рекордів порівнюються між пристроями, що робить змагання з друзями простішими.
 
+{:.img-center}
+![gdtr](/n-gage/games/gdtr_anim_100.gif)
+
 Демо-версія включає дві різні ліги та шість трас різної складності.
 
 Історія випусків та зміни:
@@ -21,6 +24,3 @@ Gravity Defied - Trial Racing [GDTR] — це гра на мотоциклах, 
 2004-01-24 - Версія 1.2: Усі виправлення помилок з фінальної версії гри. Одна нова траса, "blocks".\
 2004-09-13 - Версія 1.01: Значно покращена обробка введення з клавіатури, точніше визначення часу.\
 2004-08-27 - Версія 1.0: Перше видання.
-
-{:.img-center}
-![gdtr](/n-gage/games/gdtr_anim_100.gif)

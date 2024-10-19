@@ -11,3 +11,6 @@ quote: |
 ---
 
 https://indienova.com/g/7Days
+
+{:.img-center}
+![7Days](/n-gage/games/7dayssalvation.jpg)
