@@ -1,0 +1,23 @@
+---
+title: "n-gine v0.01"
+screenshot: "/n-gage/games/play1.jpg"
+download-link: "https://github.com/ngagesdk/n-gine/releases/download/v0.01/ngine-0.01.zip"
+alt-download-link: ""
+quote: |
+    Розробник: [MupfDev](https://mupf.dev)\
+    Версія: 0.01\
+    Контейнер: .exe\
+    Сумісність: Підтримуються всі пристрої Series 60 з екранами 12 і 16 біт.
+---
+
+N-GINE (/ˈendʒɪn/) — це портативний ігровий рушій, який розробляється спеціально для Nokia N-Gage.
+[Детальніше](https://github.com/ngagesdk/n-gine)
+
+По посиланням для завантаження, доступна демка яку можна запустити та протестувати.
+
+Для запуску демо-версії файли ngine.exe та data.pfs повинні бути розміщені безпосередньо в головному каталозі диска E:. Після цього додаток можна запустити через FExplorer (Знайти можна [тут](https://n-gage.site/programs/)).
+
+Управління:
+
+C: Вихід
+9: Перемикання режиму відладки
