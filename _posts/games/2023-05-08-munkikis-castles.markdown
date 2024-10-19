@@ -1,13 +1,13 @@
 ---
 title: "Munkiki's Castles v1.03 та v1.06."
-screenshot: "/n-gage/games/play1.jpg"
+screenshot: "/n-gage/games/Castles.png"
 download-link: "https://mega.nz/folder/xk8mXSRZ#nJI4J8KxJGD64bGfKlKQKQ"
 alt-download-link: ""
 quote: |
     Розробник: [Nokia, Razvan,VSummersNTPS](https://x.com/VSummersNTPS)\
     Версія: 0.01\
-    Контейнер: .exe\
-    Сумісність: Підтримуються всі пристрої Series 60 з екранами 12 і 16 біт.
+    Контейнер: .Jar, .Jad\
+    Сумісність: midp 1.0.
 ---
 
 Після сотень годин досліджень і невідомої суми, вкладеної в покупку вживаних телефонів Nokia 3410 і обладнання для дампінгу, я радий оголосити, що нам вдалося відновити та зберегти майже втрачену гру від Nokia — Munkiki's Castles, версії 1.03 та 1.06.
