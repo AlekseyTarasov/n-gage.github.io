@@ -1,0 +1,13 @@
+---
+title: "Мануали"
+screenshot: "/n-gage/games/manual.png"
+download-link: ""
+alt-download-link: 
+quote: |
+    Розробник: [Nokia]()\
+    Версія: 52\
+    Контейнер: .pdf\
+    Сумісність: pdf reader.
+---
+
+Офіційні мануали до 52х n-gage ігор у форматі pdf
