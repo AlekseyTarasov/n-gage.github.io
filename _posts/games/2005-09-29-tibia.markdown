@@ -1,6 +1,6 @@
 ---
 title: "Tibia ME"
-screenshot: "/n-gage/games/play1.jpg"
+screenshot: "/n-gage/games/welcome01.gif"
 download-link: "https://www.tibiame.com/?section=download&lan=en&markup=xhtml"
 alt-download-link: ""
 quote: |
@@ -11,3 +11,6 @@ quote: |
 ---
 
 TibiaME — це перша багатокористувацька онлайн-рольова гра для мобільних пристроїв. Об'єднуйтеся з сотнями гравців і вирушайте у пригоди в барвистий віртуальний світ! Разом з друзями досліджуйте загадкову землю TibiaME, пробивайтесь через орди злих істот і вирішуйте давні загадки, щоб знайти неймовірні скарби. З кожним переможеним монстром ви ставатимете сильнішими і могутнішими. TibiaME базується на успішній онлайн-грі Tibia, яка щодня приваблює тисячі гравців.
+
+{:.img-center}
+![TibiaMe](/n-gage/games/GCJGf-5XkAAe7nW.jpg)
