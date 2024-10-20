@@ -191,8 +191,13 @@ body {
   border: 1px solid #121212;
   font-size: 9px;
   line-height: 12px;
-color: white;
+  color: white;
   text-transform: uppercase;
+  
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
 }
 
 
