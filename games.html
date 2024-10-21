@@ -18,17 +18,13 @@ permalink: /games/
         <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
         <p class="example-description">{{ post.quote | markdownify }}</p>
 
-        <a class="fire-download" href="{{ post.download-link }}" target="_blank">
-          <p style="display:inline-block;">
-            <img src="/assets/images/Fire_GIF.gif" class="fire-gif" alt="Fire_GIF"/>
-            download [{{post.file-size}}]
-          </p>
+        <section class="fire-download" style="display:inline-block;">
+          <img src="/assets/images/Fire_GIF.gif" class="fire-gif" alt="Fire_GIF"/>
+          <a href="{{ post.download-link }}" target="_blank">download [{{post.file-size}}]</a>
           {%- if post.alt-download-link -%}
-          <p>
-            download [{{post.file-size}}]
-          </p>
+            <a href="{{ post.alt-download-link }}" target="_blank">download [{{post.file-size}}]</a>
           {%- endif -%}
-        </a>
+        </section>
       </div>
       <p class="description">{{ post.content }}</p>
     </div>
