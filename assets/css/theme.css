@@ -202,15 +202,15 @@ body {
 
 
 .h1_title_corner {
-position: absolute;
-margin: 0;
-padding: 0;
-left: 0px;
-top: 12px;
-width: 6px;
-height: 6px;
-background: url("../images/corner.png");
-background-repeat: no-repeat;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  left: 0px;
+  top: 12px;
+  width: 6px;
+  height: 6px;
+  background: url("../images/corner.png");
+  background-repeat: no-repeat;
 }
 
 
@@ -400,6 +400,15 @@ background: #0C0C0C;
   font-family: "HomeVideo-Regular", sans-serif;
 }
 
+a:hover {
+  color: #FBC034;
+}
+
+.yellowheader12b {
+  font-size: 12px;
+  color: #FBC034;
+}
+
 
 .example {
   position: relative;
@@ -577,11 +586,6 @@ h3 {
   top: 15px;
   background: #2B2B2B;
   border: 1px solid #121212;
-}
-
-.yellowheader12b {
-  font-size: 12px;
-  color: #FBC034;
 }
 
 .post-header {
