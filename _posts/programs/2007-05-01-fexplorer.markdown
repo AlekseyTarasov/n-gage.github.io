@@ -1,8 +1,8 @@
 ---
 title: "FExplorer V1.17"
 screenshot: "/n-gage/programs/FE_scr0_english.jpg"
-download-link: "https://www.gosymbian.com/FE_download_t.html"
-alt-download-link: "/n-gage/programs/FExplorer_english_117.SIS"
+download: "https://www.gosymbian.com/FE_download_t.html"
+mirror: "/n-gage/programs/FExplorer_english_117.SIS"
 file-size: "119 kB"
 quote: |
     Розробник: [Dominique HUGO](https://www.gosymbian.com/)\

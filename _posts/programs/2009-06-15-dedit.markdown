@@ -1,8 +1,8 @@
 ---
 title: "DEdit v.0.76 R12"
 screenshot: "/n-gage/programs/main.png"
-download-link: "https://jbak.ru/download.php?fn=_test_/dedit/dedit6_0.76_r12.zip"
-alt-download-link: "/n-gage/programs/dedit6_0.76_r12.zip"
+download: "https://jbak.ru/download.php?fn=_test_/dedit/dedit6_0.76_r12.zip"
+mirror: "/n-gage/programs/dedit6_0.76_r12.zip"
 file-size: "145 kB"
 quote: |
     Розробник: [JBAK](https://jbak.ru)\
