@@ -18,3 +18,5 @@ description: "Habbo Islands — це скасована гра для Nokia N-Ga
 Доступність
 
 Копія Habbo Islands, яка використовувалася для демо на E3, з'явилася 1 січня 2014 року. Її придбав користувач YouTube під ніком Reiju, який і виклав гру в інтернет, однак копія була захищена і не запускалася на стандартних пристроях Nokia N-Gage. 17 листопада 2020 року користувач mupf зламав захист, і гра стала доступною для всіх N-Gage.
+
+https://lostmediawiki.com/Habbo_Islands_(found_build_of_cancelled_N-Gage_game;_2005)
