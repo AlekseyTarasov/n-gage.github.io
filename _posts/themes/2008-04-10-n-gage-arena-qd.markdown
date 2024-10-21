@@ -1,7 +1,7 @@
 ---
 title: "N-Gage Arena QD"
-screenshot: "/n-gage/themes/SysIconz_to.jpg"
-download: "/n-gage/themes/sysiconz_v1.01_fixed_by_bodyz.zip"
+screenshot: "/n-gage/themes/N_Gage_QD_skin_by_Cacoman.jpg"
+download: "/n-gage/themes/N-Gage_QD_skin.zip"
 mirror: 
 file-size: "1.31 mB"
 quote: |
@@ -14,4 +14,4 @@ quote: |
 Це скин для N-Gage QD та класичної N-Gage. Іконки взяті з сучасних телефонів серії N на базі Symbian S60 3rd Edition.
 
 {:.img-center}
-![N-Gage](/n-gage/themes/SysIconz_to_Themes_1.jpg)
+![N-Gage](/n-gage/themes/N_Gage_QD_skin_by_Cacoman.jpg)
