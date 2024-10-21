@@ -1,6 +1,6 @@
 ---
 title: "GizmoBoy v0.03"
-screenshot: "/n-gage/games/GizmoBoy.png"
+screenshot: "/n-gage/games/GizmoBoy.PNG"
 download-link: "https://github.com/mupfdev/GizmoBoy/releases/download/v0.03/GizmoBoy-v0.03.sis"
 alt-download-link: ""
 quote: |
