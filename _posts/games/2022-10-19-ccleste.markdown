@@ -1,0 +1,18 @@
+---
+title: "ccleste v1.02"
+screenshot: "/n-gage/games/screenshot-01-tn.png"
+download-link: "https://github.com/mupfdev/GizmoBoy/releases/download/v0.03/GizmoBoy-v0.03.sis"
+alt-download-link: ""
+quote: |
+    Розробник: [MupfDev](https://mupf.dev)\
+    Версія: 1.02\
+    Контейнер: .sis\
+    Сумісність: n-gage.
+---
+
+Цей порт оригінальної гри Celeste для PICO-8 на мові C був спочатку розроблений lemon32767.
+
+{:.img-center}
+![7Days](/n-gage/games/screenshot-02-tn.png)
+
+В оригінальній версії було приділено увагу портативності, але все ще залишалися моменти, що потребували покращення. Особливо тому, що я дуже хотів, щоб гра працювала на Nokia N-Gage, але застряг на використанні дуже старого компілятора.
