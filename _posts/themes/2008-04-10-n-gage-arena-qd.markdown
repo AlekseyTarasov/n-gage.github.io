@@ -14,6 +14,4 @@ quote: |
 Це скин для N-Gage QD та класичної N-Gage. Іконки взяті з сучасних телефонів серії N на базі Symbian S60 3rd Edition.
 
 {:.img-center}
-![SysIconz](/n-gage/themes/SysIconz_to_Themes_1.jpg)
-![SysIconz](/n-gage/themes/SysIconz_to_Themes_2.jpg)
-
+![N-Gage](/n-gage/themes/SysIconz_to_Themes_1.jpg)
