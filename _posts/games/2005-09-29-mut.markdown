@@ -1,8 +1,8 @@
 ---
 title: "Mut - Multi User Tetris v1.00a"
 screenshot: "/n-gage/games/hiscore.jpg"
-download-link: "http://www.koeniglich.de/mut/Mut-1.0-series60.sis"
-alt-download-link: ""
+download: "http://www.koeniglich.de/mut/Mut-1.0-series60.sis"
+mirror: ""
 quote: |
     Розробник: [MupfDev](https://mupf.dev)\
     Версія: 1.00a\

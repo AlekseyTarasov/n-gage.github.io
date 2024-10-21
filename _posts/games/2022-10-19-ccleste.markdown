@@ -1,8 +1,8 @@
 ---
 title: "ccleste v1.02"
 screenshot: "/n-gage/games/screenshot-01-tn.png"
-download-link: "https://github.com/mupfdev/GizmoBoy/releases/download/v0.03/GizmoBoy-v0.03.sis"
-alt-download-link: ""
+download: "https://github.com/mupfdev/GizmoBoy/releases/download/v0.03/GizmoBoy-v0.03.sis"
+mirror: ""
 quote: |
     Розробник: [MupfDev](https://mupf.dev)\
     Версія: 1.02\

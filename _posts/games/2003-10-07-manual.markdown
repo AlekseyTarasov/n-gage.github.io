@@ -1,8 +1,8 @@
 ---
 title: "Мануали"
 screenshot: "/n-gage/games/manual.png"
-download-link: ""
-alt-download-link: 
+download: ""
+mirror: 
 quote: |
     Розробник: [Nokia]()\
     Версія: 52\

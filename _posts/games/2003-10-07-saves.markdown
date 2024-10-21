@@ -1,8 +1,8 @@
 ---
 title: "Сейви для 40 ігор"
 screenshot: "/n-gage/games/saves.png"
-download-link: "/n-gage/games/n-gage_saved_40_games.zip"
-alt-download-link: 
+download: "/n-gage/games/n-gage_saved_40_games.zip"
+mirror: 
 quote: |
     Розробник: [Nokia, kirill475]()\
     Версія: 40\

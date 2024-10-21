@@ -20,10 +20,10 @@ permalink: /games/
 
         <section class="download" style="display:inline-block;">
           <img src="/assets/images/Fire_GIF.gif" class="fire-gif" alt="Fire_GIF"/>
-          <a href="{{ post.download-link }}" target="_blank">download [{{post.file-size}}]</a>
+          <a href="{{ post.download }}" target="_blank">download [{{post.file-size}}]</a>
           <br>
-          {%- if post.alt-download-link -%}
-          - alt <a class="alt-download" href="{{ post.alt-download-link }}" target="_blank">download [{{post.file-size}}]</a>
+          {%- if post.mirror -%}
+          - alt <a href="{{ post.mirror }}" target="_blank">download [{{post.file-size}}]</a>
           {%- endif -%}
         </section>
       </div>

@@ -1,8 +1,8 @@
 ---
 title: "Wordle v1.03"
 screenshot: "/n-gage/games/ngage-wordle.png"
-download-link: "https://github.com/ngagesdk/wordle/releases/download/v1.03/ngage-wordle-v1.03.sis"
-alt-download-link: ""
+download: "https://github.com/ngagesdk/wordle/releases/download/v1.03/ngage-wordle-v1.03.sis"
+mirror: ""
 quote: |
     Розробник: [MupfDev](https://mupf.dev)\
     Версія: 1.03\

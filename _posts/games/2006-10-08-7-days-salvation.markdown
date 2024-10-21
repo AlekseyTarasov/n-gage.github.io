@@ -1,8 +1,8 @@
 ---
 title: "7 Days Salvation"
 screenshot: "/n-gage/games/7_Days_Salvation.png"
-download-link: ""
-alt-download-link: "https://indienova.com/g/7Days"
+download: ""
+mirror: "https://indienova.com/g/7Days"
 quote: |
     Розробник: [DINGOO GAMES](https://sourceforge.net/projects/quakes60/)\
     Версія: \

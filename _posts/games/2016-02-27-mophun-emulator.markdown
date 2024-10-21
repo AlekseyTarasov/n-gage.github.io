@@ -1,8 +1,8 @@
 ---
 title: "Mophun Emulator 2.15"
 screenshot: "/n-gage/games/mophun.png"
-download-link: "https://dimonvideo.ru/uploader/457184"
-alt-download-link: ""
+download: "https://dimonvideo.ru/uploader/457184"
+mirror: ""
 quote: |
     Розробник: [Synergenix](http://www.mophun.com)\
     Версія: 2.15\

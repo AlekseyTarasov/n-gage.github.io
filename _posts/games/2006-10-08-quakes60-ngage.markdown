@@ -1,8 +1,8 @@
 ---
 title: "Quake I for Nokia Series 60 devices"
 screenshot: "/n-gage/games/quakeone.png"
-download-link: "https://sourceforge.net/projects/quakes60/files/beta-versions/prealpha%200.06/quakes60-ngage.zip/"
-alt-download-link: ""
+download: "https://sourceforge.net/projects/quakes60/files/beta-versions/prealpha%200.06/quakes60-ngage.zip/"
+mirror: ""
 quote: |
     Розробник: [Quakes60](https://sourceforge.net/projects/quakes60/)\
     Версія: PREALPHA 0.06\

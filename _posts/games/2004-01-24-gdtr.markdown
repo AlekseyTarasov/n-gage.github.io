@@ -1,8 +1,8 @@
 ---
 title: "Gravity Defied - Trial Racing Demo v1.2"
 screenshot: "/n-gage/games/demosplash_onwhite_80x53.gif"
-download-link: "http://www.codebrew.se/gdtr/GDTRDemo.jar"
-alt-download-link: "/n-gage/games/GDTRDemo.jar"
+download: "http://www.codebrew.se/gdtr/GDTRDemo.jar"
+mirror: "/n-gage/games/GDTRDemo.jar"
 quote: |
     Розробник: [Codebrew](http://www.codebrew.se/gdtr)\
     Версія: 1.2\
