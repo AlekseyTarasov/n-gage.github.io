@@ -1,0 +1,19 @@
+---
+title: "GizmoBoy v0.03"
+screenshot: "/n-gage/games/GizmoBoy.png"
+download-link: "https://github.com/mupfdev/GizmoBoy/releases/download/v0.03/GizmoBoy-v0.03.sis"
+alt-download-link: ""
+quote: |
+    Розробник: [MupfDev](https://mupf.dev)\
+    Версія: 0.03\
+    Контейнер: .sis\
+    Сумісність: n-gage.
+---
+
+GizmoBoy — це портативна фентезі-консоль, натхненна PICO-8 від Lexaloffle Games, написана на ANSI C з використанням SDL2.
+
+Цікаві факти
+
+GizmoBoy — це неологізм, утворений зі слів GameBoy та Gizmo, що є безглуздим терміном для позначення чогось, назву чого людина не знає.
+
+Незважаючи на назву, цей проєкт не має нічого спільного з Gizmondo від Tiger Telematics.
