@@ -8,21 +8,28 @@ permalink: /utilities/
 {% for post in site.posts %}
   {% if post.path contains 'utilities' %}
 
-<div class="docs-section examples" id="examples">
-      <div class="row example">
-        <a class="example-screenshot-wrapper" target="_blank" href="examples/landing">
-          <img class="example-screenshot" src="{{ post.screenshot }}">
-        </a>
-        <div class="one-half offset-by-one-half column">
-          <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
-          <p class="example-description">{{ post.quote | markdownify }}</p>
-          <a class="button" href="{{ post.download-link }}" target="_blank">Demo</a>
-        <a class="button" href="{{ post.alt-download-link }}" target="_blank">Source</a>
-        </div>
-        <p class="description">{{ post.content }}</p>
+  <section class="gage-downloads">
+    <div class="row example">
+      <div class="screenshot-wrapper">
+        <div class="screenshot-size-cover" style="background-image: url({{ post.screenshot }}) ;"></div>
+        <img class="screenshot-overlay" src="/assets/images/screen-overlay.png">
       </div>
-    </div>
+      <div class="one-half offset-by-one-half column">
+        <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
+        <p class="description">{{ post.quote | markdownify }}</p>
 
+        <section class="download" style="display:inline-block;">
+          <img src="/assets/images/Fire_GIF.gif" class="fire-gif" alt="Fire_GIF"/>
+          <a href="{{ post.download }}" target="_blank">download [{{post.file-size}}]</a>
+          <br>
+          {%- if post.mirror -%}
+          - alt <a href="{{ post.mirror }}" target="_blank">download [{{post.file-size}}]</a>
+          {%- endif -%}
+        </section>
+      </div>
+      <p class="description">{{ post.content }}</p>
+    </div>
+  </section>
 
   {% endif %}
 {% endfor %}
