@@ -601,7 +601,7 @@ h3 {
 }
 
 
-.example-screenshot-wrapper {
+.screenshot-wrapper {
   display: block;
   position: relative;
   overflow: hidden;
@@ -610,7 +610,7 @@ h3 {
 }
 
 @media (min-width: 550px) {
-  .example-screenshot-wrapper {
+  .screenshot-wrapper {
       position: absolute;
       left: 0;
       max-height: none;

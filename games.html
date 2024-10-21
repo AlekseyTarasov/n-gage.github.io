@@ -8,15 +8,15 @@ permalink: /games/
 {% for post in site.posts %}
   {% if post.path contains 'games' %}
 
-  <div class="docs-section examples" id="examples">
+  <section class="gage-downloads">
     <div class="row example">
-      <div class="example-screenshot-wrapper">
+      <div class="screenshot-wrapper">
         <div class="screenshot-size-cover" style="background-image: url({{ post.screenshot }}) ;"></div>
         <img class="screenshot-overlay" src="/assets/images/screen-overlay.png">
       </div>
       <div class="one-half offset-by-one-half column">
         <h6 class="post-header yellowheader12b">{{ post.title }}</h6>
-        <p class="example-description">{{ post.quote | markdownify }}</p>
+        <p class="description">{{ post.quote | markdownify }}</p>
 
         <section class="download" style="display:inline-block;">
           <img src="/assets/images/Fire_GIF.gif" class="fire-gif" alt="Fire_GIF"/>
@@ -29,7 +29,7 @@ permalink: /games/
       </div>
       <p class="description">{{ post.content }}</p>
     </div>
-  </div>
+  </section>
   
   {% endif %}
 {% endfor %}
