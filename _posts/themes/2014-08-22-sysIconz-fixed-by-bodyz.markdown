@@ -1,8 +1,9 @@
 ---
 title: "SysIconz fixed by BodyZ 1.01"
-screenshot: "/n-gage/utilities/almalert.jpg"
-download-link: "http://downloads.sourceforge.net/almalert/almalert_1_00.zip"
-alt-download-link: "/n-gage/utilities/almalert_1_00.sis"
+screenshot: "/n-gage/themes/SysIconz_to.jpg"
+download: "/n-gage/themes/sysiconz_v1.01_fixed_by_bodyz.zip"
+mirror: 
+file-size: "1.31 mB"
 quote: |
     Розробник: [Mobile-Freaks.net](http://mobile-freaks.net)\
     Версія: 1.01\
@@ -37,5 +38,9 @@ quote: |
 
 1. Версія AD (автоматично визначає модель смартфона і встановлює іконки тільки для програм, які є в прошивці конкретної моделі). Наприклад, на N-Gage Classic є Музика і Радіо, яких немає на N-Gage QD або 3650/3660. А на 3650/3660 є ІК-порт, Модем, Камера, Відео, Snake Ex і Mix Pix, яких немає на N-Gage Classic або N-Gage QD.
 2. Версія CB (аналог оригінального релізу від португальців), де під час встановлення потрібно вибрати модель смартфона вручну. Це корисно для тих, хто хоче побачити іконки ІК-порта, Модема, Камери, Відео, Snake Ex і Mix Pix для 3650/3660 на N-Gage.
+
+{:.img-center}
+![SysIconz](/n-gage/themes/SysIconz_to_Themes_1.jpg)
+![SysIconz](/n-gage/themes/SysIconz_to_Themes_2.jpg)
 
 Бонус: Установивши файл SysIconz_to_Themes.SIS, програма SysIconz у Меню буде перейменована на "Темы" (Теми), і її іконка стане такою ж, як у додатку "Темы" на Nokia 6600."
