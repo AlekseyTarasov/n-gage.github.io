@@ -6,7 +6,7 @@ mirror:
 file-size: "1.31 mB"
 quote: |
     Розробник: [Cacoman](https://www.deviantart.com/cacoman/art/N-Gage-Arena-QD-skin-s60-3rd-edition-theme-82416013)\
-    Версія: 1.00\
+    Версія: 1.7\
     Контейнер: .sis\
     Сумісність: n-gage, n-gage qd.
 ---
