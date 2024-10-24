@@ -227,7 +227,7 @@ body {
 .up-spacer {
   float: right;
   display: inline;
-  width: 80%;
+  width: 90%;
   height: 69px;
   background: url(../images/up-spacer.png);
   background-repeat: repeat-x;
@@ -236,7 +236,7 @@ body {
 .up-left {
   float: left;
   display: inline;
-  width: 20%;
+  width: 10%;
   height: 69px;
   background: url(../images/up-left.png);
   background-repeat: no-repeat;
