@@ -688,6 +688,9 @@ display:inline;
 .img-center{
   margin: 0 auto;
   text-align: center;
+}
+
+.img-center img{
   max-width: 320px;
 }
 
