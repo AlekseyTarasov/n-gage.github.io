@@ -229,7 +229,7 @@ body {
   display: inline;
   width: 80%;
   height: 69px;
-  background: url(../images/white.png);
+  background: url(../images/up-spacer.png);
   background-repeat: repeat-x;
 }
 
@@ -238,7 +238,7 @@ body {
   display: inline;
   width: 20%;
   height: 69px;
-  background: url(../images/32.png);
+  background: url(../images/up-left.png);
   background-repeat: no-repeat;
 }
 
