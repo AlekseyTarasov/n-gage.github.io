@@ -39,12 +39,14 @@ description: "QD є значно кращим продуктом, ніж ори�
 ![pcb](/n-gage/articles/IMG_20211003_151107455.jpg)
 ![pcb](/n-gage/articles/IMG_20211003_151210251.jpg)
 
+
 На ранній прошивці немає нічого специфічного для N-Gage. Це більше або менше стандартний Symbian 7. Номер версії (з зсувом десяткової точки) здається, відповідає версії для 6600 - принаймні, дуже близький.
 
 {:.img-center}
 ![firmware](/n-gage/articles/IMG_20211004_165120023.jpg)
 ![firmware](/n-gage/articles/IMG_20211004_165128511.jpg)
 ![firmware](/n-gage/articles/IMG_20211004_165159230.jpg)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bpw0ESI9Fm8?si=8QTSeK447VjSR9mX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
