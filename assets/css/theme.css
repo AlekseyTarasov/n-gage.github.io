@@ -225,7 +225,7 @@ body {
 }
 
 .up-spacer {
-  float: left;
+  float: right;
   display: inline;
   width: 80%;
   height: 69px;
