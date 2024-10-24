@@ -5,8 +5,7 @@ description: "QD є значно кращим продуктом, ніж ори�
 
 Прототип B1 котрий знаходиться у приватній колекціїї @derSammler
 
-Далі матеріл зібрано з сайту самаго [@derSammler](http://retro-net.de/) та його постів на форумі. Фотографії та текст [@derSammler](http://retro-net.de/), n-gage.site виключно переклав на українську мову. 
-
+Далі матеріл зібрано з сайту самаго [@derSammler](http://retro-net.de/) та його постів на форумі. Фотографії та текст належать [@derSammler](http://retro-net.de/), n-gage.site виключно переклав на українську мову.
 
 Переклад з [сайту](http://retro-net.de/exklusiv-prototyp-des-n-gage-qd-nachfolgers-gefunden.html):
 
@@ -49,12 +48,9 @@ description: "QD є значно кращим продуктом, ніж ори�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bpw0ESI9Fm8?si=8QTSeK447VjSR9mX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 Концепція того, як мав би виглядати фінальний інтерфейс користувача:
 
 {:.img-center}
 ![ic_ui](/n-gage/articles/ic_ui.jpg)
 
 (Джерело: Сааді Хауелл)
-
-
