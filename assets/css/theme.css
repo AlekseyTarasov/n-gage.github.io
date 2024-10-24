@@ -242,10 +242,12 @@ body {
 }
 
 .copy-up{
+  position: absolute;
+  top: 30px;
+  left: 110px;
   color: #fff;
   font-size: 9px;
   text-transform: uppercase;
-  padding: 30px 0 0 110px;
   letter-spacing: .2rem;
 }
 
