@@ -219,6 +219,7 @@ body {
   display: block;
   top: 0px;
   left: 400px;
+  right: 0;
   z-index: 2;
   width: 100%;
 }
