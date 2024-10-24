@@ -218,7 +218,7 @@ body {
   height: 69px;
   position: absolute;
   display: block;
-  top: -180px;
+  top: 0px;
   left: 400px;
   z-index: 2;
 }
