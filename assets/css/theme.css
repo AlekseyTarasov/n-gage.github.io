@@ -265,7 +265,7 @@ body {
 .down-spacer {
   float: right;
   display: inline;
-  width: 90%;
+  width: 80%;
   height: 133px;
   background: url(../images/down-spacer.png);
   background-repeat: repeat-x;
@@ -274,7 +274,7 @@ body {
 .down-left {
   float: left;
   display: inline;
-  width: 10%;
+  width: 20%;
   height: 133px;
   background: url(../images/down-left.png);
   background-repeat: no-repeat;
