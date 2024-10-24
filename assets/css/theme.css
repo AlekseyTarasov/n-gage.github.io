@@ -282,10 +282,11 @@ body {
 
 .copy-down{
   position: absolute;
+  top: 40px;
+  left: 140px;
   color: #fff;
   font-size: 9px;
   text-transform: uppercase;
-  padding: 40px 0 0 140px;
   letter-spacing: .2rem;
   line-height: 1.8rem;
 }
