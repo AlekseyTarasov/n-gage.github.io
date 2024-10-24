@@ -215,13 +215,13 @@ body {
 
 
 .up {
-  position: relative;
-  max-width: 100%
+  position: absolute;
   display: block;
   top: 0px;
   left: 400px;
   right: 0;
   z-index: 2;
+  max-width: 100%;
 }
 
 .up-spacer {
