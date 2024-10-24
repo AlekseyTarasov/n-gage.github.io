@@ -221,9 +221,12 @@ body {
   top: 0px;
   left: 400px;
   z-index: 2;
+  background: url(../images/up-spacer.png);
+  background-repeat: repeat-x;
+  width: 100%;
 }
 
-.up-spacer {
+.up1-spacer {
   float: left;
   display: inline;
   width: 80%;
