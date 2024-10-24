@@ -236,7 +236,7 @@ body {
 .up-left {
   float: left;
   display: inline;
-  width: 91px;
+  width: 20%;
   height: 69px;
   background: url(../images/up-left.png);
   background-repeat: no-repeat;
