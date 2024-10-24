@@ -253,21 +253,21 @@ body {
 }
 
 .down {
-  height: 133px;
-  position: relative;
-  background: url("../images/down.png") no-repeat;
+  position: absolute;
   display: block;
   top: -176px;
   left: 400px;
+  right: 0;
   z-index: 2;
+  max-width: 100%;
 }
 
 .down-spacer {
   float: right;
   display: inline;
   width: 90%;
-  height: 69px;
-  background: url(../images/up-spacer.png);
+  height: 133px;
+  background: url(../images/down-spacer.png);
   background-repeat: repeat-x;
 }
 
@@ -275,8 +275,8 @@ body {
   float: left;
   display: inline;
   width: 10%;
-  height: 69px;
-  background: url(../images/up-left.png);
+  height: 133px;
+  background: url(../images/down-left.png);
   background-repeat: no-repeat;
 }
 
