@@ -216,7 +216,7 @@ body {
 
 .up {
   height: 69px;
-  position: relative;
+  position: absolute;
   display: block;
   top: -180px;
   left: 400px;
