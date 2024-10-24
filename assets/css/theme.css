@@ -233,7 +233,7 @@ body {
 }
 
 .up-left {
-  float: right;
+  float: left;
   display: inline;
   width: 20%;
   height: 69px;
