@@ -217,7 +217,6 @@ body {
 .up {
   height: 69px;
   position: relative;
-  background: url("../images/up.png") no-repeat;
   display: block;
   top: -180px;
   left: 400px;
