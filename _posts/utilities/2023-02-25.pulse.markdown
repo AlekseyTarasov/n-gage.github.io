@@ -1,5 +1,5 @@
 ---
-title: "Palette Extender"
+title: "Pulse 0.1a"
 screenshot: "/n-gage/themes/pulse.jpg"
 download: 
 mirror: 
