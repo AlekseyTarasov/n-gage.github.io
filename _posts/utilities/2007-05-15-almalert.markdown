@@ -3,7 +3,7 @@ title: "almalert v1.00"
 screenshot: "/n-gage/utilities/almalert.jpg"
 download: "http://downloads.sourceforge.net/almalert/almalert_1_00.zip"
 mirror: "/n-gage/utilities/almalert_1_00.sis"
-file-size: "259.69 kB"
+file-size: "41.6 kB"
 quote: |
     Розробник: [z-g](https://sourceforge.net/u/z-g/)\
     Версія: 1.00\
