@@ -1,6 +1,6 @@
 ---
 title: "Pulse 0.1a"
-screenshot: "/n-gage/themes/pulse.jpg"
+screenshot: "/n-gage/utilities/pulse.jpg"
 download: 
 mirror: 
 file-size: "27.2 kB"
