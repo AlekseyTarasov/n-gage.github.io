@@ -8,7 +8,7 @@ quote: |
     Розробник: [Lonely Cat Games](https://www.lonelycatgames.com/)\
     Версія: 1.00\
     Контейнер: .exe\
-    Сумісність: S60 1st and 2nd edition.
+    Сумісність: Windows.
 ---
 
 Посилання на завантаження буде вести виключно на сайт lonelycatgames. Ніяких інструкцій з користування не буде. Переклад файла readme.txt:
