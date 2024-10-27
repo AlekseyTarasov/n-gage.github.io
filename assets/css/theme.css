@@ -706,3 +706,8 @@ display:inline;
 margin:0 auto; 
 text-align:center;
 }
+
+image-slider img{
+  max-width: 282px;
+  border: 4px solid #fff;
+}
