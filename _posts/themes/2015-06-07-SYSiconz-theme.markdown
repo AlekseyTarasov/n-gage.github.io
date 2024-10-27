@@ -30,19 +30,16 @@ SysIcons 1.01
 
 Які скіни доступні на початку, ви можете побачити тут:
 
-Fake It
-Predator Blooded
-Fat
-Quark Green
-
 {:.img-center}
 ![GameIcons](/n-gage/themes/fakeit.jpg)
-Fake It
 ![GameIcons](/n-gage/themes/predatorblooded.jpg)
-Predator Blooded
 ![GameIcons](/n-gage/themes/fat.jpg)
-Fat
 ![GameIcons](/n-gage/themes/quarkgreen.jpg)
+
+{:.img-center}
+Fake It
+Predator Blooded
+Fat
 Quark Green
 
 AddOn’s(додаткові скіни) Нажаль більше недоступні:
