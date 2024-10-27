@@ -739,4 +739,5 @@ text-align:center;
 .side_box_content{
   color: #fff;
   font-size: 10px;
+  list-style: square;
 }
