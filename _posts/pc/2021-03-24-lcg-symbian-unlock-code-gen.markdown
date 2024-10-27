@@ -1,24 +1,14 @@
 ---
-title: "LcgUnlockCodeGen"
-screenshot: "/n-gage/pc/LcgUnlockCodeGen.png"
-download: "https://www.lonelycatgames.com/download/lcg-symbian-unlock-code-gen"
+title: "Ashen v1.0.6 Windows Build"
+screenshot: "/n-gage/pc/Ashen_v1.0.6_Windows_Build_01.jpg"
+download: "https://archive.org/download/Nokia_N-Gage_Ashen_v1.0.6_Windows_Build/Ashen_v1.0.6_Windows_Build_Files.zip"
 mirror: 
 file-size: "1.02 mB"
 quote: |
-    Розробник: [Lonely Cat Games](https://www.lonelycatgames.com/)\
-    Версія: 1.00\
+    Розробник: [Torus Games](https://www.torus.com.au)\
+    Версія: 1.0.6\
     Контейнер: .exe\
     Сумісність: Windows.
 ---
 
-Посилання на завантаження буде вести виключно на сайт lonelycatgames. Ніяких інструкцій з користування не буде. Переклад файла readme.txt:
-
-Це офіційний генератор кодів розблокування, який ми використовували в Lonely Cat Games для створення кодів розблокування для наших клієнтів, які користувалися Symbian-додатками та потребували підтримки (через зміну пристрою або з інших причин).
-
-Упродовж останніх років більшість наших додатків для Symbian було перетворено на безкоштовні, але не всі — найстаріші з них були виключені з цієї програми.
-
-Цей інструмент дозволяє згенерувати код розблокування і використовувати ці додатки на історичних телефонах Symbian.
-
-Є два формати коду: числовий, який вводиться у вікні реєстрації додатка, або бінарний, який встановлюється на телефон. Додаток розпізнає бінарний ключ і не викликає онлайн-перевірку.
-
-Приємного користування... Lonely Cat Games
+Windows-версія гри Ashen для Nokia N-Gage, яка використовувалася Torus Games під час розробки гри. Дозволяє запускати декілька екземплярів у вікні для тестування багатокористувацького режиму гри.
