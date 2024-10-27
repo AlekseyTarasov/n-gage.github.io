@@ -1,8 +1,9 @@
 ---
 title: "Menu Speedup 1.3"
 screenshot: "/n-gage/utilities/almalert.jpg"
-download-link: ""
-alt-download-link: ""
+download: ""
+mirror: 
+file-size: "259.69 kB"
 quote: |
     Розробник: [BodyZ]()\
     Версія: 1.3\
