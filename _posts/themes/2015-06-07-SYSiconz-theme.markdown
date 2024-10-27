@@ -39,10 +39,10 @@ SysIcons 1.01
 ![SysIconz](/n-gage/themes/quarkgreen.jpg)
 
 {:.img-center}
-Fake It
-Predator Blooded
-Fat
-Quark Green
+Fake It.
+Predator Blooded.
+Fat.
+Quark Green.
 
 <br>
 
