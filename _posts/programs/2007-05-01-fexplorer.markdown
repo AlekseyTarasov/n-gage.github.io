@@ -14,7 +14,6 @@ quote: |
 Комбайн з файлового менеджера та менеджера задач з функціями скріншоту, встановленн логотипа оператора hex-редактора та ще купою іншого.
 
 {:.img-center}
-![FExplorer](/n-gage/programs/FE_scr1_english.jpg)
 ![FExplorer](/n-gage/programs/FE_scr5_english.jpg)
 ![FExplorer](/n-gage/programs/FE_scr6_english.jpg)
 
