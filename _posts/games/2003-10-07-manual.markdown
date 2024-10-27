@@ -3,6 +3,7 @@ title: "Мануали"
 screenshot: "/n-gage/games/manual.png"
 download: ""
 mirror: 
+file-size: 
 quote: |
     Розробник: [Nokia]()\
     Версія: 52\

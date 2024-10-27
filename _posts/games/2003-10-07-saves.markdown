@@ -3,6 +3,7 @@ title: "Сейви для 40 ігор"
 screenshot: "/n-gage/games/saves.png"
 download: "/n-gage/games/n-gage_saved_40_games.zip"
 mirror: 
+file-size: "592 kB"
 quote: |
     Розробник: [Nokia, kirill475]()\
     Версія: 40\

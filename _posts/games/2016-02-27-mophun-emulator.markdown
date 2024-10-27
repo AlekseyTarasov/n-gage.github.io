@@ -1,8 +1,9 @@
 ---
 title: "Mophun Emulator 2.15"
 screenshot: "/n-gage/games/mophun.png"
-download: "https://dimonvideo.ru/uploader/457184"
+download: "/n-gage/games/mophun_and_wwp.zip"
 mirror: ""
+file-size: "5.91 mB"
 quote: |
     Розробник: [Synergenix](http://www.mophun.com)\
     Версія: 2.15\

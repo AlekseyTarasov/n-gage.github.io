@@ -2,7 +2,8 @@
 title: "GizmoBoy v0.03"
 screenshot: "/n-gage/games/GizmoBoy.PNG"
 download: "https://github.com/mupfdev/GizmoBoy/releases/download/v0.03/GizmoBoy-v0.03.sis"
-mirror: ""
+mirror: "/n-gage/games/GizmoBoy-v0.03.sis"
+file-size: "444 kB"
 quote: |
     Розробник: [MupfDev](https://mupf.dev)\
     Версія: 0.03\

@@ -3,6 +3,7 @@ title: "Munkiki's Castles v1.03 та v1.06."
 screenshot: "/n-gage/games/Castles.png"
 download: "https://mega.nz/folder/xk8mXSRZ#nJI4J8KxJGD64bGfKlKQKQ"
 mirror: "/n-gage/games/Munkiki's Castles (complete revisions dumped and preserved by Razvan).zip"
+file-size: "137 kB"
 quote: |
     Розробник: [Nokia, Razvan,VSummersNTPS](https://x.com/VSummersNTPS)\
     Версія: 0.01\

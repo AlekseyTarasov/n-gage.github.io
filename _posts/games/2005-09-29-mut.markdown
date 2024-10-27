@@ -2,7 +2,8 @@
 title: "Mut - Multi User Tetris v1.00a"
 screenshot: "/n-gage/games/hiscore.jpg"
 download: "http://www.koeniglich.de/mut/Mut-1.0-series60.sis"
-mirror: ""
+mirror: "/n-gage/games/Mut-1.0-series60.sis"
+file-size: "27.3 kB"
 quote: |
     Розробник: [MupfDev](https://mupf.dev)\
     Версія: 1.00a\

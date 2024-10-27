@@ -2,7 +2,8 @@
 title: "n-gine v0.01"
 screenshot: "/n-gage/games/play1.jpg"
 download: "https://github.com/ngagesdk/n-gine/releases/download/v0.01/ngine-0.01.zip"
-mirror: ""
+mirror: "/n-gage/games/ngine-0.01.zip"
+file-size: "335 kB"
 quote: |
     Розробник: [MupfDev](https://mupf.dev)\
     Версія: 0.01\
