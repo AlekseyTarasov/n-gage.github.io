@@ -22,6 +22,7 @@ Cюжет ([з Вікіпедії](https://uk.wikipedia.org/wiki/Quake)):
 3. Файл pak0.pak помістити в папку id1.
 4. Запускати файл quakes60.exe за допомогою будь-якого файлового менеджера (звісно, на самій N-Gage).
 
+{:.img-center}
 ![QuakeI-one](/n-gage/games/QuakeI-one.jpg)
 ![QuakeI-two](/n-gage/games/QuakeI-two.jpg)
 ![QuakeI-three](/n-gage/games/QuakeI-three.jpg)
