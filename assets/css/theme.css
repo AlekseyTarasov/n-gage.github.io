@@ -723,6 +723,8 @@ display:inline;
 }
 
 .arenanav{
+  margin: 0 auto;
+  text-align: center;
 
 }
 
