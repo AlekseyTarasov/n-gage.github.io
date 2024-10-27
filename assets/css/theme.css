@@ -735,3 +735,8 @@ text-align:center;
   max-width: 282px;
   border: 4px solid #fff;
 }
+
+.side_box_content{
+  color: #fff;
+  font-size: 10px;
+}
