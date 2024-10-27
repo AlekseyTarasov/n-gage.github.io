@@ -5,7 +5,7 @@ download: "http://www.lonelycatgames.com/download/ultramp3/ultramp3_symbian_lcg_
 mirror: "/n-gage/programs/ultramp3_symbian_lcg_1_52.zip"
 file-size: "1.6 mB"
 quote: |
-    Розробник: [Smartphoneware](https://www.smartphoneware.com)\
+    Розробник: [Lonely Cat Games](http://www.lonelycatgames.com/index.php?chapter=ultramp3)\
     Версія: 1.52\
     Контейнер: .sis\
     Сумісність: Symbian OS 6,7,8 version.
