@@ -3,7 +3,7 @@ title: "Pulse 0.1a"
 screenshot: "/n-gage/utilities/pulse.jpg"
 download: 
 mirror: 
-file-size: "27.2 kB"
+file-size: "none"
 quote: |
     Розробник: [Atlantic Air]()\
     Версія: 0.01a\
