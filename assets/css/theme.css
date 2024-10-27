@@ -220,16 +220,14 @@ body {
   position: relative;
   margin: 0px;
   padding: 0;
-  padding-top: 3px;
   padding-bottom: 1px;
   padding-left: 18px;
   margin-bottom: 18px;
-  width: 211px;
-  min-height: 14px;
+  width: 169px;
+  min-height: 31px;
   background: url("../images/land.png");
-  border: 1px solid #121212;
   font-size: 9px;
-  line-height: 12px;
+  line-height: 32px;
   color: white;
   text-transform: uppercase;
   
@@ -238,20 +236,6 @@ body {
   text-overflow: ellipsis;
   max-width: 200px;
 }
-
-
-.h2_title_corner {
-  position: absolute;
-  margin: 0;
-  padding: 0;
-  left: 0px;
-  top: 12px;
-  width: 6px;
-  height: 6px;
-  background: url("../images/corner.png");
-  background-repeat: no-repeat;
-}
-
 
 .up {
   position: absolute;
