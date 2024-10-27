@@ -49,7 +49,7 @@ AddOn’s(додаткові скіни) Нажаль більше недост�
 
 Після повної установки програми ви також можете обрати додаткові скіни, які можна вибрати у головній програмі SysIcons. У кожному AddOn Pack також є відповідний шпалер, логотип OP та інструкція!
 
-Всього "офійійних адднові" було 6: Quark Blue, Quark Dark, Quark Green, Quark Gay, Quark Orange, Quark Pink, Quark Red
+Всього "офійійних адднові" було 7: Quark Blue, Quark Dark, Quark Green, Quark Gay, Quark Orange, Quark Pink, Quark Red
 
 {:.img-center}
 ![SysIconz](/n-gage/themes/quarkblue.jpg)
@@ -58,6 +58,7 @@ AddOn’s(додаткові скіни) Нажаль більше недост�
 ![SysIconz](/n-gage/themes/quarkgrey.jpg)
 ![SysIconz](/n-gage/themes/quarkorange.jpg)
 ![SysIconz](/n-gage/themes/quarkpink.jpg)
+![SysIconz](/n-gage/themes/quarkred.jpg)
 
 SysIcons Dribway Mod
 
