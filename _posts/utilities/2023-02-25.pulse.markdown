@@ -3,7 +3,7 @@ title: "Palette Extender"
 screenshot: "/n-gage/themes/pulse.jpg"
 download: 
 mirror: 
-file-size: "259.69 kB"
+file-size: "27.2 kB"
 quote: |
     Розробник: [Atlantic Air]()\
     Версія: 0.01a\
