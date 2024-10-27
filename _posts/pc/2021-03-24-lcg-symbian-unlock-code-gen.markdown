@@ -1,6 +1,6 @@
 ---
 title: "LcgUnlockCodeGen"
-screenshot: "/n-gage/pc/FE_scr0_english.jpg"
+screenshot: "/n-gage/pc/LcgUnlockCodeGen.jpg"
 download: "https://www.lonelycatgames.com/download/lcg-symbian-unlock-code-gen"
 mirror: 
 file-size: "1.02 mB"
