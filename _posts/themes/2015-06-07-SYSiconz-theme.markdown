@@ -28,15 +28,15 @@ SysIcons 1.01
 
 У новій версії 1.01 попередньо встановлені 4 різні стандартні стилі, а також є менеджер тем, в якому ви можете перемикатися між темами. Також є "AddOns" (додаткові скіни), які можна встановити та перемикатися між ними у менеджері. Далі про це детальніше…
 
-ажливо! Обов’язково встановлюйте на MMC, інакше можуть виникнути помилки!
+Важливо! Обов’язково встановлюйте на MMC, інакше можуть виникнути помилки!
 
 Які скіни доступні на початку, ви можете побачити тут:
 
 {:.img-center}
-![GameIcons](/n-gage/themes/fakeit.jpg)
-![GameIcons](/n-gage/themes/predatorblooded.jpg)
-![GameIcons](/n-gage/themes/fat.jpg)
-![GameIcons](/n-gage/themes/quarkgreen.jpg)
+![SysIconz](/n-gage/themes/fakeit.jpg)
+![SysIconz](/n-gage/themes/predatorblooded.jpg)
+![SysIconz](/n-gage/themes/fat.jpg)
+![SysIconz](/n-gage/themes/quarkgreen.jpg)
 
 {:.img-center}
 Fake It
@@ -46,7 +46,18 @@ Quark Green
 
 
 AddOn’s(додаткові скіни) Нажаль більше недоступні:
+
 Після повної установки програми ви також можете обрати додаткові скіни, які можна вибрати у головній програмі SysIcons. У кожному AddOn Pack також є відповідний шпалер, логотип OP та інструкція!
+
+Всього "офійійних адднові" було 6: Quark Blue, Quark Dark, Quark Green, Quark Gay, Quark Orange, Quark Pink, Quark Red
+
+{:.img-center}
+![SysIconz](/n-gage/themes/quarkblue.jpg)
+![SysIconz](/n-gage/themes/quarkdark.jpg)
+![SysIconz](/n-gage/themes/quarkgreen01.jpg)
+![SysIconz](/n-gage/themes/quarkgrey.jpg)
+![SysIconz](/n-gage/themes/quarkorange.jpg)
+![SysIconz](/n-gage/themes/quarkpink.jpg)
 
 SysIcons Dribway Mod
 
