@@ -1,9 +1,9 @@
 ---
 title: "SysIconz 1.01"
-screenshot: "/n-gage/themes/SysIconz_to.jpg"
-download: "/n-gage/themes/FreakIconsQD.zip"
+screenshot: "/n-gage/themes/01.jpg"
+download: "/n-gage/themes/sysiconz_v1.01.zip"
 mirror: 
-file-size: "1.31 mB"
+file-size: "735 kB"
 quote: |
     Розробник: [Mobile-Freaks.net](http://mobile-freaks.net)\
     Версія: 1.01\
