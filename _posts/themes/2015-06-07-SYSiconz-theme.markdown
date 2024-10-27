@@ -35,6 +35,12 @@ Predator Blooded
 Fat
 Quark Green
 
+{:.img-center}
+![GameIcons](/n-gage/themes/qd_ultramp3_skin_by_murka666_dec6nu-375w-2x.jpg)
+Fake It
+![GameIcons](/n-gage/themes/qd_ultramp3_skin_by_murka666_dec6nu-375w-2x.jpg)
+Predator Blooded
+
 AddOn’s(додаткові скіни) Нажаль більше недоступні:
 Після повної установки програми ви також можете обрати додаткові скіни, які можна вибрати у головній програмі SysIcons. У кожному AddOn Pack також є відповідний шпалер, логотип OP та інструкція!
 
