@@ -36,10 +36,14 @@ Fat
 Quark Green
 
 {:.img-center}
-![GameIcons](/n-gage/themes/qd_ultramp3_skin_by_murka666_dec6nu-375w-2x.jpg)
+![GameIcons](/n-gage/themes/fakeit.jpg)
 Fake It
-![GameIcons](/n-gage/themes/qd_ultramp3_skin_by_murka666_dec6nu-375w-2x.jpg)
+![GameIcons](/n-gage/themes/predatorblooded.jpg)
 Predator Blooded
+![GameIcons](/n-gage/themes/fat.jpg)
+Fat
+![GameIcons](/n-gage/themes/quarkgreen.jpg)
+Quark Green
 
 AddOn’s(додаткові скіни) Нажаль більше недоступні:
 Після повної установки програми ви також можете обрати додаткові скіни, які можна вибрати у головній програмі SysIcons. У кожному AddOn Pack також є відповідний шпалер, логотип OP та інструкція!
