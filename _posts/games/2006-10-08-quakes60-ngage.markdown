@@ -25,4 +25,3 @@ Cюжет ([з Вікіпедії](https://uk.wikipedia.org/wiki/Quake)):
 {:.img-center}
 ![QuakeI-one](/n-gage/games/QuakeI-one.jpg)
 ![QuakeI-two](/n-gage/games/QuakeI-two.jpg)
-![QuakeI-three](/n-gage/games/QuakeI-three.jpg)
