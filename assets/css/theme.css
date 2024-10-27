@@ -305,6 +305,7 @@ body {
   width: 32px;
   position: absolute;
   background: url("../images/icon-qd.gif") no-repeat;
+/* background: url("../images/n-g.gif") no-repeat; */
   display: block;
   top: 64px;
   left: 60%;
