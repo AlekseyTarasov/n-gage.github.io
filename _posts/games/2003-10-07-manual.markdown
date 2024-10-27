@@ -1,6 +1,6 @@
 ---
 title: "Мануали"
-screenshot: "/n-gage/games/manual.png"
+screenshot: "/n-gage/games/manual.jpg"
 download: ""
 mirror: 
 file-size: 
