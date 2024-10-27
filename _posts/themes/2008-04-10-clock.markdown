@@ -1,6 +1,6 @@
 ---
 title: "Clock"
-screenshot: "/n-gage/themes/rectangle-one.jpg"
+screenshot: "/n-gage/themes/Clock-qd.jpg"
 download: "/n-gage/themes/clock_for_ngage.zip"
 mirror: 
 file-size: "259.69 kB"
@@ -14,7 +14,6 @@ quote: |
 Це набір змінених стилів для годинника Nokia N-Gage, зокрема моделей QD та класичної N-Gage.
 
 {:.img-center}
-![Clock-qd](https://n-gage.site/n-gage/themes/Clock-qd.jpg)
 ![Clock-SX1](https://n-gage.site/n-gage/themes/Clock-SX1.jpg)
 ![Clock-nokia](https://n-gage.site/n-gage/themes/Clock-nokia.jpg)
 
