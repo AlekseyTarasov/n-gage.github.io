@@ -1,6 +1,6 @@
 ---
 title: "SysIconz 1.01"
-screenshot: "/n-gage/themes/02.png"
+screenshot: "/n-gage/themes/01.jpg"
 download: "/n-gage/themes/sysiconz_v1.01.zip"
 mirror: 
 file-size: "735 kB"
