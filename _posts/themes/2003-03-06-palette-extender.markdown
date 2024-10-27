@@ -1,6 +1,6 @@
 ---
 title: "Palette Extender"
-screenshot: "/n-gage/themes/pextender.gif"
+screenshot: "/n-gage/themes/pextender.png"
 download: "/n-gage/themes/clock_for_ngage.zip"
 mirror: 
 file-size: "259.69 kB"
