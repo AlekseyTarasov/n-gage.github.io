@@ -15,6 +15,5 @@ TibiaME — це перша багатокористувацька онлайн-
 {:.img-center}
 ![TibiaMe](/n-gage/games/spell01.gif)
 ![TibiaMe](/n-gage/games/chat01.gif)
-![TibiaMe](/n-gage/games/trap01.gif)
 
 Сервера досі підтимуються. Грати також можна, через интернет розданий мережою Bluetooth. Як це зробити, можна дізнатись тут
