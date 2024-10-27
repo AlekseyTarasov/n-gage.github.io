@@ -11,7 +11,7 @@ quote: |
     Сумісність: Symbian 6.1 (S60v1).
 ---
 
-Оригінальний файл та мод від dribway.com (тобто від n-gage.site=)
+Оригінальний файл та мод тем Fat від dribway.com (тобто від n-gage.site=)
 
 Швиднько про мод. Вся ця історія почалась від дослідження syzicons, весь цей сайт брав коріння від блогу dribway.com. Де я в 2012 році все ж таки знайшов спосіб замінти ці кляті 5 іконок на своєму qd, та поділитися модом зі своїми друзями.
 
@@ -44,6 +44,7 @@ Predator Blooded
 Fat
 Quark Green
 
+<br>
 
 AddOn’s(додаткові скіни) Нажаль більше недоступні:
 
@@ -60,7 +61,7 @@ AddOn’s(додаткові скіни) Нажаль більше недост�
 ![SysIconz](/n-gage/themes/quarkpink.jpg)
 ![SysIconz](/n-gage/themes/quarkred.jpg)
 
-SysIcons Dribway Mod
+FatIcons Dribway Mod
 
 Установка:
 
