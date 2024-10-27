@@ -3,7 +3,7 @@ title: "Ashen v1.0.6 Windows Build"
 screenshot: "/n-gage/pc/Ashen_v1.0.6_Windows_Build_01.jpg"
 download: "https://archive.org/download/Nokia_N-Gage_Ashen_v1.0.6_Windows_Build/Ashen_v1.0.6_Windows_Build_Files.zip"
 mirror: 
-file-size: "1.02 mB"
+file-size: "14.9 mB"
 quote: |
     Розробник: [Torus Games](https://www.torus.com.au)\
     Версія: 1.0.6\
