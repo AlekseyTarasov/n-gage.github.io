@@ -73,10 +73,10 @@ Update 24.03.12 Знайшов спосіб заміни 5 відсутніх і
 
 [download 237.45 kb](/n-gage/themes/FreakIconsQD.zip)
 
-Update 20.04.14 Зроблено повну заміну на n-gage classic. На classic бага з повідомленням про помилку - немає.
-
-[download 237.45 kb](/n-gage/themes/)
-
 {:.img-center}
 ![SYSiconz](/n-gage/themes/SYSiconz-one.jpg)
 ![SYSiconz](/n-gage/themes/SYSiconz-two.jpg)
+
+Update 20.04.14 Зроблено повну заміну на n-gage classic. На classic бага з повідомленням про помилку - немає.
+
+[download 237.45 kb](/n-gage/themes/)
