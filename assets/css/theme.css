@@ -746,3 +746,8 @@ text-align:center;
   margin: 0 auto;
   text-align: center;
 }
+
+.page-description{
+  font-family: "Martian Mono", monospace;
+  color: #ccc;
+}
