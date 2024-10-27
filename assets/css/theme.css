@@ -213,6 +213,45 @@ body {
   background-repeat: no-repeat;
 }
 
+.h2_title {
+  font-family: "HomeVideo-Regular", sans-serif;
+  letter-spacing: .2rem;
+  text-shadow: 0 1px 0 #000;
+  position: relative;
+  margin: 0px;
+  padding: 0;
+  padding-top: 3px;
+  padding-bottom: 1px;
+  padding-left: 18px;
+  margin-bottom: 18px;
+  width: 211px;
+  min-height: 14px;
+  background: url("../images/land.png");
+  border: 1px solid #121212;
+  font-size: 9px;
+  line-height: 12px;
+  color: white;
+  text-transform: uppercase;
+  
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+
+
+.h2_title_corner {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  left: 0px;
+  top: 12px;
+  width: 6px;
+  height: 6px;
+  background: url("../images/corner.png");
+  background-repeat: no-repeat;
+}
+
 
 .up {
   position: absolute;
