@@ -3,7 +3,7 @@ title: "Operator Logo"
 screenshot: "/n-gage/themes/logo.jpg"
 download: "/n-gage/themes/operator-logo.zip"
 mirror: 
-file-size:
+file-size: "7.74 kB"
 quote: |
     Розробник: [n-gage.site]()\
     Версія: none\
