@@ -6,7 +6,7 @@ mirror:
 file-size: "98.7 kB"
 quote: |
     Розробник: [Nokia](https://nokia.com/)\
-    Версія: 1.01\
+    Версія: 1.03\
     Контейнер: .sis\
     Сумісність: n-gage.
 ---
