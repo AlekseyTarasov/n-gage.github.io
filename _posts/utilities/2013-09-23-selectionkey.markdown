@@ -1,0 +1,21 @@
+---
+title: "SelectionKey"
+screenshot: "/n-gage/utilities/jin9MVpiksk.jpg"
+download: "/n-gage/utilities/SelectionKey.sis"
+mirror: 
+file-size: "10.77 kB"
+quote: |
+    Розробник: [AlexFello](https://dribway.com/)\
+    Версія: 0.1.0\
+    Контейнер: .sis\
+    Сумісність: n-gage.
+---
+
+Розробив програму, яка дозволяє призначити на вибрану вами софт-клавішу сторонню програму Appman.
+
+Для встановлення запустіть інсталяцію (під час установки запитає мову, імовірно, це буде китайська. Пакував через sisboom).
+
+{:.img-center}
+![SelectionKey](/n-gage/utilities/LfQLeLsmXjc.jpg)
+
+Після установки зайдіть в налаштування й призначте стандартну програму "Help" на потрібну клавішу (розроблено для англійської мови).
