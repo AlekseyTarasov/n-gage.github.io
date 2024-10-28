@@ -2,7 +2,7 @@
 title: "HideMusic 1.00"
 screenshot: "/n-gage/utilities/hidemusic.jpg"
 download: "/n-gage/utilities/hidemusic.sis"
-mirror: ""
+mirror: 
 file-size: "25.55 kB"
 quote: |
     Розробник: [Sergio Padrino Recio]()\
@@ -15,6 +15,7 @@ quote: |
 
 Для використання програми:
 
-Помістіть папки з музикою за шляхом *E:\Music*
-Програма не розпізнає окремі треки, лише цілі папки!
+- Помістіть папки з музикою за шляхом *E:\Music*
+- Програма не розпізнає окремі треки, лише цілі папки!
+
 Примітка: програма призначена виключно для N-Gage Classic.
