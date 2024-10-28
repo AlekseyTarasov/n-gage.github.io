@@ -1,6 +1,6 @@
 ---
 title: "EQ Restar v1.00"
-screenshot: "/n-gage/utilities/batmon.jpg"
+screenshot: "/n-gage/utilities/12810.jpg"
 download: "/n-gage/utilities/eqrestart.sis"
 mirror:
 file-size: "3.48 kB"
