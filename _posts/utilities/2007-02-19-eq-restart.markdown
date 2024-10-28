@@ -1,5 +1,5 @@
 ---
-title: "batmon v1.01"
+title: "EQ Restar v1.00"
 screenshot: "/n-gage/utilities/batmon.jpg"
 download: "/n-gage/utilities/eqrestart.sis"
 mirror:
@@ -11,3 +11,6 @@ quote: |
     Сумісність: n-gage, n-gage qd.
 ---
 
+Ця програма дозволяє швидко перезавантажувати пристрій.
+
+Вважаю її дуже корисною, хоча написати самостійно виявилось простіше й швидше, ніж шукати версію під N-Gage, а тим більше — ніж користуватись версіями на Python.
