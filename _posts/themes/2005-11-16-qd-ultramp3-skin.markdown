@@ -1,6 +1,6 @@
 ---
 title: "QD ULTRAMP3 Skin"
-screenshot: "/n-gage/themes/qd_ultramp3_skin_by_murka666_dec6nu-375w-2x.jpg"
+screenshot: "/n-gage/themes/qd_ultramp3_skin.jpg"
 download: "/n-gage/themes/qd_ultramp3_skin_by_murka666_dec6nu.mp3skin"
 mirror: 
 file-size: "75.3 kB"
