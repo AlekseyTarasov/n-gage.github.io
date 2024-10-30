@@ -19,6 +19,7 @@ quote: |
 ![HideMusic](/n-gage/utilities/hidemusic-01.jpg)
 ![HideMusic](/n-gage/utilities/hidemusic-02.jpg)
 
+
 Для використання програми:
 
 - Помістіть папки з музикою за шляхом *E:\Music*
