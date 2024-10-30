@@ -16,8 +16,8 @@ quote: |
 Цікава програма ще тим, що її було важко знайти. Довелося знайти та написати автору сайту n-gage.serzh.name, де в останній раз можна було завантажити цей додаток. І вже потім я зміг дізнатися про самого розробника, та почав пошук його контактів. Дякую йому, за те що він знайшов сурскод програми котру він писав у школі 20 років тому та люб'язно поділився ним на гітхаб, який доступний [за посиланням](https://github.com/sergiou87/HideMusic).
 
 {:.img-center}
-![HideMusic](/n-gage/themes/hidemusic-01.jpg)
-![HideMusic](/n-gage/themes/hidemusic-02.jpg)
+![HideMusic](/n-gage/utilities/hidemusic-01.jpg)
+![HideMusic](/n-gage/utilities/hidemusic-02.jpg)
 
 Для використання програми:
 
