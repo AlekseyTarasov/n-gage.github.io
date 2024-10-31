@@ -26,7 +26,7 @@ UC Browser — провідний мобільний інтернет-брауз
 
 Дякуємо yarig за патч!
 
-[download 2 kb](/n-gage/programs/Patch_UcWeb_v7.9.zip)
+[download [2 kB]](/n-gage/programs/Patch_UcWeb_v7.9.zip)
 
 
 Проксі для UC Browser
