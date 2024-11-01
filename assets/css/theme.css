@@ -672,6 +672,7 @@ h3 {
   text-transform: uppercase;
   font-size: 1.1rem;
   letter-spacing: .2rem;
+  margin-bottom: 0.5rem;
 }
 
 .example {
@@ -762,3 +763,4 @@ text-align:center;
   font-family: "Martian Mono", monospace;
   color: #ccc;
 }
+
