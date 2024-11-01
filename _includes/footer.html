@@ -7,6 +7,12 @@
 <!-- JavaScript -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
+
+<script>
+  var random = Math.floor(Math.random() * $('.item-gallery').length);
+  $('.item-gallery').hide().eq(random).show();
+</script>
+
 <script>
   $(document).ready(function(){
     var values = ["road","park","caravan"];
