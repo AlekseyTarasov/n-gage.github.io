@@ -2,7 +2,7 @@
 title: "7 Days Salvation"
 screenshot: "/n-gage/games/7days.png"
 download: "https://github.com/minexew/Soft3D-RE/tree/master/Releases/Windows%20Demo"
-mirror: ""
+mirror: 
 file-size: "4.68 mB"
 quote: |
     Розробник: [DINGOO GAMES](http://www.dingoogames.cn/products_7day.html)\
