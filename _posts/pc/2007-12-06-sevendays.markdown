@@ -1,6 +1,6 @@
 ---
 title: "7 Days Salvation"
-screenshot: "/n-gage/games/7days.png"
+screenshot: "/n-gage/pc/7days.png"
 download: "https://github.com/minexew/Soft3D-RE/tree/master/Releases/Windows%20Demo"
 mirror: 
 file-size: "4.68 mB"
