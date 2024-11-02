@@ -3,6 +3,7 @@ title: "7 Days Salvation"
 screenshot: "/n-gage/games/7_Days_Salvation.png"
 download: ""
 mirror: "https://indienova.com/g/7Days"
+file-size: "592 kB"
 quote: |
     Розробник: [DINGOO GAMES](http://www.dingoogames.cn/products_7day.html)\
     Версія: \
