@@ -1,0 +1,12 @@
+---
+title: "gnubox"
+screenshot: "/n-gage/utilities/gnubox.jpg"
+download: "/n-gage/utilities/gnubox.sis"
+mirror: 
+file-size: "10.0 kB"
+quote: |
+    Розробник: [unknown]()\
+    Версія: 0.50\
+    Контейнер: .sis\
+    Сумісність: n-gage, n-gage qd.
+---
