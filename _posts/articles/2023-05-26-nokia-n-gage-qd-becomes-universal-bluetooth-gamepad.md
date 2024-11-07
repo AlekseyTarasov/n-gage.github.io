@@ -18,6 +18,8 @@ description: "Хоча Nokia N-Gage не змогла стати серйозн�
 
 Що стосується самого Nokia N-Gage, варто відзначити, що для нього є оновлене середовище розробки, а навіть гра Wordle була портована на N-Gage. Хоча вона може виглядати як артефакт минулого, але далеко не забута.
 
+Перекладений текст з репозиторія GamepadBT, оригінал можна подивитися [за посиланням](https://github.com/BeardoGuy/GamepadBT).
+
 {:.img-center}
 ![GamepadBT](/n-gage/articles/GamepadBT_v3.01.jpg)
 
@@ -27,7 +29,7 @@ description: "Хоча Nokia N-Gage не змогла стати серйозн�
 Програмне забезпечення для N-Gage:
 Для роботи потрібна встановлена Python for S60 (PyS60). Завантажте відповідну версію за посиланням нижче:
 
-Для Series 60 1-го видання (N-Gage та N-Gage QD) – [Завантажити за цим посиланням]
-Для Series 60 2-го видання (6600, 3230, 7610 тощо) – [Завантажити за цим посиланням]
-Завантажте SIS-файл із розділу Releases.
+Для Series 60 1-го видання (N-Gage та N-Gage QD) – [Завантажити за цим посиланням](https://sourceforge.net/projects/pys60/files/pys60/1.3.1/PythonForS60_1stEd_1_3_1.SIS/download) також оновлена збірка та модулі знаходяться в нашому розділі [Programs](https://n-gage.site/programs/)
+Для Series 60 2-го видання (6600, 3230, 7610 тощо) – [Завантажити за цим посиланням](https://sourceforge.net/projects/pys60/files/pys60/1.3.23/PythonForS60_1_3_23_2ndEd.SIS/download)
+Завантажте SIS-файл із розділу [Releases](https://sourceforge.net/projects/pys60/files/pys60/1.3.23/PythonForS60_1_3_23_2ndEd.SIS/download).
 
