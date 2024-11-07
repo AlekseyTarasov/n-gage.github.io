@@ -3,7 +3,7 @@ title: "Nokia N-Gage QD стає універсальним Bluetooth-геймп
 description: "Хоча Nokia N-Gage не змогла стати серйозним конкурентом для портативних консолей Nintendo, їй не можна відмовити в досить передовій на той час технології. [BeardoGuy] має повністю функціональний N-Gage QD, який він перетворив на універсальний геймпад із Bluetooth. -- Hackaday"
 ---
 
-{:.img-center}
+{:.video-center}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMz5dQX0W8A?si=1jIPvnkWYVyNFsoj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 На пристрої працює програма, яка змушує його діяти як геймпад, а на клієнтському боці потрібен саморобний Bluetooth-адаптер. Адаптер складається з плати на базі ATtiny85 і модуля HC-06, і він розпізнається як USB-геймпад на будь-якому пристрої, до якого підключається.
