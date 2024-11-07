@@ -9,7 +9,7 @@ description: "Хоча Nokia N-Gage не змогла стати серйозн�
 
 На пристрої працює програма, яка змушує його діяти як геймпад, а на клієнтському боці потрібен саморобний Bluetooth-адаптер. Адаптер складається з плати на базі ATtiny85 і модуля HC-06, і він розпізнається як USB-геймпад на будь-якому пристрої, до якого підключається.
 
-<img alt="GamepadBT" src="/n-gage/utilities/Scr. shot.Main.jpg" vspace="5" hspace="5" border="1" align="right">
+<img alt="GamepadBT" src="/n-gage/utilities/GamepadBT.jpg" vspace="5" hspace="5" border="1" align="right">
 
 Програма GamepadBT, розроблена [BeardoGuy](https://github.com/BeardoGuy), відправляє події кнопок через Bluetooth на адаптер, який передає їх через USB, і ці події виглядають як сигнали від звичайного геймпада.
 
