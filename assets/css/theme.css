@@ -738,9 +738,14 @@ display:inline;
 
 }
 
-.video-center{
-margin:0 auto; 
-text-align:center;
+.video-center, iframe {
+  margin: 0 auto;
+  text-align:center;
+}
+
+.video-center .iframe {
+  display: block;
+  border-style:none;
 }
 
 .image-slider img{
