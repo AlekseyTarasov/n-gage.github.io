@@ -8,15 +8,15 @@ description: "Хоча Nokia N-Gage не змогла стати серйозн�
 
 На пристрої працює програма, яка змушує його діяти як геймпад, а на клієнтському боці потрібен саморобний Bluetooth-адаптер. Адаптер складається з плати на базі ATtiny85 і модуля HC-06, і він розпізнається як USB-геймпад на будь-якому пристрої, до якого підключається.
 
-<img alt="Colin McRae Rally" src="/n-gage/utilities/Scr. shot.Main.jpg" vspace="5" hspace="5" border="1" align="left">
+<img alt="Colin McRae Rally" src="/n-gage/utilities/Scr. shot.Main.jpg" vspace="5" hspace="5" border="1" align="right">
 
 Програма GamepadBT, розроблена [BeardoGuy](https://github.com/BeardoGuy), відправляє події кнопок через Bluetooth на адаптер, який передає їх через USB, і ці події виглядають як сигнали від звичайного геймпада.
 
 Цей проєкт можна використовувати як ресурс для реалізації USB-геймпада — як на Nokia N-Gage, так і на інших пристроях. Усі деталі можна знайти в [репозиторії проєкту на GitHub](https://github.com/BeardoGuy/GamepadBT), а також переглянути відео з демонстрацією роботи.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMz5dQX0W8A?si=1jIPvnkWYVyNFsoj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Що стосується самого Nokia N-Gage, варто відзначити, що для нього є оновлене середовище розробки, а навіть гра Wordle була портована на N-Gage. Хоча вона може виглядати як артефакт минулого, але далеко не забута.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMz5dQX0W8A?si=1jIPvnkWYVyNFsoj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Перекладений текст з репозиторія GamepadBT, оригінал можна подивитися [за посиланням](https://github.com/BeardoGuy/GamepadBT).
 
