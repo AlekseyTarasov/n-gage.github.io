@@ -1,6 +1,6 @@
 ---
 title: "GamepadBT"
-screenshot: "/n-gage/utilities/Scr. shot.Main.jpg"
+screenshot: "/n-gage/utilities/GamepadBT.jpg"
 download: "https://github.com/BeardoGuy/GamepadBT/releases/download/3.01/GamepadBTv3.01.SIS"
 mirror: "/n-gage/utilities/GamepadBTv3.01.SIS"
 file-size: "10.8 kB"
