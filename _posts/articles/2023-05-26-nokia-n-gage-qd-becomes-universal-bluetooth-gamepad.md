@@ -4,12 +4,10 @@ description: "Хоча Nokia N-Gage не змогла стати серйозн�
 ---
 
 {:.img-center}
-![GamepadBT](/n-gage/articles/N-Gage-QD-playing-Rayman-Origins.jpg)
-
-На пристрої працює програма, яка змушує його діяти як геймпад, а на клієнтському боці потрібен саморобний Bluetooth-адаптер. Адаптер складається з плати на базі ATtiny85 і модуля HC-06, і він розпізнається як USB-геймпад на будь-якому пристрої, до якого підключається.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMz5dQX0W8A?si=1jIPvnkWYVyNFsoj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+На пристрої працює програма, яка змушує його діяти як геймпад, а на клієнтському боці потрібен саморобний Bluetooth-адаптер. Адаптер складається з плати на базі ATtiny85 і модуля HC-06, і він розпізнається як USB-геймпад на будь-якому пристрої, до якого підключається.
 
 <img alt="Colin McRae Rally" src="/n-gage/utilities/Scr. shot.Main.jpg" vspace="5" hspace="5" border="1" align="right">
 
