@@ -21,7 +21,6 @@ description: "Хоча Nokia N-Gage не змогла стати серйозн�
 {:.img-center}
 ![GamepadBT](/n-gage/articles/GamepadBT_v3.01.jpg)
 
-
 Проєкт перетворення Symbian Series60 на Bluetooth-геймпад, зокрема для Nokia N-Gage та N-Gage QD.
 Цей проєкт має працювати з усіма пристроями Symbian Series 60 1-го та 2-го видань. Тестування проводилося на Nokia N-Gage QD з прошивкою v4.60.
 
