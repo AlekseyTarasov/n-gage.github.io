@@ -55,8 +55,8 @@ description: "Хоча Nokia N-Gage не змогла стати серйозн�
 
 Потрібні бібліотеки Arduino:
 
-- DigisparkJoystick з: Digistump Joystick Library
-- Digispark_SoftSerial-INT0 з: SoftSerial-INT0 Library
+- DigisparkJoystick з: [Digistump Joystick Library](https://github.com/digistump/DigisparkArduinoIntegration/tree/master/libraries/DigisparkJoystick)
+- Digispark_SoftSerial-INT0 з: [SoftSerial-INT0 Library](https://github.com/J-Rios/Digispark_SoftSerial-INT0)
 
 Процес підключення:
 
