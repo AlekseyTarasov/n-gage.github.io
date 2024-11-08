@@ -1,5 +1,5 @@
 ---
-title: "SPMark™04"
+title: "SPMark™04 Business Version"
 screenshot: "/n-gage/utilities/pulse.jpg"
 download: "http://www.futuremark.com/download/spmark04/"
 mirror: "/n-gage/utilities/SPMark04_v110_business_S60.sis"
@@ -10,6 +10,8 @@ quote: |
     Контейнер: .sis\
     Сумісність: Symbian 6.1/7.0.
 ---
+
+SPMark04 — перший повний бенчмарк для смартфонів. SPMark04 Consumer Version — це безкоштовний бенчмарк для смартфонів (Series60 та UIQ), що включає 3D-тести.
 
 {:.img-center}
 ![Discord for J2ME](/n-gage/utilities/spmark04_consumer_lead_2.jpg)
@@ -30,3 +32,5 @@ quote: |
 - Оцінка системи
 - Детальна інформація про систему
 - Налаштовуваний запуск тестів
+
+ВАЖЛИВО: Для встановлення SPMark04 Business Edition потрібен бізнес-ключ.
