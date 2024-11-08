@@ -1,5 +1,5 @@
 ---
-title: "SPMark™04 Business Edition"
+title: "SPMark™04"
 screenshot: "/n-gage/utilities/pulse.jpg"
 download: "http://www.futuremark.com/download/spmark04/"
 mirror: "/n-gage/utilities/SPMark04_v110_business_S60.sis"
