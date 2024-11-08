@@ -2,8 +2,8 @@
 title: "SPMark™04 Business Edition"
 screenshot: "/n-gage/utilities/pulse.jpg"
 download: "http://www.futuremark.com/download/spmark04/"
-mirror: 
-file-size: "none"
+mirror: "/n-gage/utilities/SPMark04_v110_business_S60.sis"
+file-size: "669 kB"
 quote: |
     Розробник: [Futuremark](http://www.futuremark.com)\
     Версія: 1.1.0\
