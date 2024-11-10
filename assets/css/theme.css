@@ -627,6 +627,10 @@ color: #cccccc;
   overflow: hidden;
 }
 
+.footer-content{
+  background-color: #333;
+}
+
 .copyright .copyright-link {
   float: left;
   border-left: 1px solid #333;
