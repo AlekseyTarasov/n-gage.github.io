@@ -1,7 +1,7 @@
 <svg width="42" height="8" viewBox="0 0 42 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 0.5H42" stroke="#4E5050"/>
+<path d="M0 0.5H42" stroke="#212121"/>
 <path d="M0 2.5H42" stroke="#E6351D"/>
 <path d="M0 3.5H42" stroke="#E6351D"/>
-<path d="M0 5.5H42" stroke="#4E5050"/>
+<path d="M0 5.5H42" stroke="#212121"/>
 <path d="M0 7.5H42" stroke="#FBC034"/>
 </svg>
