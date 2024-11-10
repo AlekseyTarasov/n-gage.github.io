@@ -594,7 +594,7 @@ color: #cccccc;
 } 
 
 .svg-pattern{
-  height: 4px;
+  height: 5px;
   background: url(../images/pattern.svg) repeat-x 0 100%;
   display: block;
   margin-top: 10%;
