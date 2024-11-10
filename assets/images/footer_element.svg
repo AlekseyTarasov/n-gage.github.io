@@ -1,13 +1,10 @@
 <svg width="2000" height="64" viewBox="0 0 2000 64" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1815_100)">
-<path d="M936.5 47H1079.5" stroke="#252525"/>
 <path d="M-20 24.5H983L1025 1H1073.5L1099.5 15H2010" stroke="#4B4E4E" stroke-width="2"/>
-<path d="M-20 46H2010" stroke="#4E5050"/>
+<path d="M-20 46H2010" stroke="#424242"/>
 <path d="M-10 19H938.5L969.5 30H1013L1026.5 21H2010" stroke="#424242"/>
-<path d="M-10 41H950.5L1002.5 62H1051L1077 50.5H2010" stroke="#FBC034" stroke-width="3"/>
-<path d="M-10 31H950.5L969 38.5H1021.5L1038 27H2220" stroke="#E6351D" stroke-width="8"/>
-<path d="M-30 34.5H950L968 42H1023L1039.5 30.5H2040" stroke="#2A2222"/>
-<path d="M2030 23.5H1037L1020.5 35H970L951 27.5H-10" stroke="#532220"/>
+<path d="M-10 41H950.5L1002.5 62H1051L1077 50.5H2010" stroke="#4E5050" stroke-width="3"/>
+<path d="M-10 31H950.5L969 38.5H1021.5L1038 27H2220" stroke="#4E5050" stroke-width="8"/>
 </g>
 <defs>
 <clipPath id="clip0_1815_100">
