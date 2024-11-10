@@ -615,7 +615,8 @@ color: #cccccc;
   width: 100%;
   height: 70px;
   z-index: 10;
-  background: url("../images/footer_element.svg") no-repeat center bottom;
+    /*background: url("../images/footer_element.svg") no-repeat center bottom;*/
+    background: url("../images/lines.svg") repeat-x 0 100%;
 }
 
 
