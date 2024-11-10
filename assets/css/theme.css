@@ -619,6 +619,29 @@ color: #cccccc;
   padding-left: 60px;
 }
 
+.copyright {
+  color: #ADADAD;
+  font-size: 11px;
+  padding: 15px 0 25px;
+  clear: both;
+  overflow: hidden;
+}
+
+.bbcom_desktop_common_footer_a .copyright {
+    color: #ADADAD;
+    font-size: 11px;
+    padding: 15px 0 25px;
+    clear: both;
+    overflow: hidden;
+}
+
+.bbcom_desktop_common_footer_a .copyright .copyright-link {
+  float: left;
+  border-left: 1px solid #333;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+
 #player {
   --plyr-color-main: #000;
 }
