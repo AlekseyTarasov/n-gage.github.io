@@ -601,8 +601,7 @@ color: #cccccc;
 }
 
 .footer{
-  font-family: "Martian Mono", monospace;
-  font-size: 1rem;
+  font-size: 10px;
   color: #cccccc;
   height: 162px;
   /* background: url("../images/footer.png") repeat-x 0 100%;*/
