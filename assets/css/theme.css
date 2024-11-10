@@ -601,9 +601,9 @@ color: #cccccc;
 }
 
 .footer{
-  height: 108px;
+  height: 162px;
   /* background: url("../images/footer.png") repeat-x 0 100%;*/
-  background: #000 url("../images/bg.jpg") no-repeat center bottom;
+  background: #000 url("../images/bg-full.jpg") no-repeat center bottom;
   display: block;
 }
 .footer_element{
