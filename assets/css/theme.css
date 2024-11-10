@@ -597,14 +597,14 @@ color: #cccccc;
   height: 4px;
   background: url(../images/pattern.svg) repeat-x 0 100%;
   display: block;
+  margin-top: 10%;
 }
 
 .footer{
-  height: 109px;
+  height: 108px;
   /* background: url("../images/footer.png") repeat-x 0 100%;*/
   background: #000 url("../images/bg.jpg") no-repeat center bottom;
   display: block;
-  margin-top: 10%;
 }
 .footer_element{
   width: 100%;
@@ -633,7 +633,7 @@ color: #cccccc;
 }
 
 .footer-content{
-  background-color: #333;
+  background-color: #000;
 }
 
 .copyright .copyright-link {
