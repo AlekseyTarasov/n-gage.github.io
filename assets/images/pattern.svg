@@ -1,0 +1,50 @@
+<svg width="214" height="5" viewBox="0 0 214 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="1" width="4" height="3" fill="white"/>
+<rect x="9" y="1" width="4" height="3" fill="#CCCCCC"/>
+<rect x="13" y="1" width="4" height="3" fill="#BBAABB"/>
+<rect x="17" y="1" width="6" height="3" fill="#9999AA"/>
+<rect x="23" y="1" width="8" height="3" fill="#887788"/>
+<rect x="31" y="1" width="8" height="3" fill="#665566"/>
+<rect x="39" y="1" width="7" height="3" fill="#443344"/>
+<rect x="46" y="1" width="10" height="3" fill="#222222"/>
+<rect x="56" y="1" width="2" height="3" fill="#443344"/>
+<rect x="58" y="1" width="3" height="3" fill="#665566"/>
+<rect x="61" y="1" width="5" height="3" fill="#887788"/>
+<rect x="66" y="1" width="1" height="3" fill="white"/>
+<rect x="67" y="1" width="3" height="3" fill="#9999AA"/>
+<rect x="70" y="1" width="4" height="3" fill="#BBAABB"/>
+<rect x="74" y="1" width="4" height="3" fill="#CCCCCC"/>
+<rect x="78" y="1" width="9" height="3" fill="#EEEEEE"/>
+<rect x="87" y="1" width="4" height="3" fill="#FFEECC"/>
+<rect x="91" y="1" width="4" height="3" fill="#FFCC99"/>
+<rect x="95" y="1" width="3" height="3" fill="#FFBB66"/>
+<rect x="98" y="1" width="3" height="3" fill="#FF9933"/>
+<rect x="101" y="1" width="4" height="3" fill="#FF7700"/>
+<rect x="105" y="1" width="3" height="3" fill="#CC5500"/>
+<rect x="4" y="1" width="5" height="3" fill="#EEEEEE"/>
+<rect x="214" y="4" width="4" height="3" transform="rotate(180 214 4)" fill="white"/>
+<rect x="205" y="4" width="4" height="3" transform="rotate(180 205 4)" fill="#CCCCCC"/>
+<rect x="201" y="4" width="4" height="3" transform="rotate(180 201 4)" fill="#BBAABB"/>
+<rect x="197" y="4" width="6" height="3" transform="rotate(180 197 4)" fill="#9999AA"/>
+<rect x="191" y="4" width="8" height="3" transform="rotate(180 191 4)" fill="#887788"/>
+<rect x="183" y="4" width="8" height="3" transform="rotate(180 183 4)" fill="#665566"/>
+<rect x="175" y="4" width="7" height="3" transform="rotate(180 175 4)" fill="#443344"/>
+<rect x="168" y="4" width="10" height="3" transform="rotate(180 168 4)" fill="#222222"/>
+<rect x="158" y="4" width="2" height="3" transform="rotate(180 158 4)" fill="#443344"/>
+<rect x="156" y="4" width="3" height="3" transform="rotate(180 156 4)" fill="#665566"/>
+<rect x="153" y="4" width="5" height="3" transform="rotate(180 153 4)" fill="#887788"/>
+<rect x="148" y="4" width="1" height="3" transform="rotate(180 148 4)" fill="white"/>
+<rect x="147" y="4" width="3" height="3" transform="rotate(180 147 4)" fill="#9999AA"/>
+<rect x="144" y="4" width="4" height="3" transform="rotate(180 144 4)" fill="#BBAABB"/>
+<rect x="140" y="4" width="4" height="3" transform="rotate(180 140 4)" fill="#CCCCCC"/>
+<rect x="136" y="4" width="9" height="3" transform="rotate(180 136 4)" fill="#EEEEEE"/>
+<rect x="127" y="4" width="4" height="3" transform="rotate(180 127 4)" fill="#FFEECC"/>
+<rect x="123" y="4.00002" width="4" height="3" transform="rotate(180 123 4.00002)" fill="#FFCC99"/>
+<rect x="119" y="4.00002" width="3" height="3" transform="rotate(180 119 4.00002)" fill="#FFBB66"/>
+<rect x="116" y="4.00002" width="3" height="3" transform="rotate(180 116 4.00002)" fill="#FF9933"/>
+<rect x="113" y="4.00002" width="4" height="3" transform="rotate(180 113 4.00002)" fill="#FF7700"/>
+<rect x="109" y="4.00002" width="3" height="3" transform="rotate(180 109 4.00002)" fill="#CC5500"/>
+<rect x="210" y="4" width="5" height="3" transform="rotate(180 210 4)" fill="#EEEEEE"/>
+<line y1="0.5" x2="214" y2="0.5" stroke="black"/>
+<line y1="4.5" x2="214" y2="4.5" stroke="black"/>
+</svg>

@@ -593,6 +593,11 @@ font-weight: bold;
 color: #cccccc;
 } 
 
+.svg-pattern{
+  height: 4px;
+  background: url(../images/pattern.svg) repeat-x 0 100%;
+  display: block;
+}
 
 .footer{
   height: 109px;
