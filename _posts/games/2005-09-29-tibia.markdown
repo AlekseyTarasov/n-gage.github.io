@@ -2,10 +2,11 @@
 title: "Tibia ME"
 screenshot: "/n-gage/games/welcome01.gif"
 download: "https://www.tibiame.com/?section=download&lan=en&markup=xhtml"
-mirror: ""
+mirror: "/n-gage/games/tibiame_s60_223.sis"
+file-size: "719 kB"
 quote: |
     Розробник: [CipSoft](https://www.tibiame.com/)\
-    Версія: 1.00a\
+    Версія: 2.23\
     Контейнер: .sis\
     Сумісність: n-gage, n-gage qd.
 ---
@@ -16,4 +17,14 @@ TibiaME — це перша багатокористувацька онлайн-
 ![TibiaMe](/n-gage/games/spell01.gif)
 ![TibiaMe](/n-gage/games/chat01.gif)
 
-Сервера досі підтимуються. Грати також можна, через интернет розданий мережою Bluetooth. Як це зробити, можна дізнатись тут
+**Примітка:**На офіційному сайті, чомусь прибрали можливість скачати клієнт цієї гри але сервера досі працюють. У саппорті відовіли, цитую "I am afraid these clients have been deactivated for technical reasons". Остання версія гри яку можна було скачати 2.23 від 6.05.2021.
+
+{:.img-center}
+![TibiaMe](/n-gage/games/version.PNG)
+
+Також на моїй старій флешці знайшлась версія 2.13
+
+[download [686 kB]](/n-gage/games/tibiame_s60_213.sis)
+
+Грати також можна, через интернет розданий мережою Bluetooth. Як це зробити, можна дізнатись тут
+
