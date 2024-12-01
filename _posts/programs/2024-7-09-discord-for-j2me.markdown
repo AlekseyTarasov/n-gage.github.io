@@ -1,6 +1,6 @@
 ---
 title: "Discord for J2ME"
-screenshot: "/n-gage/programs/discord_midp1.png"
+screenshot: "/n-gage/programs/discord_midp1.jpg"
 download: "https://github.com/gtrxAC/discord-j2me/releases/download/v3.0.0/discord_midp1.jar"
 mirror: "/n-gage/programs/discord_midp1.jar"
 file-size: "52.0 kB"
@@ -10,8 +10,6 @@ quote: |
     Контейнер: .jar\
     Сумісність: midp 1.0.
 ---
-
-На n-gage поки  не тестувалось!
 
 Discord-клієнт для пристроїв Java ME (MIDP 1.0 та 2.0), натхненний Discord для Symbian. Використовує проксі-сервери для підключення HTTP та шлюзу.
 

@@ -1,6 +1,6 @@
 ---
 title: "SPMark™04 Business Version"
-screenshot: "/n-gage/utilities/pulse.jpg"
+screenshot: "/n-gage/utilities/SPMark04_v110_business_S60.jpg"
 download: "http://www.futuremark.com/download/spmark04/"
 mirror: "/n-gage/utilities/SPMark04_v110_business_S60.sis"
 file-size: "669 kB"

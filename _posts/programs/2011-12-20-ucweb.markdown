@@ -1,6 +1,6 @@
 ---
 title: "UC Browser 7.9.1.120"
-screenshot: "/n-gage/programs/UClogo.png"
+screenshot: "/n-gage/programs/UCBrowser.jpg"
 download: "http://www.ucweb.com/wor/prd/prd/nokia-NGage-xz-15263.html"
 mirror: "/n-gage/programs/UCBrowser_V7.9.1.120_S60V1_pf26_(Build11120910).sis"
 file-size: "1.0 mB"
