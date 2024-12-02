@@ -624,6 +624,14 @@ color: #cccccc;
   margin: 0 auto;
   padding-top: 10px;
   text-align: center;
+  font-family: "HomeVideo-Regular", sans-serif;
+  letter-spacing: .25em;
+  font-size: 7px;
+  line-height: 36px;
+  color: #fff;
+  text-shadow: 0 1px 0 #000;
+  text-transform: uppercase;
+  cursor: pointer;
 }
 
   .footer_navigation{
