@@ -812,3 +812,15 @@ display:inline;
   color: #ccc;
 }
 
+.copyright {
+  padding: 15px 0 25px;
+  clear: both;
+  overflow: hidden;
+}
+
+.copyright .copyright-link {
+  float: left;
+  border-left: 1px solid #333;
+  margin-left: 10px;
+  padding-left: 10px;
+}
