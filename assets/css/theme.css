@@ -818,6 +818,10 @@ display:inline;
   overflow: hidden;
 }
 
+.copyright .copyright-content {
+  float: left;
+}
+
 .copyright .copyright-link {
   float: left;
   border-left: 1px solid #333;
