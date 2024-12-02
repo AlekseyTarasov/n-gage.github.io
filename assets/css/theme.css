@@ -828,3 +828,8 @@ display:inline;
   margin-left: 10px;
   padding-left: 10px;
 }
+
+.copyright .copyright-link .core_link {
+  float: left;
+  margin-right: 10px;
+}
