@@ -626,7 +626,7 @@ color: #cccccc;
   font-family: "HomeVideo-Regular", sans-serif;
   letter-spacing: .25em;
   font-size: 7px;
-  line-height: 36px;
+  line-height: 18px;
   color: #fff;
   text-shadow: 0 1px 0 #000;
   text-transform: uppercase;
@@ -634,7 +634,7 @@ color: #cccccc;
 }
 
 .footer_navigation{
-  padding-top: 30px;
+  padding-top: 18px;
   padding-left: 60px;
 }
 
