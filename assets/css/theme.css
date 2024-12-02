@@ -620,6 +620,11 @@ color: #cccccc;
     background: url("../images/lines.svg") repeat-x 0 100%;
 }
 
+.footer_up{
+  margin: 0 auto;
+  padding-top: 10px;
+  text-align: center;
+}
 
   .footer_navigation{
     padding-top: 30px;
