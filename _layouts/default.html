@@ -29,9 +29,9 @@
           Прочитаєте за <span class="reading-time">
             {% assign words = content | number_of_words %}
             {% if words < 360 %}
-              1 min read
+              1 хвилину
             {% else %}
-              {{ words | divided_by:180 }} mins read
+              {{ words | divided_by:180 }} хвилин
             {% endif %}
           </span>
         </div>
