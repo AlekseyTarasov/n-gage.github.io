@@ -26,7 +26,14 @@
         <div class="one-half offset-by-one-half column">
           Автор: {{ page.autor}}
           Посилання: <a href="{{ page.source-link}}" target="_blank">[перейти]</a>
-          Прочитаєте за
+          Прочитаєте за <span class="reading-time">
+            {% assign words = content | number_of_words %}
+            {% if words < 360 %}
+              1 min read
+            {% else %}
+              {{ words | divided_by:180 }} mins read
+            {% endif %}
+          </span>
         </div>
       </div>
     </div>
