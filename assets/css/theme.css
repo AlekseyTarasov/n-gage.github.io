@@ -627,8 +627,8 @@ color: #cccccc;
   letter-spacing: .25em;
   font-size: 7px;
   line-height: 18px;
-  color: #fff;
-  text-shadow: 0 1px 0 #000;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
   text-transform: uppercase;
   cursor: pointer;
 }
