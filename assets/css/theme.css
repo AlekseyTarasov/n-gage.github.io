@@ -823,8 +823,7 @@ display:inline;
 
 
 .stiky_content {
-  position: -webkit-sticky;
   position: sticky;
-  top: 0;
+  top: 20;
   z-index: 1020;
 }
