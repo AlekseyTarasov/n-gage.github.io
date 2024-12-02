@@ -10,16 +10,19 @@
 
     <div class="container">
       <div class="row">
-        <div class="one-half column" style="margin-top: 5%">
-          <h1 class="h1_title">
-                  {{ page.title }}
-                <div class="h1_title_corner"></div>
-                </h1>
-                <p class="page-description">{{ page.description }}</p>
+        <h1 class="h1_title">
+          {{ page.title }}
+          <div class="h1_title_corner"></div>
+        </h1>
+        <p class="page-description">{{ page.description }}</p>
+
+        <div class="one-half column">
+
+          <img src="{{ post.screenshot }}" class="fire-gif" alt="Fire_GIF"/>
+
+          
         </div>
-        <div class="screenshot-wrapper">
-          <div class="screenshot-size-cover" style="background-image: url({{ post.screenshot }}) ;"></div>
-        </div>
+
         <div class="one-half offset-by-one-half column">
           <a href="{{ post.download }}" target="_blank">download [{{post.file-size}}]</a>
         </div>
