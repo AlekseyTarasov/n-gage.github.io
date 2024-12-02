@@ -608,7 +608,7 @@ color: #cccccc;
   color: #cccccc;
   height: 152px;
   /* background: url("../images/footer.png") repeat-x 0 100%;*/
-  background: #000 url("../images/bg-full.jpg") no-repeat center bottom;
+  background: #000 url("../images/bg-full-w.jpg") no-repeat center bottom;
   display: block;
 }
 .footer_element{
