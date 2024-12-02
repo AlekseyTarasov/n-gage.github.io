@@ -643,15 +643,13 @@ color: #cccccc;
 }
 
 .copyright {
-  color: #ADADAD;
-  font-size: 11px;
   padding: 15px 0 25px;
   clear: both;
   overflow: hidden;
 }
 
-.footer-content{
-  background-color: #000;
+.copyright .copyright-content {
+  float: left;
 }
 
 .copyright .copyright-link {
@@ -659,6 +657,15 @@ color: #cccccc;
   border-left: 1px solid #333;
   margin-left: 10px;
   padding-left: 10px;
+}
+
+.copyright .copyright-link .core_link {
+  float: left;
+  margin-right: 10px;
+}
+
+.footer-content{
+  background-color: #000;
 }
 
 #player {
@@ -810,26 +817,4 @@ display:inline;
 .page-description{
   font-family: "Martian Mono", monospace;
   color: #ccc;
-}
-
-.copyright {
-  padding: 15px 0 25px;
-  clear: both;
-  overflow: hidden;
-}
-
-.copyright .copyright-content {
-  float: left;
-}
-
-.copyright .copyright-link {
-  float: left;
-  border-left: 1px solid #333;
-  margin-left: 10px;
-  padding-left: 10px;
-}
-
-.copyright .copyright-link .core_link {
-  float: left;
-  margin-right: 10px;
 }
