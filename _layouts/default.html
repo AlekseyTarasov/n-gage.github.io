@@ -17,6 +17,12 @@
                 </h1>
                 <p class="page-description">{{ page.description }}</p>
         </div>
+        <div class="screenshot-wrapper">
+          <div class="screenshot-size-cover" style="background-image: url({{ post.screenshot }}) ;"></div>
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <a href="{{ post.download }}" target="_blank">download [{{post.file-size}}]</a>
+        </div>
       </div>
     </div>
 
