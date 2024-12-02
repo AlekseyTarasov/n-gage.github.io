@@ -632,10 +632,10 @@ color: #cccccc;
   cursor: pointer;
 }
 
-  .footer_navigation{
-    padding-top: 30px;
-    padding-left: 60px;
-  }
+.footer_navigation{
+  padding-top: 30px;
+  padding-left: 60px;
+}
 
 .copyright_entry{
   padding-left: 60px;
