@@ -628,8 +628,8 @@ color: #cccccc;
   letter-spacing: .25em;
   font-size: 7px;
   line-height: 18px;
-  color: #000;
-  text-shadow: 0 1px 0 #fff;
+  color: #fff;
+  text-shadow: 0 1px 0 #000;
   text-transform: uppercase;
   cursor: pointer;
 }
