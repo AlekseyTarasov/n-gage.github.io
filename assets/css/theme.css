@@ -820,3 +820,11 @@ display:inline;
   font-family: "Martian Mono", monospace;
   color: #ccc;
 }
+
+
+.stiky_content {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}
