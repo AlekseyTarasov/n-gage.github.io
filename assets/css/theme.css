@@ -822,6 +822,12 @@ display:inline;
   font-size: 1rem;
 }
 
+article_info{
+  font-family: "Martian Mono", monospace;
+  color: #ccc;
+  font-size: 1rem;
+}
+
 
 .stiky_content {
   position: sticky;
