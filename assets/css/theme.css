@@ -844,7 +844,7 @@ display:inline;
 /* Scrollbar */
 
 .changelog::-webkit-scrollbar {
-  background-color: #f222;
+  background-color: #222;
   width: 2px;
 }
  
@@ -853,5 +853,5 @@ display:inline;
 }
  
 .changelog::-webkit-scrollbar-thumb {
-  background-color: #000;
+  background-color: #fff;
 }
