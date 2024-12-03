@@ -841,7 +841,7 @@ display:inline;
   overflow-y: scroll;
 }
 
-/* Scrollbar */
+/* Scrollbar #f222*/
 
 .changelog::-webkit-scrollbar {
   background-color: #222;
