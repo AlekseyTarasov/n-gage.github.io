@@ -835,3 +835,8 @@ display:inline;
   top: 10px;
   z-index: 1020;
 }
+
+.changelog{
+    height: 110px;
+    overflow: scroll;
+}
