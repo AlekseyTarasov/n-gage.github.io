@@ -840,3 +840,18 @@ display:inline;
   height: 200px;
   overflow-y: scroll;
 }
+
+/* Scrollbar */
+
+.changelog::-webkit-scrollbar {
+  background-color: #ffffff;
+  width: 2px;
+}
+ 
+.changelog::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 0 #3f474c;
+}
+ 
+.changelog::-webkit-scrollbar-thumb {
+  background-color: #000;
+}
