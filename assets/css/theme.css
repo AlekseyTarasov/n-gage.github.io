@@ -837,6 +837,6 @@ display:inline;
 }
 
 .changelog{
-    height: 200px;
-    overflow-y: scroll;
+  height: 200px;
+  overflow-y: scroll;
 }
