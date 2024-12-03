@@ -1,6 +1,6 @@
 ---
 title: "SelectionKey"
-screenshot: "/n-gage/utilities/jin9MVpiksk.jpg"
+screenshot: "/n-gage/utilities/selectionkey.jpg"
 download: "/n-gage/utilities/SelectionKey.sis"
 mirror: 
 file-size: "4.29 kB"

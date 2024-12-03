@@ -1,6 +1,6 @@
 ---
 title: "Menu Speedup 1.3"
-screenshot: "/n-gage/utilities/Menu_Speedup.png"
+screenshot: "/n-gage/utilities/jin9MVpiksk.jpg"
 download: "/n-gage/utilities/Menu_Speedup.sis"
 mirror: 
 file-size: "47.7 kB"
