@@ -838,5 +838,5 @@ display:inline;
 
 .changelog{
     height: 110px;
-    overflow: scroll;
+    overflow-y: scroll;
 }
