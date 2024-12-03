@@ -1,8 +1,8 @@
 ---
-title: "SPMark™04 Business Version"
-screenshot: "/n-gage/utilities/SPMark04_v110_business_S60.jpg"
+title: "SPMark™04 Consumer Version and Business Version"
+screenshot: "/n-gage/utilities/SPMark04_S60.jpg"
 download: "http://www.futuremark.com/download/spmark04/"
-mirror: "/n-gage/utilities/SPMark04_v110_business_S60.sis"
+mirror: "/n-gage/utilities/"
 file-size: "669 kB"
 quote: |
     Розробник: [Futuremark](http://www.futuremark.com)\
@@ -19,9 +19,19 @@ SPMark04 — перший повний бенчмарк для смартфон�
 Мінімальні системні вимоги:
 
 - 1.2 МБ вільного місця у внутрішній пам’яті
-- 3 МБ пам'яті під час запуску тесту
+- 3 МБ оперативної пам’яті під час запуску бенчмарку
 
-Основні функції SPMark04:
+Ключові функції SPMark™04 Consumer Version:
+- Безкоштовне завантаження
+- Підтримка пристроїв із операційними системами Symbian 6 і 7, а також інтерфейсами Series 60 або UIQ
+- Повний набір OpenGL ES 3D тестів для оцінки графічної продуктивності
+- Модуль детальної системної інформації, що відображає технічні характеристики телефону
+
+Важлива примітка:
+Результат SPMark04 Free Version — це SPMark04 3D Score, а не загальний бал SPMark04. 
+Загальну оцінку можуть надати лише версії SPMark04 Business та Developer.
+
+Основні функції SPMark04 Business Edition:
 
 - Системні тести
 - Тести графіки (2D і 3D)
@@ -32,5 +42,7 @@ SPMark04 — перший повний бенчмарк для смартфон�
 - Оцінка системи
 - Детальна інформація про систему
 - Налаштовуваний запуск тестів
+
+[download [669 kB]](/n-gage/utilities/SPMark04_v110_business_S60.sis)
 
 ВАЖЛИВО: Для встановлення SPMark04 Business Edition потрібен бізнес-ключ.
