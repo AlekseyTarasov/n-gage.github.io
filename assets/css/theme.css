@@ -853,5 +853,5 @@ display:inline;
 }
  
 .changelog::-webkit-scrollbar-thumb {
-  background-color: #fff;
+  background-color: #ccc;
 }
