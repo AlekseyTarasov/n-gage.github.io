@@ -819,6 +819,7 @@ display:inline;
 .page-description{
   font-family: "Martian Mono", monospace;
   color: #ccc;
+  font-size: 1rem;
 }
 
 
