@@ -844,7 +844,7 @@ display:inline;
 /* Scrollbar */
 
 .changelog::-webkit-scrollbar {
-  background-color: #ffffff;
+  background-color: #f222;
   width: 2px;
 }
  
