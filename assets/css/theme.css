@@ -831,6 +831,7 @@ display:inline;
 
 .article-size-cover {
   background-size: cover;
+  background-position: center;
   width: 440px;
   height: 119px;
   resize: both;
