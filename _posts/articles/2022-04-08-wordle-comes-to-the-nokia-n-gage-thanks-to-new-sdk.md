@@ -1,7 +1,7 @@
 ---
 title: "Wordle прийшов на Nokia N-Gage завдяки новому SDK"
 description: "Можливо, ви ніколи не уявляли, що будете читати про нове програмне забезпечення, розроблене для сумнозвісної ігрової системи Nokia N-Gage у 2022 році. -- Hackaday"
-screenshot: "/n-gage/articles/colin_banner.jpg"
+screenshot: "/n-gage/articles/nwordle_feat.jpg"
 autor: Tom Nardi
 autor-link: "https://hackaday.com/author/tomnardi/"
 source-link: "https://hackaday.com/2022/04/08/wordle-comes-to-the-nokia-n-gage-thanks-to-new-sdk/"
@@ -11,7 +11,8 @@ source-link: "https://hackaday.com/2022/04/08/wordle-comes-to-the-nokia-n-gage-t
 
 [Майкл] зазначає, що ця перша версія досить проста і наразі використовує єдиний список слів із 2,309 термінів із версії The New York Times. Наразі працюють над перекладами на фінську, російську та німецьку мови, хоча є цікава проблема: код не підтримує слова з дефісами. Це може призвести до того, що у російськомовній версії гри можна опинитися в безвихідній ситуації. Можливо, це просто збіг, а не якийсь політичний коментар, але все одно це виглядає забавно.
 
-<img alt="Colin McRae Rally" src="/n-gage/articles/nwordle_detail.jpg" vspace="5" hspace="5" border="1" align="right">
+<img alt="nwordle_detail" src="/n-gage/articles/nwordle_detail.jpg" width="320" height="213.33333333333" vspace="5" hspace="5" border="1" align="right">
+
 У Радянській Росії не ти граєш на N-Gage, а N-Gage грає в тебе!
 
 Як же розробити нову гру для невдалої консолі з початку 2000-х? Відповідь — завдяки сучасному SDK для N-Gage, який перебуває в стадії розробки і дозволяє писати код для системи за допомогою таких популярних інструментів і бібліотек, як Visual Studio 2022, CMake і SDL. Але [Майкл] — не лише користувач цього нового SDK, він також є автором цієї розробки.
