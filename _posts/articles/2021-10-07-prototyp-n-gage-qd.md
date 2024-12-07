@@ -59,5 +59,5 @@ description: "Прототип B1 котрий знаходиться у при�
 
 (Джерело: Сааді Хауелл)
 
-{:.video-center}
+{:.video-wrapper}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bpw0ESI9Fm8?si=8QTSeK447VjSR9mX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
