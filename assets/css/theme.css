@@ -841,6 +841,10 @@ display:inline;
   overflow-y: scroll;
 }
 
+.reactions__container{
+  display: none;
+}
+
 /* Scrollbar #f222*/
 
 .changelog::-webkit-scrollbar {
