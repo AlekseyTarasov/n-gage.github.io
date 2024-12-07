@@ -796,6 +796,7 @@ display:inline;
   width: 700px;
   position: relative;
   padding-top: 25px;
+  text-align:center;
   margin: 0 auto;
   max-width: 100%;
 }
