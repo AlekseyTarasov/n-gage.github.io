@@ -22,7 +22,7 @@
         </div>
 
         <div class="seven columns article_info">
-          Автор: {{ page.autor}} <br>
+          Автор: <a href="{{ page.autor-link}}" target="_blank">{{ page.autor}}</a> <br>
           Посилання: <a href="{{ page.source-link}}" target="_blank">[перейти]</a> <br>
           Прочитаєте за <span class="reading-time">
             {% assign words = content | number_of_words %}
