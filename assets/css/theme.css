@@ -829,6 +829,13 @@ display:inline;
   margin-top: 5%;
 }
 
+.article-size-cover {
+  background-size: cover;
+  width: 176px;
+  height: 100px;
+  resize: both;
+}
+
 
 .stiky_content {
   position: sticky;
