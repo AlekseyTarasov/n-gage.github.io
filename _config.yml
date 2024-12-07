@@ -3,7 +3,11 @@ title: Anyone. Anywhere
 email: 
 description: "nokia n-gage library"
 url: "http://n-gage.site" # the base hostname & protocol for your site
+disqus: 'n-gage-2'
 
 # Build settings
 markdown: kramdown
 excerpt_separator: <!--more-->
+
+# Paginate
+paginate: 10
