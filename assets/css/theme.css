@@ -78,6 +78,16 @@ b, strong {
   background: url("../images/photo-4.png") no-repeat;
 }
 
+#calssic{
+  display: none;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 180px;
+  background: url("../images/photo-5.png") no-repeat;
+}
+
+
 
 .hero{
   background-color: #030303;
