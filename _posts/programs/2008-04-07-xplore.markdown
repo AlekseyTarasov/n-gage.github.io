@@ -3,7 +3,7 @@ title: "X-Plore"
 screenshot: "/n-gage/programs/Msx1.jpg"
 download: "http://www.lonelycatgames.com/download/xplore/x-plore_symbian_lcg_1_22.zip"
 mirror: "/n-gage/programs/OggPlayS60V1_1_72.zip"
-file-size: "327.8 kB"
+file-size: "1550 kB"
 quote: |
     Розробник: [Lonely Cat Games](http://www.lonelycatgames.com/?app=xplore)\
     Версія: 1.22\
