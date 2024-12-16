@@ -1,6 +1,6 @@
 ---
 title: "X-Plore"
-screenshot: "/n-gage/programs/Msx1.jpg"
+screenshot: "/n-gage/programs/logo.gif"
 download: "http://www.lonelycatgames.com/download/xplore/x-plore_symbian_lcg_1_22.zip"
 mirror: "/n-gage/programs/OggPlayS60V1_1_72.zip"
 file-size: "1550 kB"
@@ -11,7 +11,7 @@ quote: |
     Сумісність: Series 60 V1.
 ---
 
-Остання версія яку підтримує n-gage.
+Остання версія яку підтримує n-gage. Витягнув також Український переклад, дивіться примітку.
 
 X-plore — це файловий менеджер для мобільних пристроїв із широким функціоналом для роботи з файловою системою телефона.
 
@@ -62,7 +62,9 @@ X-plore — це файловий менеджер для мобільних п�
 1.21 — Додано китайську мову.
 1.22 — Опція перезавантаження для Symbian S60 3rd Edition, додано нідерландську та азербайджанську мови.
 
+Примітка
 
+и кидаете его в E:/system/apps/x-plore/Explorer/ (Если устанавливали x-plore на карту) или С:/system/apps/x-plore/Explorer/ (Если устанавливали x-plore на телефон). Теперь есть все языки.
 
 
 Mikhail Medvedev
