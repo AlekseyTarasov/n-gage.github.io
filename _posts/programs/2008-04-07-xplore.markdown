@@ -1,7 +1,7 @@
 ---
 title: "X-Plore"
 screenshot: "/n-gage/programs/Msx1.jpg"
-download: "https://sourceforge.net/projects/symbianoggplay/files/S60V1/OggPlayS60V1_1_72.zip"
+download: "http://www.lonelycatgames.com/download/xplore/x-plore_symbian_lcg_1_22.zip"
 mirror: "/n-gage/programs/OggPlayS60V1_1_72.zip"
 file-size: "327.8 kB"
 quote: |
