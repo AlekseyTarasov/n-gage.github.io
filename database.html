@@ -169,7 +169,7 @@ permalink: /database/
                     locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/${file}`
                 });
 
-                const response = await fetch('/data/Ngage_Game_Database.db');
+                const response = await fetch('/n-gage/Ngage_Game_Database.db');
                 if (!response.ok) {
                     throw new Error('Не вдалося завантажити БД');
                 }
