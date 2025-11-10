@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    {% include topbar.html %}
+
+    <div class="container">
+      <section style="margin-top: 5%">
+        <h1 class="h1_title">
+          {{ page.title }}
+          <div class="h1_title_corner"></div>
+        </h1>
+        <p class="page-description">{{ page.description }}</p>
+      </section>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="nine columns">
+          <section class="gage_content">
+            {{ content }}
+            {% include comments.html %}
+          </section>
+        </div>
+
+        <div class="three columns">
+          <section class="stiky_content">
+            <img src="/assets/images/tsr_snakes_mini.gif">
+          </section>
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
