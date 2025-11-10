@@ -1,0 +1,457 @@
+---
+layout: download
+title: Games Database
+description: List of Nokia N-Gage games.
+permalink: /database/
+---
+
+<div class="container">
+        <div class="header">
+            <h1>🎮 N-GAGE DATABASE</h1>
+            <p class="subtitle">БАЗА ДАНИХ ІГОР ДЛЯ КОНСОЛІ N-GAGE</p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab-button active" onclick="switchTab(0)">📱 ВИПУЩЕНІ ІГРИ</button>
+            <button class="tab-button" onclick="switchTab(1)">🚫 СКАСОВАНІ ІГРИ</button>
+        </div>
+
+        <!-- TAB 1: RELEASED GAMES -->
+        <div class="tab-content active" id="tab-0">
+            <div class="controls">
+                <input 
+                    type="text" 
+                    id="search-released" 
+                    placeholder="ПОШУК ПО НАЗВІ, ВИДАВЦЮ, РОЗРОБНИКУ..." 
+                    autocomplete="off"
+                >
+                <button onclick="clearSearch(0)">ОЧИСТИТИ</button>
+            </div>
+
+            <div class="filters">
+                <select id="genre-filter-released" onchange="applyFilters(0)">
+                    <option value="">ВСІ ЖАНРИ</option>
+                </select>
+                <select id="publisher-filter-released" onchange="applyFilters(0)">
+                    <option value="">ВСІ ВИДАВЦІ</option>
+                </select>
+            </div>
+
+            <div id="error-released" class="error" style="display:none;"></div>
+            <div id="loader-released" class="loader">⏳ ЗАВАНТАЖЕННЯ...</div>
+
+            <div id="content-released" style="display:none;">
+                <div class="stats">
+                    <div class="stat-item">
+                        <div class="stat-value" id="total-released">0</div>
+                        <div class="stat-label">ВСЬОГО ІГР</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="displayed-released">0</div>
+                        <div class="stat-label">ПОКАЗАНО</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="genres-released">0</div>
+                        <div class="stat-label">ЖАНРІВ</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="publishers-released">0</div>
+                        <div class="stat-label">ВИДАВЦІВ</div>
+                    </div>
+                </div>
+
+                <div class="scroll-x">
+                    <table id="table-released">
+                        <thead>
+                            <tr>
+                                <th onclick="sortTable(0, 0)">ID <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(0, 1)">НАЗВА <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(0, 2)">ДАТА ВИХОДУ <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(0, 3)">ВИДАВЕЦЬ <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(0, 4)">РОЗРОБНИК <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(0, 5)">ЖАНР <span class="sort-arrow">↕</span></th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-released"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 2: CANCELLED GAMES -->
+        <div class="tab-content" id="tab-1">
+            <div class="controls">
+                <input 
+                    type="text" 
+                    id="search-cancelled" 
+                    placeholder="ПОШУК ПО НАЗВІ, ВИДАВЦЮ, РОЗРОБНИКУ..." 
+                    autocomplete="off"
+                >
+                <button onclick="clearSearch(1)">ОЧИСТИТИ</button>
+            </div>
+
+            <div class="filters">
+                <select id="genre-filter-cancelled" onchange="applyFilters(1)">
+                    <option value="">ВСІ ЖАНРИ</option>
+                </select>
+                <select id="publisher-filter-cancelled" onchange="applyFilters(1)">
+                    <option value="">ВСІ ВИДАВЦІ</option>
+                </select>
+                <select id="year-filter-cancelled" onchange="applyFilters(1)">
+                    <option value="">ВСІ РОКИ</option>
+                </select>
+            </div>
+
+            <div id="error-cancelled" class="error" style="display:none;"></div>
+            <div id="loader-cancelled" class="loader">⏳ ЗАВАНТАЖЕННЯ...</div>
+
+            <div id="content-cancelled" style="display:none;">
+                <div class="stats">
+                    <div class="stat-item">
+                        <div class="stat-value" id="total-cancelled">0</div>
+                        <div class="stat-label">СКАСОВАНИХ ІГР</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="displayed-cancelled">0</div>
+                        <div class="stat-label">ПОКАЗАНО</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="genres-cancelled">0</div>
+                        <div class="stat-label">ЖАНРІВ</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="publishers-cancelled">0</div>
+                        <div class="stat-label">ВИДАВЦІВ</div>
+                    </div>
+                </div>
+
+                <div class="scroll-x">
+                    <table id="table-cancelled">
+                        <thead>
+                            <tr>
+                                <th onclick="sortTable(1, 0)">ID <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(1, 1)">НАЗВА <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(1, 2)">ПЛАНОВИЙ ВИХІД <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(1, 3)">ВИДАВЕЦЬ <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(1, 4)">РОЗРОБНИК <span class="sort-arrow">↕</span></th>
+                                <th onclick="sortTable(1, 5)">ЖАНР <span class="sort-arrow">↕</span></th>
+                                <th>ПРИМІТКИ</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-cancelled"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/sql-wasm.js"></script>
+    <script>
+        let db = null;
+        let tabsData = [
+            { games: [], filtered: [], sort: { column: null, ascending: true }, type: 'released' },
+            { games: [], filtered: [], sort: { column: null, ascending: true }, type: 'cancelled' }
+        ];
+
+        function switchTab(tabIndex) {
+            // Hide all tabs
+            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+
+            // Show selected tab
+            document.getElementById(`tab-${tabIndex}`).classList.add('active');
+            document.querySelectorAll('.tab-button')[tabIndex].classList.add('active');
+        }
+
+        async function initDatabase() {
+            try {
+                const SQL = await initSqlJs({
+                    locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/${file}`
+                });
+
+                const response = await fetch('/data/Ngage_Game_Database.db');
+                if (!response.ok) {
+                    throw new Error('Не вдалося завантажити БД');
+                }
+
+                const arrayBuffer = await response.arrayBuffer();
+                db = new SQL.Database(new Uint8Array(arrayBuffer));
+
+                // Load released games
+                await loadReleasedGames();
+                // Load cancelled games
+                await loadCancelledGames();
+
+            } catch (error) {
+                console.error('Помилка:', error);
+                document.getElementById('error-released').textContent = `❌ Помилка: ${error.message}`;
+                document.getElementById('error-released').style.display = 'block';
+                document.getElementById('error-cancelled').textContent = `❌ Помилка: ${error.message}`;
+                document.getElementById('error-cancelled').style.display = 'block';
+            }
+        }
+
+        async function loadReleasedGames() {
+            try {
+                const result = db.exec(`
+                    SELECT 
+                        rg.Game_Num,
+                        rg.Title,
+                        COALESCE(rg.release_date_na, rg.release_date_pal) as release_date,
+                        p.name as publisher_name,
+                        d.name as developer_name,
+                        g.name as genre_name
+                    FROM released_games rg
+                    LEFT JOIN publishers p ON rg.Pubid = p.Pubid
+                    LEFT JOIN developers d ON rg.Devid = d.Devid
+                    LEFT JOIN genres g ON rg.Genreid = g.Genreid
+                    ORDER BY COALESCE(rg.release_date_na, rg.release_date_pal) DESC
+                `);
+
+                if (result.length === 0 || result[0].values.length === 0) {
+                    throw new Error('Таблиця не знайдена');
+                }
+
+                tabsData[0].games = result[0].values.map(row => ({
+                    id: row[0],
+                    name: row[1],
+                    date: row[2] || '—',
+                    publisher: row[3] || '—',
+                    developer: row[4] || '—',
+                    genre: row[5] || '—'
+                }));
+
+                tabsData[0].filtered = [...tabsData[0].games];
+
+                populateFilters(0);
+                renderTable(0);
+
+                document.getElementById('loader-released').style.display = 'none';
+                document.getElementById('content-released').style.display = 'block';
+
+            } catch (error) {
+                console.error('Помилка завантаження:', error);
+                document.getElementById('error-released').textContent = `❌ Помилка: ${error.message}`;
+                document.getElementById('error-released').style.display = 'block';
+                document.getElementById('loader-released').style.display = 'none';
+            }
+        }
+
+        async function loadCancelledGames() {
+            try {
+                const result = db.exec(`
+                    SELECT 
+                        cg.Game_Num,
+                        cg.Title,
+                        cg.planned_release_date,
+                        p.name as publisher_name,
+                        d.name as developer_name,
+                        g.name as genre_name,
+                        cg.notes
+                    FROM cancelled_games cg
+                    LEFT JOIN publishers p ON cg.Pubid = p.Pubid
+                    LEFT JOIN developers d ON cg.Devid = d.Devid
+                    LEFT JOIN genres g ON cg.Genreid = g.Genreid
+                    ORDER BY cg.planned_release_date DESC
+                `);
+
+                if (result.length === 0 || result[0].values.length === 0) {
+                    throw new Error('Таблиця не знайдена');
+                }
+
+                tabsData[1].games = result[0].values.map(row => ({
+                    id: row[0],
+                    name: row[1],
+                    date: row[2] || '—',
+                    publisher: row[3] || '—',
+                    developer: row[4] || '—',
+                    genre: row[5] || '—',
+                    notes: row[6] || '—'
+                }));
+
+                tabsData[1].filtered = [...tabsData[1].games];
+
+                populateFilters(1);
+                renderTable(1);
+
+                document.getElementById('loader-cancelled').style.display = 'none';
+                document.getElementById('content-cancelled').style.display = 'block';
+
+            } catch (error) {
+                console.error('Помилка завантаження:', error);
+                document.getElementById('error-cancelled').textContent = `❌ Помилка: ${error.message}`;
+                document.getElementById('error-cancelled').style.display = 'block';
+                document.getElementById('loader-cancelled').style.display = 'none';
+            }
+        }
+
+        function populateFilters(tabIndex) {
+            const games = tabsData[tabIndex].games;
+            const genres = [...new Set(games.map(g => g.genre).filter(g => g !== '—'))].sort();
+            const publishers = [...new Set(games.map(g => g.publisher).filter(p => p !== '—'))].sort();
+
+            const genreSelect = document.getElementById(`genre-filter-${tabIndex === 0 ? 'released' : 'cancelled'}`);
+            genres.forEach(genre => {
+                const option = document.createElement('option');
+                option.value = genre;
+                option.textContent = genre;
+                genreSelect.appendChild(option);
+            });
+
+            const publisherSelect = document.getElementById(`publisher-filter-${tabIndex === 0 ? 'released' : 'cancelled'}`);
+            publishers.forEach(publisher => {
+                const option = document.createElement('option');
+                option.value = publisher;
+                option.textContent = publisher;
+                publisherSelect.appendChild(option);
+            });
+
+            if (tabIndex === 1) {
+                const years = [...new Set(games.map(g => g.date).filter(y => y !== '—'))].sort();
+                const yearSelect = document.getElementById('year-filter-cancelled');
+                years.forEach(year => {
+                    const option = document.createElement('option');
+                    option.value = year;
+                    option.textContent = year;
+                    yearSelect.appendChild(option);
+                });
+            }
+
+            updateStats(tabIndex);
+        }
+
+        function renderTable(tabIndex) {
+            const games = tabsData[tabIndex].filtered;
+            const tbodyId = tabIndex === 0 ? 'tbody-released' : 'tbody-cancelled';
+            const tbody = document.getElementById(tbodyId);
+            tbody.innerHTML = '';
+
+            if (games.length === 0) {
+                const tr = document.createElement('tr');
+                const colspan = tabIndex === 0 ? 6 : 7;
+                tr.innerHTML = `<td colspan="${colspan}" class="no-results">НІЧОГО НЕ ЗНАЙДЕНО</td>`;
+                tbody.appendChild(tr);
+                return;
+            }
+
+            games.forEach(game => {
+                const tr = document.createElement('tr');
+                if (tabIndex === 0) {
+                    tr.innerHTML = `
+                        <td>${game.id}</td>
+                        <td><strong>${game.name}</strong></td>
+                        <td>${game.date}</td>
+                        <td>${game.publisher}</td>
+                        <td>${game.developer}</td>
+                        <td><span class="tag">${game.genre}</span></td>
+                    `;
+                } else {
+                    tr.innerHTML = `
+                        <td>${game.id}</td>
+                        <td><strong>${game.name}</strong></td>
+                        <td>${game.date}</td>
+                        <td>${game.publisher}</td>
+                        <td>${game.developer}</td>
+                        <td><span class="tag">${game.genre}</span></td>
+                        <td><div class="notes">${game.notes}</div></td>
+                    `;
+                }
+                tbody.appendChild(tr);
+            });
+
+            const displayedId = tabIndex === 0 ? 'displayed-released' : 'displayed-cancelled';
+            document.getElementById(displayedId).textContent = games.length;
+        }
+
+        function updateStats(tabIndex) {
+            const total = tabsData[tabIndex].games.length;
+            const genres = [...new Set(tabsData[tabIndex].games.map(g => g.genre).filter(g => g !== '—'))].length;
+            const publishers = [...new Set(tabsData[tabIndex].games.map(g => g.publisher).filter(p => p !== '—'))].length;
+
+            const totalId = tabIndex === 0 ? 'total-released' : 'total-cancelled';
+            const genresId = tabIndex === 0 ? 'genres-released' : 'genres-cancelled';
+            const publishersId = tabIndex === 0 ? 'publishers-released' : 'publishers-cancelled';
+
+            document.getElementById(totalId).textContent = total;
+            document.getElementById(genresId).textContent = genres;
+            document.getElementById(publishersId).textContent = publishers;
+        }
+
+        function applyFilters(tabIndex) {
+            const searchId = tabIndex === 0 ? 'search-released' : 'search-cancelled';
+            const genreId = tabIndex === 0 ? 'genre-filter-released' : 'genre-filter-cancelled';
+            const publisherId = tabIndex === 0 ? 'publisher-filter-released' : 'publisher-filter-cancelled';
+            const yearId = tabIndex === 0 ? '' : 'year-filter-cancelled';
+
+            const searchQuery = document.getElementById(searchId).value.toLowerCase();
+            const genreFilter = document.getElementById(genreId).value;
+            const publisherFilter = document.getElementById(publisherId).value;
+            const yearFilter = yearId ? document.getElementById(yearId).value : '';
+
+            tabsData[tabIndex].filtered = tabsData[tabIndex].games.filter(game => {
+                const matchesSearch = !searchQuery ||
+                    game.name.toLowerCase().includes(searchQuery) ||
+                    game.publisher.toLowerCase().includes(searchQuery) ||
+                    game.developer.toLowerCase().includes(searchQuery) ||
+                    (game.notes && game.notes.toLowerCase().includes(searchQuery));
+
+                const matchesGenre = !genreFilter || game.genre === genreFilter;
+                const matchesPublisher = !publisherFilter || game.publisher === publisherFilter;
+                const matchesYear = !yearFilter || game.date === yearFilter;
+
+                return matchesSearch && matchesGenre && matchesPublisher && matchesYear;
+            });
+
+            renderTable(tabIndex);
+        }
+
+        function clearSearch(tabIndex) {
+            const searchId = tabIndex === 0 ? 'search-released' : 'search-cancelled';
+            const genreId = tabIndex === 0 ? 'genre-filter-released' : 'genre-filter-cancelled';
+            const publisherId = tabIndex === 0 ? 'publisher-filter-released' : 'publisher-filter-cancelled';
+            const yearId = tabIndex === 0 ? '' : 'year-filter-cancelled';
+
+            document.getElementById(searchId).value = '';
+            document.getElementById(genreId).value = '';
+            document.getElementById(publisherId).value = '';
+            if (yearId) document.getElementById(yearId).value = '';
+
+            applyFilters(tabIndex);
+        }
+
+        function sortTable(tabIndex, columnIndex) {
+            const columns = ['id', 'name', 'date', 'publisher', 'developer', 'genre'];
+            const column = columns[columnIndex];
+            const sort = tabsData[tabIndex].sort;
+
+            if (sort.column === column) {
+                sort.ascending = !sort.ascending;
+            } else {
+                sort.column = column;
+                sort.ascending = true;
+            }
+
+            const sorted = [...tabsData[tabIndex].filtered].sort((a, b) => {
+                let aVal = a[column];
+                let bVal = b[column];
+
+                if (!isNaN(aVal) && !isNaN(bVal)) {
+                    aVal = Number(aVal);
+                    bVal = Number(bVal);
+                }
+
+                if (aVal < bVal) return sort.ascending ? -1 : 1;
+                if (aVal > bVal) return sort.ascending ? 1 : -1;
+                return 0;
+            });
+
+            tabsData[tabIndex].filtered = sorted;
+            renderTable(tabIndex);
+        }
+
+        // Initialize on page load
+        document.getElementById('search-released').addEventListener('keyup', () => applyFilters(0));
+        document.getElementById('search-cancelled').addEventListener('keyup', () => applyFilters(1));
+
+        initDatabase();
+    </script>
