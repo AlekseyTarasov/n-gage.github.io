@@ -12,7 +12,7 @@ source-link: "https://github.com/ItsJustBshawn/OpenShadowKey"
 {:.img-center}
 ![OpenShadowKey](/n-gage/articles/openshadowkey-v1.jpg)
 
-#То що ж це таке?
+<h1>То що ж це таке?</h1>
 
 OpenShadowKey — це нативний рушій, який відтворює гру під Windows, із сучасним інтерфейсом, оновленим рендерингом та функціями якості життя (QOL). 
 
