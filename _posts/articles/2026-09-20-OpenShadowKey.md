@@ -12,7 +12,7 @@ source-link: "https://github.com/ItsJustBshawn/OpenShadowKey"
 {:.img-center}
 ![OpenShadowKey](/n-gage/articles/openshadowkey-v1.jpg)
 
-# То що ж це таке?
+<p class="yellowheader12b" style="margin-top: 10px">То що ж це таке?</p>
 
 OpenShadowKey — це нативний рушій, який відтворює гру під Windows, із сучасним інтерфейсом, оновленим рендерингом та функціями якості життя (QOL). 
 
@@ -28,7 +28,7 @@ OpenShadowKey — це нативний рушій, який відтворює 
 {:.img-center}
 ![OpenShadowKey](/n-gage/articles/openshadowkey-v2.jpg)
 
-# Як запустити?
+<p class="yellowheader12b" style="margin-top: 10px">Як запустити?</p>
 
 Знадобиться Windows x64, графічний драйвер з підтримкою OpenGL 2.1 та власна копія Shadowkey.
 
@@ -37,7 +37,7 @@ OpenShadowKey — це нативний рушій, який відтворює 
 
 Розпаковуємо <b>Zip</b> і запускаємо <b>Play.exe</b>. Лаунчер попросить вказати папку з грою, обираємо папку <b>6r51<b> та тиснемо Play
 
-# Про Shadowkey та її ліцензії
+<p class="yellowheader12b" style="margin-top: 10px">Про Shadowkey та її ліцензії </p>
 
 OpenShadowKey дотримується підходу OpenMW: рушій безкоштовний, а ігрові дані надає сам гравець. У проєкті немає жодних оригінальних артів, карт, діалогів, скриптів, музики чи ROM-ів Shadowkey; Текстури заставки — це сітка, створена спеціально для проєкту.
 
