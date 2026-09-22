@@ -3,10 +3,10 @@ title: "Tomb Raider Loader"
 screenshot: "/n-gage/extras/5-1789819795-37924763.png"
 download: "https://www.nexusmods.com/shadowkey/mods/5"
 mirror: 
-file-size: "1.3 mB"
+file-size: "219.1 kB"
 quote: |
     Розробник: [Vanessa Summers](https://x.com/VSummersNTPS)\
-    Версія: 1.0.5\
+    Версія: 0.11\
     Контейнер: .zip\
     Сумісність: n-gage, n-gage qd.
 ---
