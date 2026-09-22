@@ -1,1 +1,14 @@
+---
+title: "Tomb Raider Loader"
+screenshot: "/n-gage/extras/5-1789819795-37924763.png"
+download: "https://www.nexusmods.com/shadowkey/mods/5"
+mirror: 
+file-size: "1.3 mB"
+quote: |
+    Розробник: [Vanessa Summers](https://x.com/VSummersNTPS)\
+    Версія: 1.0.5\
+    Контейнер: .zip\
+    Сумісність: n-gage, n-gage qd.
+---
 
+*через те, як EKA2L1 монтує віртуальну ігрову карту MMC (як доступну лише для читання), цей застосунок несумісний з поточною версією емулятора N-Gage і може використовуватися лише на оригінальному обладнанні Nokia. Потенційним обхідним рішенням було б вручну скопіювати всі файли гри на віртуальний диск E:\
