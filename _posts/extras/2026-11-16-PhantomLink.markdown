@@ -1,6 +1,6 @@
 ---
 title: "PhantomLink"
-screenshot: "/n-gage/extras/5-1789819795-37924763.png"
+screenshot: "/n-gage/extras/"
 download: "https://github.com/ngagesdk/PhantomLink/releases"
 mirror: 
 file-size: "13 mB"
