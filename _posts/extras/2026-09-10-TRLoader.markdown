@@ -1,6 +1,6 @@
 ---
 title: "Tomb Raider Loader"
-screenshot: "/n-gage/extras/5-1789819795-37924763.png"
+screenshot: "/n-gage/extras/"
 download: 
 mirror: "n-gage/extras/TRLoader_v0.11.zip"
 file-size: "219.1 kB"
