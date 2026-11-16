@@ -1,8 +1,8 @@
 ---
 title: "CheatMenu Appears By Default"
-screenshot: "/n-gage/extras/"
+screenshot: "/n-gage/extras/4-1775304617-909285120.jpg"
 download: "https://www.nexusmods.com/shadowkey/mods/4"
-mirror: "n-gage/extras/"
+mirror: "n-gage/extras/ShadowkeyCheatMenuShowsUpByDefault.zip"
 file-size: "2 kB"
 quote: |
     Розробник: [UsefulEejit](https://www.nexusmods.com/profile/UsefulEejit)\
