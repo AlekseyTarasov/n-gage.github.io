@@ -2,7 +2,7 @@
 title: "Ukrainian Text Localisation for Shadowkey"
 screenshot: "/n-gage/extras/5-1789819795-37924763.png"
 download: "https://www.nexusmods.com/shadowkey/mods/5"
-mirror: 
+mirror: "n-gage/extras/Ukrainian_Text_Localisation_for_Shadowkey_1.0.8.zip"
 file-size: "1.3 mB"
 quote: |
     Розробник: [maxandkon](https://www.nexusmods.com/profile/maxandkon)\
