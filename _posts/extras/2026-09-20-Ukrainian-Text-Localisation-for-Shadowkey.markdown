@@ -5,8 +5,8 @@ download: "https://www.nexusmods.com/shadowkey/mods/5"
 mirror: 
 file-size: "1.3 mB"
 quote: |
-    Розробник: [Torus Games](https://www.torus.com.au)\
-    Версія: 1.0.5\
+    Розробник: [maxandkon](https://www.nexusmods.com/profile/maxandkon)\
+    Версія: 1.0.8\
     Контейнер: .zip\
     Сумісність: n-gage, n-gage qd.
 ---
