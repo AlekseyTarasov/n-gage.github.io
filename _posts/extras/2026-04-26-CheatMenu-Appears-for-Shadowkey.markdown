@@ -14,4 +14,4 @@ quote: |
 
 {:.img-center}
 ![Shadowkey](/n-gage/extras/4-1775304607-1049971390.jpg)
-![Shadowkey](/n-gage/extras/4-1775304613-1002865405.jpg))
+![Shadowkey](/n-gage/extras/4-1775304613-1002865405.jpg)
