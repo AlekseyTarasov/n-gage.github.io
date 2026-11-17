@@ -20,7 +20,8 @@ quote: |
 
 <b>PhantomLink</b> також відновлює роботу N-Gage Arena, яка була закрита у 2010 році та онлайн-функції інших ігор, що мали власні сервери.
 
-Scrshot1.jpg
+{:.img-center}
+![PhantomLink](/n-gage/extras/Scrshot21.jpg)
 
 <b>Особливості:</b>
 * Онлайн-мультиплеєр для ігор N-Gage, які спочатку використовували Bluetooth.
