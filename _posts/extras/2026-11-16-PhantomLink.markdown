@@ -1,6 +1,6 @@
 ---
 title: "PhantomLink"
-screenshot: "/n-gage/extras/"
+screenshot: "/n-gage/extras/Scrshot.jpg"
 download: "https://github.com/ngagesdk/PhantomLink/releases"
 mirror: 
 file-size: "13 mB"
@@ -19,6 +19,8 @@ quote: |
 невеликий допоміжний пристрій, так званий міст, підключається до вашого N-Gage через Bluetooth і передає ігрові дані на сервер PhantomLink, який з’єднує вас з іншими гравцями. Міст може бути телефоном на базі Android, ПК, або дев бордом ESP32.
 
 <b>PhantomLink</b> також відновлює роботу N-Gage Arena, яка була закрита у 2010 році та онлайн-функції інших ігор, що мали власні сервери.
+
+Scrshot1.jpg
 
 <b>Особливості:</b>
 * Онлайн-мультиплеєр для ігор N-Gage, які спочатку використовували Bluetooth.
